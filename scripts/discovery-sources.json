@@ -1,0 +1,128 @@
+[
+  {
+    "source": "RentHub",
+    "station": "ลุมพินี",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ลุมพินี",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "ลุมพินี",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ลุมพินี",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "ลุมพินี",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ลุมพินี/",
+    "parser": "hongpak"
+  },
+  {
+    "source": "RentHub",
+    "station": "คลองเตย",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-คลองเตย",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "คลองเตย",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-คลองเตย",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "คลองเตย",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-คลองเตย/",
+    "parser": "hongpak"
+  },
+  {
+    "source": "RentHub",
+    "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์/",
+    "parser": "hongpak"
+  },
+  {
+    "source": "RentHub",
+    "station": "สามย่าน",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สามย่าน",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "สามย่าน",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สามย่าน",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "สามย่าน",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สามย่าน/",
+    "parser": "hongpak"
+  },
+  {
+    "source": "RentHub",
+    "station": "สีลม",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สีลม",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "สีลม",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สีลม",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "สีลม",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สีลม/",
+    "parser": "hongpak"
+  },
+  {
+    "source": "RentHub",
+    "station": "หัวลำโพง",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-หัวลำโพง",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "หัวลำโพง",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-หัวลำโพง",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "หัวลำโพง",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-หัวลำโพง/",
+    "parser": "hongpak"
+  },
+  {
+    "source": "RentHub",
+    "station": "สุขุมวิท",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สุขุมวิท",
+    "parser": "renthub"
+  },
+  {
+    "source": "RentHub",
+    "station": "สุขุมวิท",
+    "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สุขุมวิท",
+    "parser": "renthub"
+  },
+  {
+    "source": "Hongpak",
+    "station": "สุขุมวิท",
+    "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สุขุมวิท/",
+    "parser": "hongpak"
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "updatedAt": "2026-11-06T05:00:08+00:00",
+  "sources": [
+    {
+      "id": "renthub",
+      "name": "RentHub",
+      "url": "https://www.renthub.in.th",
+      "domain": "renthub.in.th",
+      "mode": "structured",
+      "description": "อพาร์ตเมนต์และหอพัก มีช่องราคา 1 / 3 / 6 เดือน",
+      "accessNote": "ตรวจประกาศที่เก็บไว้และค้นพบจากหน้ารวมทั้ง 7 สถานี โดยเคารพ robots.txt",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "hongpak",
+      "name": "Hongpak",
+      "url": "https://www.hongpak.in.th",
+      "domain": "hongpak.in.th",
+      "mode": "metadata",
+      "description": "หอพัก อพาร์ตเมนต์ และประกาศเจ้าของ มีช่องขั้นต่ำสัญญา",
+      "accessNote": "ตรวจ metadata ประกาศที่เก็บไว้ และค้นเบาะแสจากหน้ารวมสาธารณะ",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "thaiapartment",
+      "name": "ThaiApartment",
+      "url": "https://www.thaiapartment.com",
+      "domain": "thaiapartment.com",
+      "mode": "metadata",
+      "description": "หอพัก อพาร์ตเมนต์ และข้อมูลโครงการ",
+      "accessNote": "อ่าน metadata ประกาศที่เก็บไว้เมื่อเข้าถึงได้; สัญญาและราคาแยกต้องตรวจทาน",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "propertyhub",
+      "name": "PropertyHub",
+      "url": "https://propertyhub.in.th",
+      "domain": "propertyhub.in.th",
+      "mode": "metadata",
+      "description": "คอนโดและประกาศรายห้อง",
+      "accessNote": "รองรับตรวจ metadata ของลิงก์ที่เพิ่ม; ยังไม่มีตัวค้นพบรายสถานีอัตโนมัติ",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "livinginsider",
+      "name": "LivingInsider",
+      "url": "https://www.livinginsider.com",
+      "domain": "livinginsider.com",
+      "mode": "metadata",
+      "description": "คอนโดและห้องที่รับสัญญารายเดือน",
+      "accessNote": "บางหน้าจำกัดการเข้าถึงอัตโนมัติ เก็บข้อผิดพลาดโดยไม่อ้างว่าห้องเต็ม",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "ddproperty",
+      "name": "DDproperty",
+      "url": "https://www.ddproperty.com",
+      "domain": "ddproperty.com",
+      "mode": "manual",
+      "description": "คอนโดและอพาร์ตเมนต์ ทั้งเจ้าของและตัวแทน",
+      "accessNote": "ค้นผ่านดัชนีเว็บสาธารณะ; สัญญาส่วนใหญ่ต้องเปิดประกาศตรวจ",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "hipflat",
+      "name": "Hipflat",
+      "url": "https://www.hipflat.co.th",
+      "domain": "hipflat.co.th",
+      "mode": "manual",
+      "description": "ประกาศคอนโดจากหลายตัวแทน",
+      "accessNote": "ต้องตรวจประกาศซ้ำ รหัสยูนิต และขั้นต่ำสัญญา",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "zmyhome",
+      "name": "ZmyHome",
+      "url": "https://zmyhome.com",
+      "domain": "zmyhome.com",
+      "mode": "manual",
+      "description": "ประกาศเจ้าของและข้อมูลโครงการ",
+      "accessNote": "ชื่อโครงการลุมพินีมีหลายทำเล ต้องตรวจว่าอยู่ใน 7 สถานีนี้จริง",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "dotproperty",
+      "name": "Dot Property",
+      "url": "https://www.dotproperty.co.th",
+      "domain": "dotproperty.co.th",
+      "mode": "manual",
+      "description": "คอนโดและอพาร์ตเมนต์จากเจ้าของ/ตัวแทน",
+      "accessNote": "บางรายการระบุเช่าระยะยาวเท่านั้น ไม่ใช้ราคาเหล่านั้นเป็นเช่าสั้น",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "kaidee",
+      "name": "Kaidee Property",
+      "url": "https://baan.kaidee.com",
+      "domain": "baan.kaidee.com",
+      "mode": "manual",
+      "description": "ประกาศเจ้าของและห้องเก่าในพื้นที่",
+      "accessNote": "ตรวจวันผู้ประกาศอัปเดตทุกครั้ง มีประกาศที่ยังอยู่บนเว็บหลายปี",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "ennxo",
+      "name": "ENNXO",
+      "url": "https://www.ennxo.com",
+      "domain": "ennxo.com",
+      "mode": "manual",
+      "description": "คอนโดและประกาศเจ้าของ",
+      "accessNote": "ค้นข้อมูลสาธารณะ ยังไม่มีห้องเพิ่มที่ยืนยันสัญญาสั้นครบเงื่อนไข",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "condothai",
+      "name": "CondoThai",
+      "url": "https://www.condothai.co.th",
+      "domain": "condothai.co.th",
+      "mode": "manual",
+      "description": "มีตัวเลือกระยะสัญญา 1 / 3 / 6 / 12 เดือน",
+      "accessNote": "ระยะที่แพลตฟอร์มแสดงไม่ใช่ระยะเดิน ต้องตรวจเส้นทางแยก",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "owner",
+      "name": "เว็บไซต์ / เพจเจ้าของ",
+      "url": null,
+      "domain": null,
+      "mode": "manual",
+      "description": "ใช้ยืนยันเงื่อนไขและเทียบชื่ออาคาร",
+      "accessNote": "ค้นสาธารณะตามชื่ออาคาร ไม่มีการส่งข้อความหรือติดต่อเจ้าของ",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook / Marketplace",
+      "url": "https://www.facebook.com",
+      "domain": "facebook.com",
+      "mode": "manual",
+      "description": "โพสต์สาธารณะ เพจ และกลุ่มที่เปิดอ่านได้",
+      "accessNote": "ยังไม่ได้เข้าถึงโพสต์ที่ต้องล็อกอินหรือกลุ่มปิด และไม่มี crawler ของ Facebook",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "9apartment",
+      "name": "9Apartment",
+      "url": "https://www.9apartment.com",
+      "domain": "9apartment.com",
+      "mode": "manual",
+      "description": "แหล่งค้นหาหอพักและอพาร์ตเมนต์เพิ่มเติม",
+      "accessNote": "ค้นผ่านดัชนีสาธารณะ; ยังไม่ยืนยันห้องใหม่ตรงเงื่อนไข",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "thaihometown",
+      "name": "Thaihometown",
+      "url": "https://www.thaihometown.com",
+      "domain": "thaihometown.com",
+      "mode": "manual",
+      "description": "ประกาศที่พักจากเจ้าของและตัวแทนเพิ่มเติม",
+      "accessNote": "ต้องตรวจราคา สัญญา และประกาศซ้ำก่อนนำเข้าแค็ตตาล็อก",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "propertyscout",
+      "name": "PropertyScout",
+      "url": "https://propertyscout.co.th",
+      "domain": "propertyscout.co.th",
+      "mode": "manual",
+      "description": "คอนโดและอพาร์ตเมนต์พร้อมรหัสยูนิต",
+      "accessNote": "ราคาที่พบมักเกินงบหรือเป็นเช่าระยะยาว จึงยังไม่เพิ่มเป็นตัวเลือกตรงเกณฑ์",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    },
+    {
+      "id": "fazwaz",
+      "name": "FazWaz",
+      "url": "https://www.fazwaz.co.th",
+      "domain": "fazwaz.co.th",
+      "mode": "manual",
+      "description": "คอนโดและห้องจากตัวแทนเพิ่มเติม",
+      "accessNote": "ต้องแยกราคาเช่าระยะยาวออกจากราคาเช่ารายเดือน",
+      "searchedAt": "2026-11-06T05:00:08+00:00"
+    }
+  ]
+}

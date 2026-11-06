@@ -1,0 +1,3700 @@
+{
+  "schemaVersion": 1,
+  "title": "NEAR ONE",
+  "generatedAt": "2026-11-06T05:22:25+00:00",
+  "lastRun": {
+    "startedAt": "2026-11-06T05:22:25+00:00",
+    "finishedAt": "2026-11-06T05:22:36+00:00",
+    "success": 53,
+    "failed": 0,
+    "discoverySuccess": 21,
+    "discoveryFailed": 0
+  },
+  "schedule": {
+    "state": "active",
+    "frequency": "hourly",
+    "note": "GitHub Actions"
+  },
+  "properties": [
+    {
+      "id": "ps-house",
+      "name": "PS House · ซอยสะพานคู่",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 15,
+      "offers": [
+        {
+          "months": 6,
+          "price": 5400
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/ห้องว่างให้เช่า--3d450511",
+      "sourceName": "RentHub",
+      "rank": 0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "six",
+      "availability": "future",
+      "fees": {
+        "deposit": null,
+        "advance": "1 เดือน ตามแบบฟอร์มประกาศ",
+        "electric": "5 บาท/หน่วย + ค่าบำรุงมิเตอร์ 3 บาท (ฐานคำนวณไม่ชัด)",
+        "water": "150 บาท/เดือน/คน",
+        "service": "ยังไม่ระบุ",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ข้อมูลสด 5 พ.ย.: ผู้ประกาศเปลี่ยนห้องว่าง 30 พ.ย. เป็นห้อง 15 ตร.ม. ไม่มีหน้าต่าง ไม่มีระเบียง ชั้น 3 ราคา 5,400 บาท สัญญา 6 เดือนขึ้นไป",
+        "ห้อง 20 ตร.ม. ชั้น 4 ราคา 5,900 บาทยังอยู่ในรายละเอียด แต่ไม่ได้ยืนยันวันว่างของห้องนี้",
+        "หน้าอังกฤษเคยระบุ 1–2 เดือน 8,500–9,500 บาท เป็นข้อมูลเก่า ต้องสอบถามราคาและห้องปัจจุบัน",
+        "ไม่มีลิฟต์ ไม่มีที่จอดรถยนต์"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้งประมาณ 500 ม. ถึงประตู 1",
+      "oneBangkok": "ผู้ประกาศแจ้งประมาณ 400–500 ม. ยังไม่ใช่ระยะเดินที่ยืนยัน",
+      "posterUpdated": "2026-11-05T12:06:58.016Z",
+      "availableFrom": "2026-11-30",
+      "address": "ซอยสะพานคู่ ถนนพระราม 4",
+      "subtitle": "อยู่ย่านพระราม 4 ตรงข้าม One Bangkok",
+      "floor": "3",
+      "sourceFingerprint": "2793695061397131c37312b9a0c2bd2fd3bc19fdf9668b32e994e70181b9d525",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/ps-house-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202207/20220730/4jkxcm3qjyYEVHU83uWh.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/ps-house-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202207/20220730/9tS3RtEnbYZ29Kw7hVzZ.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/ps-house-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202207/20220730/Zpv2j34Fc6hzrqinQZjA.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "15249",
+      "additionalSources": [
+        {
+          "name": "RentHub · อีกชื่อประกาศของ PS House",
+          "url": "https://www.renthub.in.th/สะพานคู่-พีเอสเฮาส์",
+          "listingId": "70059"
+        }
+      ]
+    },
+    {
+      "id": "ua-amornsuk",
+      "name": "เอื้ออมรสุข · สุขุมวิท 22",
+      "kind": "condo",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 23,
+      "offers": [
+        {
+          "months": 1,
+          "price": 10000
+        }
+      ],
+      "sourceUrl": "https://www.livinginsider.com/detail/condo-for-rent-khlongtoei-kluaynamthai-studio-3168985",
+      "sourceName": "LivingInsider",
+      "rank": 1,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "short",
+      "availability": "future",
+      "fees": {
+        "deposit": null,
+        "advance": null,
+        "electric": "ยังไม่ระบุ",
+        "water": "ยังไม่ระบุ",
+        "service": "ต้องยืนยันว่าทำความสะอาดรวมในค่าเช่าหรือไม่"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "ตู้เย็น",
+        "เครื่องซักผ้า",
+        "เครื่องทำน้ำอุ่น"
+      ],
+      "notes": [
+        "สัญญา 1 เดือน 10,000 บาทระบุชัดในประกาศ",
+        "ราคาสัญญา 3–4 เดือนยังไม่ระบุ",
+        "สร้างประกาศ 31 ก.ค. 2569; ดันประกาศ 9 ต.ค. 2569"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้งเดิน 5 นาที ยังไม่ทราบระยะเป็นเมตร",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้าสู่ One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-09",
+      "availableFrom": "2026-12-06",
+      "floor": "8",
+      "address": "สุขุมวิท 22 ฝั่งพระราม 4",
+      "subtitle": "ห้องส่วนตัว พร้อมบริการทำความสะอาดรายสัปดาห์",
+      "checkStatus": "ok",
+      "checkError": null,
+      "lastAttemptAt": "2026-11-06T05:04:19+00:00",
+      "photos": [
+        {
+          "url": "assets/ua-amornsuk-0.jpg",
+          "sourceUrl": "https://image.livinginsider.com/upload/topic3329/de14f91cf5ce0999c323ee5a05120f01.jpeg",
+          "credit": "LivingInsider"
+        }
+      ],
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00"
+    },
+    {
+      "id": "freesia",
+      "name": "ฟรีเซีย เกสเฮ้าส์ · ศาลาแดง",
+      "kind": "apartment",
+      "station": "สีลม",
+      "stops": 1,
+      "size": 20,
+      "offers": [
+        {
+          "months": 1,
+          "price": 9000,
+          "servicePercent": 3
+        }
+      ],
+      "sourceUrl": "https://www.thaiapartment.com/apartment/freesia-guesthouse-saladaeng-bangrak-6367",
+      "sourceName": "ThaiApartment",
+      "rank": 2,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "lead",
+      "availability": "unconfirmed",
+      "fees": {
+        "deposit": null,
+        "advance": null,
+        "electric": "ประกาศเดิมระบุรวมในค่าเช่า",
+        "water": "ประกาศเดิมระบุรวมในค่าเช่า",
+        "service": "3% ของค่าเช่า ตามหน้าอังกฤษ",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ราคารายเดือน 9,000 + บริการ 3% = 9,270 บาท หากราคาเดิมยังใช้ได้",
+        "ThaiApartment ไม่แสดงวันที่อัปเดต; RentHub อัปเดต 29 ต.ค. 2565 และ Hongpak 29 ก.ย. 2563",
+        "ยังไม่ยืนยันห้องน้ำในตัวของห้องราคา 9,000 บาท",
+        "เว็บไซต์จองโรงแรมอาจใช้ชื่อ 33 SALADAENG ต้องยืนยันว่าเงื่อนไขรายเดือนเดิมยังใช้ได้"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้งเดิน 5 นาที; Hongpak แสดง 200 ม. (ไม่ใช่ระยะเดินที่ยืนยัน)",
+      "oneBangkok": "RentHub แสดง 740 ม. ไม่ใช่ระยะเดินจริง",
+      "address": "33 ซอยยมราช ถนนศาลาแดง",
+      "posterUpdated": null,
+      "subtitle": "เบาะแสเช่ารายเดือน รวมค่าน้ำและค่าไฟ",
+      "sourceFingerprint": "a783b9a81aefaf03c240be219464229c1f2aec032b45fb5dcf1ae1e69299c412",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/freesia-0.jpg",
+          "sourceUrl": "https://images.thaiapartment.com/Apartment/6367/freesia-guesthouse-saladaeng_ext01.jpg",
+          "credit": "ThaiApartment"
+        },
+        {
+          "url": "assets/freesia-1.jpg",
+          "sourceUrl": "https://images.thaiapartment.com/Apartment/6367/freesia-guesthouse-saladaeng_ext02.jpg",
+          "credit": "ThaiApartment"
+        },
+        {
+          "url": "assets/freesia-2.jpg",
+          "sourceUrl": "https://images.thaiapartment.com/Apartment/6367/freesia-guesthouse-saladaeng_ext03.jpg",
+          "credit": "ThaiApartment"
+        }
+      ]
+    },
+    {
+      "id": "sunflower",
+      "name": "ซันฟลาวเวอร์ เพลส · สีลม",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 21.5,
+      "offers": [],
+      "sourceUrl": "https://www.hongpak.in.th/rooms/42001-sunflower-place",
+      "sourceName": "Hongpak",
+      "rank": 3,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "lead",
+      "availability": "unconfirmed",
+      "fees": {
+        "deposit": null,
+        "advance": "1 เดือนตาม RentHub",
+        "electric": "ยังไม่ระบุ",
+        "water": "RentHub ระบุ 100 บาท/ห้อง/เดือน",
+        "service": "ยังไม่ระบุ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "Hongpak ระบุขั้นต่ำ 1 เดือน แต่ประกาศเก่า",
+        "RentHub ระบุ 9,000–9,800 บาทในคอลัมน์สัญญา 1 ปี จึงยังใช้เป็นราคาเช่าสั้นไม่ได้",
+        "ห้อง 8,000 บาทใน RentHub ระบุเต็ม ห้องประเภทอื่นระบุว่างแต่ยังไม่ยืนยันกับเจ้าของ"
+      ],
+      "walkingClaim": "เว็บแสดง 450–600 ม. ถึงสามย่าน ยังไม่ใช่ระยะเดินจริง",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-02-05",
+      "address": "39/17–19 ซอยอนุมานราชธน ถนนสุรวงศ์",
+      "indicativePrice": 9000,
+      "subtitle": "ห้องส่วนตัวในย่านสุรวงศ์ ใกล้สามย่านและสีลม",
+      "sourceFingerprint": "5b95ba5580866d049d2e9367e0f131b010cf3e5c93ed9699213558f1c1b85954",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/sunflower-0.jpg",
+          "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/20/0811/160353_3696.jpg",
+          "credit": "Hongpak"
+        }
+      ]
+    },
+    {
+      "id": "arni-hexa",
+      "name": "อานี เฮ็กซ่า · สามย่าน",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 15,
+      "offers": [
+        {
+          "months": 1,
+          "price": 12000,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 3,
+          "price": 11000,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 6,
+          "price": 10000,
+          "evidence": "explicit_short_term_field"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/อานี-เฮ็กซ่า-ซอยหน้าวัดหัวลำโพง-ใกล้สถานีรถไฟฟ้าใต้ดินสามย่าน",
+      "sourceName": "RentHub",
+      "rank": 4,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "six",
+      "availability": "advertised",
+      "fees": {
+        "deposit": null,
+        "advance": "ไม่มีเงินล่วงหน้าตามประกาศ",
+        "electric": "ยังไม่ระบุ",
+        "water": "ยังไม่ระบุ",
+        "service": "ยังไม่ระบุ",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "เฉพาะสัญญา 6 เดือนอยู่ในงบ 10,000 บาท",
+        "ห้องน้ำในตัวของห้องเช่าระยะยาวต้องยืนยัน",
+        "สถานะว่างเป็นข้อความในประกาศ ไม่ใช่การยืนยันจากเจ้าของ"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้งเดิน 2 นาที; เว็บแสดง 170 ม.",
+      "oneBangkok": "เว็บแสดงประมาณ 1.6 กม. ไม่ใช่ระยะเดินจริง; MRT 2 สถานี",
+      "posterUpdated": "2026-07-22T03:46:42.281Z",
+      "address": "ซอยหน้าวัดหัวลำโพง ถนนสุรวงศ์",
+      "subtitle": "ที่พักสไตล์บูทิค เดินทางผ่าน MRT สามย่าน",
+      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "sourceFingerprint": "a28f45bbd6b076a750a1448671670c4f647ffac9703a9877c7b34dc820d6acce",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/arni-hexa-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202604/20260415/2WDbzVNQzywHaCyM7o7T.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/arni-hexa-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202604/20260415/YwbJ4gx9jgsecV73bsQi.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/arni-hexa-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202604/20260415/74dVaRBmJUPKZdd28X19.jpg",
+          "credit": "RentHub"
+        }
+      ]
+    },
+    {
+      "id": "bavana",
+      "name": "บาวาน่า · สุรวงศ์–สีลม",
+      "kind": "apartment",
+      "station": "สีลม",
+      "stops": 1,
+      "size": 25,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/en/bavana-surawong-silom-start-9-000baht-near-chula-surawong-silom-bts-saladaeng-mrt-silom-mrt-samyan",
+      "sourceName": "RentHub",
+      "rank": 5,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "lead",
+      "availability": "unconfirmed",
+      "fees": {
+        "deposit": null,
+        "advance": null,
+        "electric": "ไม่รวมในค่าเช่า ยังไม่ทราบอัตรา",
+        "water": "รายละเอียดระบุรวม แต่ต้องยืนยันราคาโปร",
+        "service": "ยังไม่ระบุ",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ThaiApartment เคยแสดงโปรขั้นต่ำ 1 เดือน 10,000 บาท แต่เนื้อหาอื่นระบุ 18,000–22,000 บาท",
+        "ยังไม่ยืนยันว่ามีห้องโปรในงบ จึงไม่มีราคาเช่าสั้นที่ใช้จัดอันดับได้"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้ง 650 ม. ถึงสีลม หรือ 550 ม. ถึงสามย่าน",
+      "oneBangkok": "MRT สีลม 1 สถานีถึงลุมพินี; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-11-04T06:29:33.013Z",
+      "address": "ซอยธนิยะ 2 ถนนสุรวงศ์",
+      "indicativePrice": 10000,
+      "subtitle": "มีเบาะแสโปรรายเดือน แต่ราคาในแต่ละหน้าต่างกัน",
+      "sourceFingerprint": "a233eb9cc90baa3311428ec81cdfc3f19fb040de3996ab339c3c401a89eea57b",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/bavana-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201706/20170630/GsGCUGWDmLNvsvYytN5a.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/bavana-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201706/20170630/829T2GUMHciZTAwu8cAN.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/bavana-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201706/20170630/TbQMUoLxmwUbTetA89ky.jpg",
+          "credit": "RentHub"
+        }
+      ]
+    },
+    {
+      "id": "bhome",
+      "name": "BHOME Living · MRT ลุมพินี",
+      "kind": "capsule",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 3,
+      "offers": [
+        {
+          "months": 1,
+          "price": 6300,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 3,
+          "price": 5800,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 6,
+          "price": 4800,
+          "evidence": "explicit_short_term_field"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/new-bhome-living-mrt-lumpini-แคปซูลญี่ปุ่นส่วนตัว-150ม-ถึง-one-bangkok",
+      "sourceName": "RentHub",
+      "rank": 6,
+      "bathroom": "shared",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "alternative",
+      "availability": "advertised",
+      "fees": {
+        "deposit": 5000,
+        "advance": "1 เดือน",
+        "electric": "รวมในค่าเช่า",
+        "water": "รวมในค่าเช่า",
+        "service": "ยังไม่ระบุ",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "เป็นแคปซูลขนาด 3 ตร.ม. ไม่ใช่ห้องพักส่วนตัวพร้อมห้องน้ำ",
+        "เงินแรกเข้าสัญญา 1 เดือนประมาณ 11,300 บาทก่อนค่าบริการอื่น"
+      ],
+      "walkingClaim": "เว็บแสดงประมาณ 270–340 ม. ไม่ใช่ระยะเดินจริง",
+      "oneBangkok": "ชื่อประกาศแจ้ง 150 ม. ยังไม่ยืนยันระยะเดิน",
+      "posterUpdated": "2026-11-04T02:11:43.753Z",
+      "address": "ซอยงามดูพลี ถนนพระราม 4",
+      "subtitle": "ทางเลือกแคปซูล แยกจากห้องพักส่วนตัว",
+      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "sourceFingerprint": "144ac5a56476bf870c17fec20fa0b7b06fcac07958c3fd5ef9affc6e166c8c46",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/bhome-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202603/20260304/xwiGKN1evwRq2P2Vjzpg.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/bhome-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202603/20260304/YZ9s4hdRC1KEqkMF3QAF.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/bhome-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202603/20260304/KiQQuM1WVbUp2GSf6tPi.jpg",
+          "credit": "RentHub"
+        }
+      ]
+    },
+    {
+      "id": "best-living",
+      "name": "เบสท์ ลิฟวิ่ง เฮ้าส์ · สาทร",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 18,
+      "offers": [
+        {
+          "months": 3,
+          "price": 3500,
+          "unconfirmed": true
+        }
+      ],
+      "sourceUrl": "https://www.hongpak.in.th/rooms/4639",
+      "sourceName": "Hongpak",
+      "rank": 7,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "lead",
+      "availability": "unconfirmed",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "10 บาท/หน่วยตามประกาศเดิม",
+        "water": "150 บาท/คน/เดือน",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ThaiApartment ระบุขั้นต่ำ 3 เดือน ราคา 3,500–4,000 บาท แต่ยังไม่ยืนยันราคาปัจจุบัน",
+        "ระยะเดินมีโอกาสเกินเกณฑ์ ต้องตรวจทางเข้าจริงก่อนเลือก"
+      ],
+      "walkingClaim": "RentHub แสดงประมาณ 680 ม. ยังไม่ใช่ระยะเดินจริง",
+      "oneBangkok": "เว็บแสดงประมาณ 990 ม. ไม่ใช่ระยะเดินจริง",
+      "posterUpdated": "2024-08-29",
+      "address": "ซอยงามดูพลี สาทร 1 ถนนพระราม 4",
+      "subtitle": "เบาะแสราคาประหยัด ต้องยืนยันราคาและห้องปัจจุบัน",
+      "sourceFingerprint": "8e1e91296c1105348fd58bea1bab5d822931b368035f5efcff99c6161cb147b6",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/best-living-0.jpg",
+          "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/20/1020/best-living-house_6476.jpeg",
+          "credit": "Hongpak"
+        }
+      ]
+    },
+    {
+      "id": "baan-sukjai",
+      "name": "บ้านสุขใจ · ลุมพินี",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 18,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านสุขใจ-ลุมพินี",
+      "sourceName": "RentHub",
+      "rank": 8,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "lead",
+      "availability": "unconfirmed",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ",
+        "water": "ยังไม่ระบุ",
+        "internet": "ฟรี"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ราคา 5,000–6,500 บาทไม่ระบุราคาระยะสั้น จึงเป็นเบาะแสสำหรับสอบถาม",
+        "Hongpak ระบุขั้นต่ำ 6 เดือน แต่ยังต้องยืนยันราคาที่ใช้กับสัญญา 6 เดือน"
+      ],
+      "walkingClaim": "เว็บแสดง 290 ม. ไม่ใช่ระยะเดินจริง",
+      "oneBangkok": "ยังไม่ยืนยันระยะเดิน",
+      "posterUpdated": "2026-09-04T23:48:30.215Z",
+      "address": "ถนนพระราม 4",
+      "indicativePrice": 5000,
+      "subtitle": "ราคาในงบ แต่ยังไม่ทราบสัญญาเช่าสั้น",
+      "sourceFingerprint": "824edc8baac265ff2bbb4ada36016c654f4bfabe91a931131305c5a1e56debf8",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/baan-sukjai-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202109/20210920/JPVd8AqTv8uq84AEk2Rt.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/baan-sukjai-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202109/20210920/M3ZRN5m7k5vLUXXscgc4.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/baan-sukjai-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202109/20210920/9HPzTdSTLTGHGYoEzQDz.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "additionalSources": [
+        {
+          "name": "Hongpak · ขั้นต่ำ 6 เดือน",
+          "url": "https://www.hongpak.in.th/rooms/26821"
+        }
+      ],
+      "minLeaseMonths": 6
+    },
+    {
+      "id": "saen-sangob",
+      "name": "ห้องพักแสนสงบ · คลองเตย",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 19,
+      "offers": [
+        {
+          "months": 1,
+          "price": 4500,
+          "maxPrice": 5000,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 3,
+          "price": 4500,
+          "maxPrice": 5000,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 6,
+          "price": 4500,
+          "maxPrice": 5000,
+          "evidence": "explicit_short_term_field"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/ห้องพักแสนสงบ",
+      "sourceName": "RentHub",
+      "rank": 9,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ",
+        "water": "ยังไม่ระบุ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ทุกประเภทห้องระบุเต็ม",
+        "ประกาศมีเฉพาะช่วงว่าง 2–16 พ.ย. 2569 ระยะ 15 วัน 2,500 บาท ยังไม่ใช่ห้องว่างรายเดือน"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้งเดิน 10 นาที; เว็บแสดง 370 ม. (ไม่ใช่ระยะเดิน)",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี",
+      "posterUpdated": "2026-10-25T04:46:35.943Z",
+      "address": "ซอยเจริญสุข ถนนพระราม 4",
+      "subtitle": "เก็บเป็นรายการติดตาม เมื่อมีห้องว่างรายเดือน",
+      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "sourceFingerprint": "993be200d450082587c82a8cd74dad91c57360483aa80a0f7b422116aa053b43",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/saen-sangob-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202012/20201211/iwY1q3M21sm6U6DmTfSL.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/saen-sangob-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202012/20201211/5X7P5qdySq54eguvdzgN.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/saen-sangob-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202012/20201211/inYHar2dqvk1s8aW3vZQ.jpg",
+          "credit": "RentHub"
+        }
+      ]
+    },
+    {
+      "id": "baan-sabai",
+      "name": "บ้านสบาย · พระราม 4",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 18,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านสบายพระรามสี่-สาทร-900-ม-จาก-ลุมพินีmrt",
+      "sourceName": "RentHub",
+      "rank": 10,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "20 บาท/หน่วย"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ห้อง 8,000–9,000 บาทระบุเต็ม และเป็นคอลัมน์รายปี",
+        "ระยะ 900 ม. เกินเกณฑ์ จึงไม่เสนอเป็นตัวเลือกตรงเงื่อนไข"
+      ],
+      "walkingClaim": "ชื่อประกาศระบุ 900 ม. ถึง MRT ลุมพินี",
+      "oneBangkok": "ยังไม่ยืนยันระยะเดิน",
+      "posterUpdated": "2026-10-29T04:16:33.926Z",
+      "address": "ซอยศรีบำเพ็ญ",
+      "indicativePrice": 8000,
+      "subtitle": "ห้องในงบระบุเต็ม และไกลกว่าเกณฑ์หลัก",
+      "sourceFingerprint": "290a00af35ff5825a082cee5d0b59bfa9f1a22e625a116988da68411f7eecd06",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/baan-sabai-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201609/20160912/jPh6WkXmKh6QohFtmePJ.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/baan-sabai-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202002/20200203/Bj1DbK1nzp7xtmyg9Qt6.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/baan-sabai-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202207/20220719/gkYLH8YMCWKttCMXujuU.jpg",
+          "credit": "RentHub"
+        }
+      ]
+    },
+    {
+      "id": "banthatthong",
+      "name": "The Banthatthong Hommie 1266",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 18,
+      "offers": [
+        {
+          "months": 1,
+          "price": 8000,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 3,
+          "price": 8000,
+          "evidence": "explicit_short_term_field"
+        },
+        {
+          "months": 6,
+          "price": 8000,
+          "evidence": "explicit_short_term_field"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/the-banthatthong-hommie-1266",
+      "sourceName": "RentHub",
+      "rank": 11,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-05",
+      "category": "excluded",
+      "availability": "unconfirmed",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "200 บาท/คน/เดือน",
+        "internet": "200 บาท/เดือน"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ระยะที่เว็บแสดงเกิน 800 ม. จึงไม่อยู่ในตัวเลือกตามเงื่อนไข แม้รับเช่าระยะสั้น"
+      ],
+      "walkingClaim": "เว็บแสดงประมาณ 1.1 กม. ถึง MRT หัวลำโพง",
+      "oneBangkok": "ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-29T07:11:17.083Z",
+      "address": "ถนนบรรทัดทอง",
+      "subtitle": "สัญญาเช่าสั้นในงบ แต่ไกลสถานีเกินเกณฑ์",
+      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "sourceFingerprint": "55db4b47ada12270123699c06a22269ed393ea3b4ca59b0c293d8f80e981d49f",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "photos": [
+        {
+          "url": "assets/banthatthong-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202608/20260814/haXQGcqyrcKCKEURs1a3.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/banthatthong-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202608/20260814/tgAYCpuKaiHks2916RHz.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/banthatthong-2.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202608/20260814/vYcUNNAGVJjQ7Ep2QqGp.jpg",
+          "credit": "RentHub"
+        }
+      ]
+    },
+    {
+      "id": "rh-39888",
+      "name": "ศรีบำเพ็ญ อพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 24,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ศรีบำเพ็ญ-อพาร์ทเม้นท์",
+      "sourceName": "RentHub",
+      "rank": 15.969999999999999,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 597,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 597 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2026-10-09T03:54:52.605Z",
+      "address": "32/1 ศรีบำเพ็ญ พระราม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 4000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-39888-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201710/20171019/GCCNSKh6PwKpt31Dw3xo.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-39888-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201710/20171019/4jombMs6p3s1dNbcmEKL.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "39888",
+      "sourceFingerprint": "5c41cd5475d479f51a5d18c0a04ebede3d07cce6997501f3ef8ac06ffb7d0f50",
+      "checkError": null
+    },
+    {
+      "id": "rh-60939",
+      "name": "เบสท์ สิริ",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 21,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/เบสท์-สิริ--3",
+      "sourceName": "RentHub",
+      "rank": 15.99,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 599,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "150 บาท/คน/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 599 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2026-11-06T03:52:06.087Z",
+      "address": "34/11-12 ศรีบำเพ็ญ34 พระราม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 5000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-60939-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202210/20221028/ABJyJpbkyBgLNbHRsQfF.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-60939-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202111/20211104/JpQ89SP1xB8HALiRAUsG.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "60939",
+      "sourceFingerprint": "9eacaeee3ba3bdf4d187f00f8b06f833b947ce244bcc50ec15460957b7e18b77",
+      "checkError": null
+    },
+    {
+      "id": "rh-54218",
+      "name": "บ้านสุขใจ 1",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 14,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านสุขใจ-1",
+      "sourceName": "RentHub",
+      "rank": 15.129999999999999,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 513,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "คนละอาคารกับบ้านสุขใจ ลุมพินี: ที่อยู่นี้ 35/5 ซอยงามดูพลี",
+        "มีห้องน้ำในตัวตามคำบรรยาย แต่ขั้นต่ำสัญญาและราคาเช่าสั้นยังไม่ระบุ"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 513 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2026-10-24T04:53:33.322Z",
+      "address": "35/5 งามดูพลี พระรามที่4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 4000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-54218-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202004/20200422/ZEpqPawWB8Mteqb6qPSU.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-54218-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202004/20200422/eKXpfmDqakCqgje874iF.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "54218",
+      "sourceFingerprint": "1618f6836a573e10134c88c847117bd455e1631c7565dc5337aadae33afbc500",
+      "checkError": null
+    },
+    {
+      "id": "rh-46158",
+      "name": "3427 สาทร1",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 36,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/3427-สาทร1",
+      "sourceName": "RentHub",
+      "rank": 15.7,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 570,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "150 บาท/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 570 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2026-09-29T10:17:12.309Z",
+      "address": "34/27 Sribumpen Rama 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 9000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-46158-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201810/20181015/JkW6n2UALzxZ2haqiBkA.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-46158-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202609/20260929/TQdUitnV4ZjNWXWtMbAu.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "46158",
+      "sourceFingerprint": "1a252ccd46075dc559a08b52a9473155f81b99c561f8184c38644e445a88393f",
+      "checkError": null
+    },
+    {
+      "id": "rh-57083",
+      "name": "บ้านสุขใจ  ศรีบำเพ็ญ",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 18,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านสุขใจ-ศรีบำเพ็ญ",
+      "sourceName": "RentHub",
+      "rank": 16.04,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 604,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "10 บาท/หน่วย",
+        "water": "250 บาท/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ"
+      ],
+      "notes": [
+        "คนละอาคารกับบ้านสุขใจ ลุมพินีและบ้านสุขใจ 1: ที่อยู่ 34/15 ศรีบำเพ็ญ",
+        "ขั้นต่ำสัญญาและราคาเช่าสั้นยังไม่ระบุ"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 604 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2026-09-04T23:48:22.581Z",
+      "address": "34/15 ศรีบำเพ็ญ พระรามที่4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 5000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-57083-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202108/20210822/MdkQQ32sCf4b8fjGG3xn.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-57083-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202012/20201202/qMXa39ntkimwh8DQPakT.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "57083",
+      "sourceFingerprint": "9fcf10e00097a907f292ecc08af060545fd09e2f978536e16fa95f185f9ff5f2",
+      "checkError": null
+    },
+    {
+      "id": "rh-39594",
+      "name": "โฮม สวีท โฮม",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": null,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/โฮม-สวีท-โฮม",
+      "sourceName": "RentHub",
+      "rank": 15.01,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 501,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "200 บาท/เดือน",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 501 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2026-06-02T02:16:38.242Z",
+      "address": "27/7 ศรีบำเพ็ญ พระราม 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 4000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-39594-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201708/20170813/qsPp27rQtbuvd1KxUcng.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-39594-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201708/20170813/Lb2mc4CiSwBDAJFHsbPG.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "39594",
+      "sourceFingerprint": "ad8eab86569f0510ca63ff9720fea5115cab5b92512d31ee1af596c127b120ba",
+      "checkError": null
+    },
+    {
+      "id": "rh-45165",
+      "name": "อาคารจันทรา",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/อาคารจันทรา--8",
+      "sourceName": "RentHub",
+      "rank": 51.47,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 147,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "14400 บาท",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 147 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-11-05T23:35:39.800Z",
+      "address": "139/5  พระราม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6900,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-45165-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201808/20180810/JiPiyEwTUZMPKzN5Ue6c.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-45165-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201808/20180810/2xUqThdzCm1bamQUfe42.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "45165",
+      "sourceFingerprint": "89a560cc2f689ba5f4e0d5a8d77132e0b17f71d4842a843c5c4b4f809c8f8c7e",
+      "checkError": null
+    },
+    {
+      "id": "rh-57784",
+      "name": "เตยเพลส @ตลาดคลองเตย (ใกล้ MRT ศูนย์สิริกิติ์ ตลาดคลองเตย)",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 10,
+      "offers": [
+        {
+          "months": 6,
+          "price": 6000,
+          "evidence": "description_minimum_six_months"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/เตยเพลส-ตลาดคลองเตย-ใกล้-mrt-ศูนย์สิริกิติ์-ตลาดคลองเตย",
+      "sourceName": "RentHub",
+      "rank": 35.46,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 546,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "six",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "300 บาท"
+      },
+      "amenities": [
+        "เฟอร์นิเจอร์",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ขั้นต่ำ 6 เดือนตามคำบรรยาย; ต่ำกว่า 6 เดือนต้องสอบถามราคาใหม่",
+        "อินเทอร์เน็ต 300 บาท/30 วัน และคีย์การ์ด 150 บาท/ใบ"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 546 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-31T16:09:44.712Z",
+      "address": "8/65-72  สุนทรโกษา",
+      "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
+      "indicativePrice": 6000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-57784-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202102/20210210/jwnNrmqHYYvsXYhAkA2e.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-57784-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202102/20210210/3NqNG69QSkz7WVbeeWNi.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "57784",
+      "sourceFingerprint": "d6a068df9b7e874771972e0726c58a58cf2e00ebc294601553514f41bf7fd85b",
+      "checkError": null
+    },
+    {
+      "id": "rh-60063",
+      "name": "อยู่กับอาท @ตลาดคลองเตย (ใกล้ MRT ศูนย์สิริกิติ์ ตลาดคลองเตย)",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 7,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/อยู่กับอาท-ตลาดคลองเตย-ใกล้-mrt-ศูนย์สิริกิติ์-ตลาดคลองเตย",
+      "sourceName": "RentHub",
+      "rank": 35.12,
+      "bathroom": "shared",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 512,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "alternative",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "2000 บาท",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ราคาต่ำสุดเป็นห้องที่ใช้ห้องน้ำรวม แยกเป็นทางเลือก",
+        "ยังไม่ระบุขั้นต่ำสัญญาและราคาระยะสั้นแยกชัดเจน"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 512 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-31T16:09:42.810Z",
+      "address": "8/53  สุนทรโกษา",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 3200,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-60063-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202110/20211011/sFqPSPSDozxzRFF4h7LM.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-60063-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202110/20211011/Soxasd2tuoj1kKMzskGd.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "60063",
+      "sourceFingerprint": "d029875f1c8cc45dfc682c87560c7c26a67d93c8c8d8c916bc670353aafc1983",
+      "checkError": null
+    },
+    {
+      "id": "rh-54180",
+      "name": "หอพักหัวมุม หมู่บ้านเย็นอากาศ",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": null,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/หอพักหัวมุม-หมู่บ้านเย็นอากาศ",
+      "sourceName": "RentHub",
+      "rank": 36.33,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 633,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "7 บาท/หน่วย",
+        "water": "18 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 633 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-23T09:26:20.293Z",
+      "address": "110/15 ศรีบำเพ็ญ เชื้อเพลิง",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 5900,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-54180-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202004/20200418/P7uxjQLPC7z8KJtDtcRn.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-54180-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202004/20200418/jAkzNFXoAqp8ALj8eh1c.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "54180",
+      "sourceFingerprint": "2bac005b5376129735f374f0babe92b2e2d2cd60116570ee7b342a25ff7d843b",
+      "checkError": null
+    },
+    {
+      "id": "rh-51223",
+      "name": "88 Room for Rent (ห้องพักพร้อมอยู่ ไม่มีสัญญาขั้นต่ำ)",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/88-room-for-rent-ห้องพักพร้อมอยู่-ไม่มีสัญญาขั้นต่ำ",
+      "sourceName": "RentHub",
+      "rank": 36.29,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 629,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "150 บาท/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 629 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-06-12T06:18:00.424Z",
+      "address": "110/14 ศรีบำเพ็ญ เย็นอากาศ",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 3800,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-51223-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202506/20250602/PXbUtBV5FTaanfXVzzaY.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-51223-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202506/20250602/x6tK9JD9jPoSSpWXh8uC.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "51223",
+      "sourceFingerprint": "dc14d48211a6db1d0483d51567fb2b1c1b509c61cfc750c9c467a5754341e268",
+      "checkError": null
+    },
+    {
+      "id": "rh-58692",
+      "name": "หรรษาหอพัก",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 15,
+      "offers": [
+        {
+          "months": 3,
+          "price": 4500,
+          "evidence": "description_explicit_contract_and_rent",
+          "unconfirmed": true
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/หรรษาหอพัก--2",
+      "sourceName": "RentHub",
+      "rank": 17.17,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 717,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "short",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "200 บาท/คน/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ไม่มีบริการ",
+        "entry": "คำบรรยายแจ้ง 9,000 บาทสำหรับห้อง 4,500 บาท; ต้องยืนยันโปรโมชั่น"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ"
+      ],
+      "notes": [
+        "คำบรรยายระบุ 4,500 บาทสำหรับสัญญา 3 เดือน แต่ตารางรายเดือนเริ่ม 5,500 บาท จึงต้องยืนยันว่าราคาในคำบรรยายยังใช้ได้",
+        "ระยะ 800 ม. อยู่ขอบเกณฑ์สำรอง แม้ยังไม่ตรวจเส้นทางเดินจริง"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้ง MRT ลุมพินีประมาณ 800 ม.; ยังไม่ยืนยันทางเดินจริง",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2025-12-15T12:59:12.684Z",
+      "address": "44/7 ศรีบำเพ็ญ พระราม 4",
+      "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
+      "indicativePrice": 5500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-58692-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202512/20251215/HLiWVx6x3MYRkXgam9fa.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-58692-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202512/20251215/DcrxzW3Bm1G62AsZ6kFj.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "58692",
+      "needsReview": true,
+      "floor": "4",
+      "sourceFingerprint": "00a4385a7ccc634387bb98602e7154820b0f0ef79dec756d5324298101a6cc08",
+      "checkError": null
+    },
+    {
+      "id": "rh-52358",
+      "name": "บ้านนัท",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 60,
+      "offers": [
+        {
+          "months": 6,
+          "price": 5499,
+          "evidence": "description_explicit_contract_and_rent"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/บ้านนัท",
+      "sourceName": "RentHub",
+      "rank": 37.61,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 761,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "six",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ห้องไม่มีระเบียง 5,499 บาท ขั้นต่ำ 6 เดือน; แบบมีระเบียงเริ่ม 5,999 บาท",
+        "ระยะจากหน้าเว็บอยู่ใกล้ขอบ 800 ม. จึงยังต้องตรวจระยะเดินจริง"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 761 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-07-21T06:23:05.388Z",
+      "address": "34/9 ศรีบำเพ็ญ พระราม 4",
+      "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
+      "indicativePrice": 5499,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-52358-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201912/20191216/jDaqWGZHsCeJRjNjmqWA.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-52358-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201912/20191216/WQLHMwozcXnJ3b5BcS9x.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "52358",
+      "sourceFingerprint": "fe0b3af90ebfebb013438f203e4ae905f8ed45348fe29614105bf47c17e53ceb",
+      "checkError": null
+    },
+    {
+      "id": "rh-62360",
+      "name": "The P Sathorn",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 25,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/the-p-sathorn",
+      "sourceName": "RentHub",
+      "rank": 16.32,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 632,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "6 บาท/หน่วย",
+        "water": "14 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "มีข้อมูลรับสัญญาระยะสั้นจากแพลตฟอร์มอื่น ต้องยืนยันราคาสำหรับ 3–4 เดือนให้ชัดก่อน",
+        "600 ม. เป็นคำกล่าวอ้าง อยู่ในกลุ่มสำรองหากตรวจทางเดินแล้วไม่เกิน 800 ม."
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้ง 600 ม. / เดิน 7 นาทีถึงลุมพินี; ยังไม่ยืนยันเส้นทางจริง",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2025-05-13T07:14:41.998Z",
+      "address": "48 สะพานคู่ พระราม 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 9000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-62360-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202202/20220209/LWs6hfynecu9x5deqgZH.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-62360-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202202/20220209/Wn29KkvPM5kkKQzQSkYP.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "62360",
+      "sourceFingerprint": "c4f947787273b771297e9ec3779f3426d392e116c8300a7c226a6f4e9fc45f22",
+      "checkError": null
+    },
+    {
+      "id": "rh-13269",
+      "name": "ยู อาร์ 22 เรสสิเด๊นซ์/BTSพร้อมพงษ์/MRTศูนย์สิริกิต/พระราม4",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 24,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ยู-อาร์-22-เรสสิเด๊นซ์-btsพร้อมพงษ์-mrtศูนย์สิริกิต-พระราม4",
+      "sourceName": "RentHub",
+      "rank": 53.74,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 374,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "15000 บาท",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "20 บาท/หน่วย",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 374 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-11-06T02:48:55.420Z",
+      "address": "316/20-21 สุขุมวิท สุขุมวิท",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 10000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-13269-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201904/20190430/orF9PVNBak6YtAd6brkX.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-13269-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201904/20190430/mpfyqdQp7iky9VBjkMzU.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "13269",
+      "sourceFingerprint": "53bed4c79f6b463a607328848f9381c7920498dbd660750c68dbf2b813bef1ab",
+      "checkError": null
+    },
+    {
+      "id": "rh-55407",
+      "name": "บีบี22",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บีบี22",
+      "sourceName": "RentHub",
+      "rank": 54.34,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 434,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "9 บาท/หน่วย",
+        "water": "100 บาท/คน/เดือน (มีเงื่อนไขปริมาณน้ำ ต้องตรวจต้นทาง)",
+        "service": "200 บาท",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "ตารางห้องในประกาศระบุเต็มทุกประเภท จึงเก็บในรายการเต็ม/เกินเกณฑ์",
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 434 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-17T20:12:15.886Z",
+      "address": "199/4 เศรษฐีทวีทรัพย์ สุขุมวิท22",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 7500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-55407-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202006/20200628/aG7FKTuMqbKr8Rrv4Zat.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-55407-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202506/20250603/wH8Qd7JndWehrMPoXqhq.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "55407",
+      "sourceFingerprint": "daef221f6fb11dd4234b6f5fc2b4f5ed134eb13a0c50a5c0b3de708374aec9b3",
+      "checkError": null
+    },
+    {
+      "id": "rh-42468",
+      "name": "สุขเหมือน แมนชั่น รัชดาภิเษก-พระราม4 (200เมตรจาก MRT ศูนย์การประชุมแห่งชาติสิริกิติ์)",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 23,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/สุขเหมือน-แมนชั่น-รัชดาภิเษก-พระราม4-200เมตรจาก-mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "sourceName": "RentHub",
+      "rank": 51.99,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 199,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้ง 200 ม. ถึง MRT ศูนย์ฯ สิริกิติ์ ทางออก 4; หน้าเว็บ 199 ม.; ยังไม่ยืนยันทางเดิน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-15T16:07:41.068Z",
+      "address": "79 แยกซอยไผ่สิงห์โต พระราม 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 7500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-42468-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201803/20180320/ppXi5FWPDKhBYwCwrUqh.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-42468-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201803/20180320/6n7FS5WPiSca6hcwrEDG.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "42468",
+      "sourceFingerprint": "42bb8a083aad9be47d22665e07866287300d232dc32d3e22bac72405806442a0",
+      "checkError": null
+    },
+    {
+      "id": "rh-41521",
+      "name": "บ้านเตยหอม สุขุมวิท 22",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 20,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านเตยหอม-สุขุมวิท-22",
+      "sourceName": "RentHub",
+      "rank": 53.17,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 317,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 317 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-12T02:02:23.693Z",
+      "address": "231/1 เศรษฐีทวีทรัพย์2 สุขุมวิท22",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6300,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-41521-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201712/20171228/HdUaKe4ULNdc3oQmNTJe.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-41521-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201712/20171228/Fk7MUdu3yWyddy1Tr4hs.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "41521",
+      "sourceFingerprint": "f3e74ef9f61fcdd8d798a9c329c274c3370443deb1dc0590a06fd42ec0e88487",
+      "checkError": null
+    },
+    {
+      "id": "rh-38903",
+      "name": "เตยหอมเพลส",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 16,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/เตยหอมเพลส",
+      "sourceName": "RentHub",
+      "rank": 53.17,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 317,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 317 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-12T02:02:19.352Z",
+      "address": "225-227 สุขุมวิท22เศรษฐีทวีทรัพย์2 สุขุมวิท22",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6300,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-38903-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201707/20170715/Ch8QzQQx1EUG55K8MUVZ.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-38903-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201707/20170715/iTM1KBZdGV9qitgR2NaY.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "38903",
+      "sourceFingerprint": "5aeb5159ecbfd4e835ada161e30f0678efcec1742da7b50a70cc52f62da05ed9",
+      "checkError": null
+    },
+    {
+      "id": "rh-51569",
+      "name": "พระราม4 เรสซิเดนท์",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/พระราม4-เรสซิเดนท์",
+      "sourceName": "RentHub",
+      "rank": 54.89,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 489,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "ลิฟต์ (ตรวจเงื่อนไขต้นทาง)",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ประกาศระบุรับนักศึกษาฝึกงานตั้งแต่ 2 เดือน ต้องยืนยันว่ารับผู้เช่าทั่วไปและใช้อัตราใด",
+        "คำว่าเดินทาง 5 นาทีไม่ได้ระบุว่าเดินเท้า จึงไม่ใช้ยืนยันความใกล้ MRT"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 489 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-09-17T07:14:44.406Z",
+      "address": "2741/11 โชคดี พระราม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-51569-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202111/20211123/yPU2v5PApvt36EcaS4zg.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-51569-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202102/20210216/dqPMF8tm3ZT7H2hAf3Vb.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "51569",
+      "minLeaseMonths": 2,
+      "sourceFingerprint": "3c883c40692fee92d05cc5454d05be36523a6a7ec11ca3469fecd270416c6886",
+      "checkError": null
+    },
+    {
+      "id": "rh-55738",
+      "name": "เดอะไลน์เฮ้าส์ สุขุมวิท22",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 22,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/เดอะไลน์เฮ้าส์-สุขุมวิท22",
+      "sourceName": "RentHub",
+      "rank": 53.97,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 397,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "9500 บาท",
+        "advance": "1 เดือน",
+        "electric": "5 บาท/หน่วย ขั้นต่ำ 0 บาท",
+        "water": "12 บาท/หน่วย ขั้นต่ำ 0 บาท",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "เฟอร์นิเจอร์",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้งเดิน 5 นาที / 300 ม. ถึง MRT ศูนย์ฯ สิริกิติ์; หน้าเว็บ 397 ม.; ยังไม่ยืนยันทางเดิน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-09-12T03:41:48.125Z",
+      "address": "1130 เศรษฐีทวีทรัพย์2 พระราม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6600,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-55738-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202007/20200717/6CEJyCQmSf3mDYjibvWu.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-55738-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202007/20200717/pRL2sTbfJYHnun1zghzt.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "55738",
+      "sourceFingerprint": "30fccaa3b78544c2a102cae930f74ce9dab171b45ad31b7f2d3021ce9adfb119",
+      "checkError": null
+    },
+    {
+      "id": "rh-51319",
+      "name": "ทีแอนด์พี เรสสิเดนซ์",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 20,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ทีแอนด์พี-เรสสิเดนซ์",
+      "sourceName": "RentHub",
+      "rank": 53.45,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 345,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "9500 บาท",
+        "advance": "1 เดือน",
+        "electric": "5 บาท/หน่วย",
+        "water": "12 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "คำบรรยายระบุรับสัญญาเริ่มต้น 3 เดือน แต่ยังไม่มีราคาที่แยกตามสัญญาชัดเจน",
+        "เจ้าของแจ้งเดินผ่านซอยไผ่สิงโตประมาณ 10 นาที; ยังไม่ยืนยันระยะเป็นเมตร"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 345 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-09-12T03:41:37.264Z",
+      "address": "265-273 เศรษฐีทวีทรัพย์2แยก4 สุขุมวิท22 (พระราม4)",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6700,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-51319-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201909/20190929/Tz6hrBSZkhdJUSwn8Ju6.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-51319-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201909/20190929/iwoYnHpAgKWQf6W9LE9i.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "51319",
+      "minLeaseMonths": 3,
+      "sourceFingerprint": "1cd43cef8e93e2719aa721e30c0395708f88e09dcd69015c73b99b6b84bf505e",
+      "checkError": null
+    },
+    {
+      "id": "rh-54698",
+      "name": "ไทม์22",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 15,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ไทม์22",
+      "sourceName": "RentHub",
+      "rank": 55.94,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 594,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ"
+      ],
+      "notes": [
+        "ตารางห้องในประกาศระบุเต็มทุกประเภท จึงเก็บในรายการเต็ม/เกินเกณฑ์",
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 594 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-09-12T03:09:27.593Z",
+      "address": "421/2 สุขุมวิท22 สุขุมวิท",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 5800,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-54698-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202005/20200520/h4CSWD4AqwahSWa25vHe.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-54698-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202005/20200520/2KVio5sTMEXLrxkZrTf1.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "54698",
+      "sourceFingerprint": "80479dbe766b1e554cffbb144d6682afc85491d3197df11accb85ce76e861be5",
+      "checkError": null
+    },
+    {
+      "id": "rh-51318",
+      "name": "เออร์เดย์เฮ้าส์",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 20,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/เออร์เดย์เฮ้าส์",
+      "sourceName": "RentHub",
+      "rank": 54.29,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 429,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "5 บาท/หน่วย",
+        "water": "12 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "คำบรรยายระบุสัญญาระยะสั้นเริ่ม 1 เดือน แต่ไม่ได้ใส่ราคาช่องสัญญาสั้น",
+        "ราคา 7,000–9,500 บาทอยู่ในคอลัมน์รายเดือนสัญญารายปี จึงยังไม่นำเป็นราคาเช่าสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 429 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-08-11T06:12:33.086Z",
+      "address": "1162-1164 เศรษฐีทวีทรัพย์1 สุขุมวิท22 (พระราม4)",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 7000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-51318-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201909/20190929/ZMipw9ckh6iaZ3e9tABW.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-51318-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201909/20190929/g84fsec6WiPdJtDKT7H4.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "51318",
+      "minLeaseMonths": 1,
+      "sourceFingerprint": "694754e6599ac600e5940e359bc79bb72ce44d98cdc02277be3df8bf24b13218",
+      "checkError": null
+    },
+    {
+      "id": "rh-54928",
+      "name": "PP House คลองเตย",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 7.5,
+      "offers": [
+        {
+          "months": 4,
+          "price": 3000,
+          "maxPrice": 3200,
+          "evidence": "description_explicit_contract_and_rent"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/pp-house-คลองเตย",
+      "sourceName": "RentHub",
+      "rank": 52.48,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 248,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "short",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "4000 บาท",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "20 บาท/หน่วย ขั้นต่ำ 100 บาท",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม",
+        "entry": "7,000–7,200 บาท (ประกัน 4,000 + ล่วงหน้า 1 เดือน) ไม่รวมค่าอื่น"
+      },
+      "amenities": [],
+      "notes": [
+        "คำบรรยายระบุขั้นต่ำ 4 เดือน ราคา 3,000–3,200 บาท",
+        "ห้องพัดลมขนาด 7.5 ตร.ม. ต้องยืนยันเส้นทางเดินก่อนนับเป็นตัวเลือกตรงเกณฑ์"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 248 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-03-26T14:46:58.805Z",
+      "address": "692/6 เจริญสุข พระราม4",
+      "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
+      "indicativePrice": 3000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-54928-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202006/20200603/L1dmiKSNC1PAJ1rsJBrU.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-54928-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202006/20200603/deZ9LhzVe8ziRRcgJbXX.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "54928",
+      "sourceFingerprint": "b26d12cf23f36c3d410f1332f24d74c7abacab8462c9dd15c92888397dfacbfb",
+      "checkError": null
+    },
+    {
+      "id": "rh-34489",
+      "name": "ห้องพัก 754 ใกล้ศูนย์ประชุมสิริกิต",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 20,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ห้องพัก-754-ใกล้ศูนย์ประชุมสิริกิต",
+      "sourceName": "RentHub",
+      "rank": 53.65,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 365,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ"
+      ],
+      "notes": [
+        "ตารางห้องในประกาศระบุเต็มทุกประเภท จึงเก็บในรายการเต็ม/เกินเกณฑ์",
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 365 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-08-22T03:10:06.949Z",
+      "address": "754 เจริญสุข พระราม 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 5000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-34489-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201702/20170227/Ay5rqQophgNeXF4dYv17.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-34489-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202111/20211112/P8jXPRsQGZzr5AJuBTUM.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "34489",
+      "sourceFingerprint": "59f513d17aeb33e01bc8617640a268aafcc3512b89cfe5ac0221a37e306c72f6",
+      "checkError": null
+    },
+    {
+      "id": "rh-58874",
+      "name": "บ้านเพียว",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 9,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านเพียว--3",
+      "sourceName": "RentHub",
+      "rank": 53.84,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 384,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "4000 บาท",
+        "advance": "0 เดือน",
+        "electric": "8 บาท/หน่วย ขั้นต่ำ 100 บาท",
+        "water": "18 บาท/หน่วย ขั้นต่ำ 100 บาท",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "300 บาท"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้ง 350 ม. ถึง MRT ศูนย์ฯ สิริกิติ์; หน้าเว็บ 384 ม.; ยังไม่ยืนยันทางเดิน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-07-26T08:57:27.533Z",
+      "address": "736 เจริญ​สุข​ พระ​รา​ม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 2500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-58874-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202102/20210213/yzE1QZVu32iFT3xEw2gh.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-58874-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202102/20210213/GrXZnfoDSaWgugmoCsbL.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "58874",
+      "sourceFingerprint": "d879df5c074bc5b77ed799895a5d2f4871cae5a71eb13e01efe4e786a300e225",
+      "checkError": null
+    },
+    {
+      "id": "rh-58077",
+      "name": "พีเอ็น เฮ้าส์ ห้องว่างให้เช่า",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 10,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/พีเอ็น-เฮ้าส์-ห้องว่างให้เช่า",
+      "sourceName": "RentHub",
+      "rank": 53.81,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 381,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "4000 บาท",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "300 บาท"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 381 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-07-23T07:43:24.123Z",
+      "address": "738 เจริญสุข พระราม 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 3000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-58077-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202012/20201220/DZzKUVpSrTZ6D3oRdJja.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-58077-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202012/20201220/2msN9Ag5ZuVXDvXfkYxV.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "58077",
+      "sourceFingerprint": "7a6bddad77f16960a9134ac93c467ebd6d01a5b8cd1e5577fdbdc6b0e3e37114",
+      "checkError": null
+    },
+    {
+      "id": "rh-27310",
+      "name": "นเรศเพลส ใกล้จุฬา สามย่าน สีลม สุรวงศ์",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 28,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/นเรศเพลส-ใกล้จุฬา-สามย่าน-สีลม-สุรวงศ์",
+      "sourceName": "RentHub",
+      "rank": 56.31,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 631,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "300 บาท/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์",
+        "ลิฟต์ (ตรวจเงื่อนไขต้นทาง)",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 631 ม. ถึง สามย่าน; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-26T02:53:46.340Z",
+      "address": "200 สันติภาพ นเรศ",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 8500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-27310-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202205/20220524/CGZampe3amSCZdqLEbZM.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-27310-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202205/20220524/dhkfRMPnNib7FUMpExab.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "27310",
+      "sourceFingerprint": "8fcbf040139934fa45159aec9f7a8427a2285258d90662b8ee039af5145b2d29",
+      "checkError": null
+    },
+    {
+      "id": "rh-47118",
+      "name": "บ้านอัศวา(บางรัก)",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านอัศวา-บางรัก",
+      "sourceName": "RentHub",
+      "rank": 56.03,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 603,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "20 บาท/หน่วย",
+        "service": "ยังไม่ระบุ ต้องสอบถาม",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "อินเทอร์เน็ตตามเงื่อนไข"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น",
+        "ขนาดในแบบฟอร์มประกาศระบุ 1 ตร.ม. ซึ่งยังไม่ยืนยัน จึงไม่ใช้เป็นขนาดห้องจริง"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 603 ม. ถึง สามย่าน; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-08-22T16:00:11.289Z",
+      "address": "28/1-2 สันติภาพ นเรศ",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 4000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-47118-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201812/20181216/GfgBiZuD77D2xHK44gss.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-47118-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201812/20181216/X33GJ6rbnRGeSgMjqPQB.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "47118",
+      "sourceFingerprint": "967228955517af648a2311901ea937286b564fd126008237d59b32dbe1682efe",
+      "checkError": null
+    },
+    {
+      "id": "rh-22869",
+      "name": "หอพักจุฬา สามย่าน พระราม4",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/หอพักจุฬา-สามย่าน-พระราม4",
+      "sourceName": "RentHub",
+      "rank": 73.94,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 394,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "10000 บาท",
+        "advance": "5999 บาท",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "100 บาท/คน/เดือน (มีเงื่อนไขปริมาณน้ำ ต้องตรวจต้นทาง)",
+        "service": "159 บาท",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 394 ม. ถึง หัวลำโพง; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-11-03T05:03:36.824Z",
+      "address": "683 - พระราม4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 5999,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-22869-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201603/20160328/w51x8yLmNptg7HAmiPd7.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-22869-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202005/20200516/2PS5Kh69o6TsWc91kPQj.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "22869",
+      "sourceFingerprint": "b0cd8e49f5415f1eb1531d5c06536ffe7293401d60b454467fc51833028f0a01",
+      "checkError": null
+    },
+    {
+      "id": "rh-6672",
+      "name": "ไอดี 8 รูมส์  ใกล้  เตรียมอุดม มหาลัยจุฬา มาบุญครอง หัวลำโพง ศาลแรงงานกลาง",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 28,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ไอดี-8-รูมส์-ใกล้-เตรียมอุดม-มหาลัยจุฬา-มาบุญครอง-หัวลำโพง-ศาลแรงงานกลาง",
+      "sourceName": "RentHub",
+      "rank": 75.51,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 551,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "ลิฟต์ (ตรวจเงื่อนไขต้นทาง)",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 551 ม. ถึง หัวลำโพง; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-25T09:51:37.477Z",
+      "address": "148 สว่าง8 มหานคร",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 6500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-6672-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202602/20260222/LMz1zeQzyArKB9qcCetC.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-6672-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202602/20260222/koYKrVrConmVFmggpxkR.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "6672",
+      "sourceFingerprint": "2029e3c224d3fbef10d9b8a022ca278cd7b78b1fee2727f3fd445bc4fc9d1e87",
+      "checkError": null
+    },
+    {
+      "id": "rh-71099",
+      "name": "รุ่งศิริ แมนชั่น",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 24,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/รุ่งศิริ-แมนชั่น",
+      "sourceName": "RentHub",
+      "rank": 73.89,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 389,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 389 ม. ถึง หัวลำโพง; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-20T09:26:36.621Z",
+      "address": "198/5 สว่าง1 มหานคร",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 10000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-71099-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202605/20260504/syks3aiZVz2qezJioiwq.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-71099-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202605/20260512/c2t79nteo9MHQ6Hbt9MB.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "71099",
+      "sourceFingerprint": "be22c3a0f492c776693bdd4a36204702b00b6d267df08e9afbd06c69535b0d76",
+      "checkError": null
+    },
+    {
+      "id": "rh-67872",
+      "name": "บ้านวัวลำพอง",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 26,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/บ้านวัวลำพอง",
+      "sourceName": "RentHub",
+      "rank": 73.79,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 379,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "2 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "150 บาท/คน/เดือน",
+        "service": "500 บาท",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 379 ม. ถึง หัวลำโพง; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-07-28T05:00:06.152Z",
+      "address": "455  รองเมือง",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 10000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-67872-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202406/20240607/zQg8tPQHLjU2xXqm4P2D.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-67872-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202406/20240607/M9dfhrbnHjACeQUykgk5.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "67872",
+      "sourceFingerprint": "07d872e43af1c016e703006b0a7487ee350d1a7afd024235775cf5128c92f5b3",
+      "checkError": null
+    },
+    {
+      "id": "rh-55921",
+      "name": "ห้องพัก ณ หัวลำโพง",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 10,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ห้องพัก-ณ-หัวลำโพง",
+      "sourceName": "RentHub",
+      "rank": 71.51,
+      "bathroom": "shared",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 151,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "alternative",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ตามมิเตอร์การไฟฟ้า ตามประกาศ",
+        "water": "100 บาท/คน/เดือน",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ไม่มีบริการ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ"
+      ],
+      "notes": [
+        "ห้องส่วนตัว 9–12 ตร.ม. ใช้ห้องน้ำภายนอกห้อง",
+        "ยังไม่ยืนยันขั้นต่ำสัญญาจากประกาศนี้; ไม่ใช้คอลัมน์รายปีเป็นราคา 1–4 เดือน"
+      ],
+      "walkingClaim": "ผู้ประกาศแจ้ง MRT หัวลำโพง 50 ม.; หน้าเว็บ 151 ม. ทั้งสองค่ายังไม่ใช่ระยะเดินที่ตรวจยืนยัน",
+      "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-07-12T09:42:05.340Z",
+      "address": "393/6 พระยาสิงหเสนีย์ พระราม 4",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 2700,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-55921-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202007/20200729/M59uaRQzPrRieAevAsrg.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-55921-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202007/20200729/XWkMxBXk9evj6UC9xQNx.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "55921",
+      "sourceFingerprint": "829322799ebca19dc3fd74852aad8a3625242803f0eb9d9cd0eeaea8d2d0c74f",
+      "checkError": null
+    },
+    {
+      "id": "rh-53514",
+      "name": "เอฟวรี่เดย์ แบงค็อก โฮสเทล (ใกล้เตรียมอุดม,จุฬา, MRT สามย่าน )",
+      "kind": "hostel",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 10,
+      "offers": [
+        {
+          "months": 1,
+          "price": 9500,
+          "evidence": "description_explicit_one_month_rate"
+        }
+      ],
+      "sourceUrl": "https://www.renthub.in.th/เอฟวรี่เดย์-แบงค็อก-โฮสเทล-ใกล้เตรียมอุดม-จุฬา-mrt-สามย่าน--2",
+      "sourceName": "RentHub",
+      "rank": 53.02,
+      "bathroom": "shared",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 302,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "alternative",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "ยังไม่ระบุ ต้องสอบถาม",
+        "advance": "1 เดือน",
+        "electric": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "water": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "อินเทอร์เน็ตตามเงื่อนไข"
+      ],
+      "notes": [
+        "ห้องส่วนตัวเตียงสองชั้นสำหรับ 1–2 คน ห้องน้ำรวมแยกชายหญิง",
+        "คำบรรยายระบุเช่า 1 เดือนได้ 9,500 บาทต่อห้อง รวมค่าน้ำ ค่าไฟ และ Wi-Fi"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 302 ม. ถึง สามย่าน; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-08-27T14:45:58.676Z",
+      "address": "1-3 1-3 Sap road Siphraya Bangrak ทรัพย์",
+      "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
+      "indicativePrice": 9500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-53514-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202604/20260418/PbmGLCYGUidCJ4LmxC1a.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-53514-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202604/20260418/Q76YoPkzp2FoqrGhrdnC.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "53514",
+      "sourceFingerprint": "65b190c26c203dcb914af3a4142c73ca89281c3d28bb3710a18157998ac922f1",
+      "checkError": null
+    },
+    {
+      "id": "rh-21831",
+      "name": "ณ สุรวงศ์ (ใกล้ MRT สามย่าน 750 เมตร)",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ณ-สุรวงศ์-ใกล้-mrt-สามย่าน-750-เมตร",
+      "sourceName": "RentHub",
+      "rank": 55.25,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 525,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "2 เดือน",
+        "advance": "1 เดือน",
+        "electric": "9 บาท/หน่วย",
+        "water": "19 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "ตารางห้องในประกาศระบุเต็มทุกประเภท จึงเก็บในรายการเต็ม/เกินเกณฑ์",
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 525 ม. ถึง สามย่าน; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-05-17T04:23:43.412Z",
+      "address": "171 สันติภาพ นเรศ",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 8000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-21831-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201812/20181226/MZ67QL3k6SV4FhzRo5ih.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-21831-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201812/20181226/EfoyGnBgtJkXMwML77cQ.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "21831",
+      "sourceFingerprint": "d293631b8f0f52c9af589fe311714412fa7a6c3e66eecf1b6e677e8b0842ad13",
+      "checkError": null
+    },
+    {
+      "id": "rh-42399",
+      "name": "หอพัก ณ สว่าง",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 20,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/หอพัก-ณ-สว่าง",
+      "sourceName": "RentHub",
+      "rank": 75.79,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 579,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "2 เดือน",
+        "advance": "1 เดือน",
+        "electric": "9 บาท/หน่วย",
+        "water": "19 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "ตารางห้องในประกาศระบุเต็มทุกประเภท จึงเก็บในรายการเต็ม/เกินเกณฑ์",
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 579 ม. ถึง หัวลำโพง; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2025-05-17T04:23:55.366Z",
+      "address": "54,56,58 สว่าง5 ถ.มหานคร มหานคร",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 7000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-42399-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201804/20180410/Zxt5FPj7hp5RkYCcYq5s.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-42399-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201804/20180410/Kz1xWzaVTXATFLbMqW1v.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "42399",
+      "sourceFingerprint": "3b73f166f671d1d07f1fad40186046cb0599d94e832b1e78ba807f21e7d523e7",
+      "checkError": null
+    },
+    {
+      "id": "rh-5758",
+      "name": "รูม15: ห้องพักให้เช่า ใกล้ ถนน สี่พระยา สุรวงศ์, จุฬาลงกรณ์มหาวิทยาลัย, สามย่านมิตรทาวน์, AIAสุรวงศ์",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 25,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/รูม15-ห้องพักให้เช่า-ใกล้-ถนน-สี่พระยา-สุรวงศ์-จุฬาลงกรณ์มหาวิทยาลัย-สามย่านมิตรทาวน์-aiaสุรวงศ์",
+      "sourceName": "RentHub",
+      "rank": 57.15,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 715,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "full",
+      "fees": {
+        "deposit": "1 เดือน",
+        "advance": "1 เดือน",
+        "electric": "8 บาท/หน่วย",
+        "water": "20 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [
+        "ลิฟต์ (ตรวจเงื่อนไขต้นทาง)"
+      ],
+      "notes": [
+        "ตารางห้องในประกาศระบุเต็มทุกประเภท จึงเก็บในรายการเต็ม/เกินเกณฑ์",
+        "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 715 ม. ถึง สามย่าน; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-10-24T05:37:11.092Z",
+      "address": "1 ซ.สันติภาพ ถ.เรศ",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 8000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-5758-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202610/20261024/ug6nP1vWX2Ug44fyXvjc.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-5758-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/202610/20261024/PawudqT65EDEnZBPUrf6.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "5758",
+      "sourceFingerprint": "56dbdc256de14544a56337f0d0d10fad8da7ca98b3edde093815b8fae24c5946",
+      "checkError": null
+    },
+    {
+      "id": "rh-40251",
+      "name": "เอส.เค.แกรนด์ลุมพินี อพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 28,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/เอส-เค-แกรนด์ลุมพินี-อพาร์ทเม้นท์",
+      "sourceName": "RentHub",
+      "rank": 32.74,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 274,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "2 เดือน",
+        "advance": "1 เดือน",
+        "electric": "4.8 บาท/หน่วย",
+        "water": "14.4 บาท/หน่วย",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
+      },
+      "amenities": [],
+      "notes": [
+        "คำบรรยายระบุสัญญา 1 ปี จึงไม่ใช่ตัวเลือกเช่าสั้นตามเงื่อนไข"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 274 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-04-02T08:04:40.358Z",
+      "address": "3 ศรีอักษร เชื้อเพลิง",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 9000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-40251-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201711/20171113/QWSWPnS51o5b8Re4ucaE.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-40251-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201711/20171113/XxNFJjjCuqv8oRmaascP.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "40251",
+      "sourceFingerprint": "64010416935c2ebf73662452116ba93ec6698ad586c8f21a2f4c0c64d7e63ac4",
+      "checkError": null
+    },
+    {
+      "id": "rh-40766",
+      "name": "ไพร์ม สาทร อพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 30,
+      "offers": [],
+      "sourceUrl": "https://www.renthub.in.th/ไพร์ม-สาทร-อพาร์ทเม้นท์",
+      "sourceName": "RentHub",
+      "rank": 33.19,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "websiteMeters": 319,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "advertised",
+      "fees": {
+        "deposit": "2 เดือน",
+        "advance": "1 เดือน",
+        "electric": "ยังไม่ระบุ ต้องสอบถาม",
+        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
+        "internet": "ยังไม่ระบุ ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "เฟอร์นิเจอร์"
+      ],
+      "notes": [
+        "รายละเอียดระบุสัญญา 1 ปี จึงไม่ใช้ราคา 9,000 บาทเป็นราคาเช่าสั้น"
+      ],
+      "walkingClaim": "หน้า RentHub แสดง 319 ม. ถึง คลองเตย; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
+      "oneBangkok": "MRT 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-02-26T02:13:25.973Z",
+      "address": "29/11 ศรีอักษร เชื้อเพลิง",
+      "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
+      "indicativePrice": 9000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "photos": [
+        {
+          "url": "assets/rh-40766-0.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201712/20171219/s1Bsw76DyPpLP2J9b21p.jpg",
+          "credit": "RentHub"
+        },
+        {
+          "url": "assets/rh-40766-1.jpg",
+          "sourceUrl": "https://bcdn.renthub.in.th/listing_picture/201712/20171219/t64iJDncs8nBDXcaBYQE.jpg",
+          "credit": "RentHub"
+        }
+      ],
+      "sourceListingId": "40766",
+      "sourceFingerprint": "5ef961378b9b53d2a78ba2c904b5b73f59357ad16aea8f228866df8b7a667a72",
+      "checkError": null
+    }
+  ],
+  "changes": [],
+  "catalogResearch": {
+    "checkedAt": "2026-11-06T04:59:21+00:00",
+    "directRentHubPagesReviewed": 61,
+    "newCanonicalProperties": 41,
+    "walkingVerifiedNew": 0,
+    "note": "ตรวจหน้าประกาศตรง แยกราคาเช่าสั้นออกจากคอลัมน์รายปี ระยะหน้าเว็บยังไม่ใช่ระยะเดิน"
+  },
+  "reviewQueue": [
+    {
+      "name": "บ้านสุขใจ สาทร 1",
+      "url": "https://www.hongpak.in.th/rooms/26756",
+      "websiteMeters": 600,
+      "source": "Hongpak",
+      "station": "ลุมพินี",
+      "discoveredAt": "2026-11-06T05:06:43+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "บ้านสุขใจ ศรีบำเพ็ญ 34",
+      "url": "https://www.hongpak.in.th/rooms/33166",
+      "websiteMeters": 700,
+      "source": "Hongpak",
+      "station": "ลุมพินี",
+      "discoveredAt": "2026-11-06T05:06:43+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "ห้องพักรายวัน - รายเดือน",
+      "url": "https://www.hongpak.in.th/rooms/10835-ps-room-for-rent",
+      "websiteMeters": 500,
+      "source": "Hongpak",
+      "station": "ลุมพินี",
+      "discoveredAt": "2026-11-06T05:06:43+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "เอส.เค.แกรนด์สาทร อพาร์ทเม้นท์",
+      "url": "https://www.renthub.in.th/เอส-เค-แกรนด์สาทร-อพาร์ทเม้นท์",
+      "listingId": "40361",
+      "websiteMeters": 505,
+      "source": "RentHub",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T05:06:51+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "สิรีน สวีท สาทร (Serene Suite Sathorn)",
+      "url": "https://www.renthub.in.th/สิรีน-สวีท-สาทร-serene-suite-sathorn",
+      "listingId": "3365",
+      "websiteMeters": 647,
+      "source": "RentHub",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T05:06:51+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "ปีนัง พาเลซ",
+      "url": "https://www.renthub.in.th/ปีนัง-พาเลซ",
+      "listingId": "24421",
+      "websiteMeters": 696,
+      "source": "RentHub",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T05:06:51+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "เต็มแล้ว งามสินสุข ทาวเวอร์ ติด MRT ศูนย์สิริกิติ์",
+      "url": "https://www.hongpak.in.th/rooms/60666-ngamsinsuk-tower",
+      "websiteMeters": 800,
+      "source": "Hongpak",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T05:06:43+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "paradise place condominium ซ.ไกรสีห์ ถนนพระราม4 ห้อง 113/1,3",
+      "url": "https://www.hongpak.in.th/rooms/60730-paradise-place-condominium-4-113-1-3",
+      "websiteMeters": 500,
+      "source": "Hongpak",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T05:06:50+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "เดอะ แบมบู ไลอ้อน แฟมมิลี่  | ขณะนี้ห้องพักเต็มครับ",
+      "url": "https://www.renthub.in.th/เดอะ-แบมบู-ไลอ้อน-แฟมมิลี่-ขณะนี้ห้องพักเต็มครับ",
+      "listingId": "44711",
+      "websiteMeters": 313,
+      "source": "RentHub",
+      "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "discoveredAt": "2026-11-06T05:06:58+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "พระราม4เรสซิเด้นท์",
+      "url": "https://www.hongpak.in.th/rooms/36966-rama4residence",
+      "websiteMeters": 500,
+      "source": "Hongpak",
+      "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "discoveredAt": "2026-11-06T05:06:50+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "หอพัก บาวาน่า สุรวงศ์-สีลม เริ่มต้น9,000 บาท (ใกล้รพ.จุฬา/ สุรวงศ์ /  BTS ศาลาแดง / MRTสามย่าน)",
+      "url": "https://www.renthub.in.th/หอพัก-บาวาน่า-สุรวงศ์-สีลม-เริ่มต้น9-000-บาท-ใกล้รพ-จุฬา-สุรวงศ์-bts-ศาลาแดง-mrtสามย่าน",
+      "listingId": "37055",
+      "websiteMeters": 427,
+      "source": "RentHub",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T05:07:06+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "ที่พักรายวันเปิดใหม่ติดMRT สามย่าน ที่พักสวย เงียบสงบ ปลอดภัย เดินทางสะดวก",
+      "url": "https://www.renthub.in.th/ที่พักรายวันเปิดใหม่ติดmrt-สามย่าน-ที่พักสวย-เงียบสงบ-ปลอดภัย-เดินทางสะดวก",
+      "listingId": "71509",
+      "websiteMeters": 56,
+      "source": "RentHub",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T05:07:06+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "โรงแรมเดออานี สุรวงศ์ /ใกล้ โรงพยาบาลจุฬา/ รพ.กรุงเทพคริสเตียน / MRT / BTS /สีลม",
+      "url": "https://www.renthub.in.th/โรงแรมเดออานี-สุรวงศ์-ใกล้-โรงพยาบาลจุฬา-รพ-กรุงเทพคริสเตียน-mrt-bts-สีลม",
+      "listingId": "55349",
+      "websiteMeters": 738,
+      "source": "RentHub",
+      "station": "สีลม",
+      "discoveredAt": "2026-11-06T05:07:15+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "ห้องพักสตรียศพัทธ์",
+      "url": "https://www.renthub.in.th/ห้องพักสตรียศพัทธ์--3cac0509",
+      "listingId": "60587",
+      "websiteMeters": 716,
+      "source": "RentHub",
+      "station": "สีลม",
+      "discoveredAt": "2026-11-06T05:07:15+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "บ้านพักเปิดใหม่ มีห้องพักให้เช่า กลางสีลม (เพียง 450 เมตรจาก BTS ศาลาแดง)",
+      "url": "https://www.renthub.in.th/บ้านพักเปิดใหม่-มีห้องพักให้เช่า-กลางสีลม-เพียง-450-เมตรจาก-bts-ศาลาแดง",
+      "listingId": "56305",
+      "websiteMeters": 708,
+      "source": "RentHub",
+      "station": "สีลม",
+      "discoveredAt": "2026-11-06T05:07:15+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "ฟรีเซีย เกสเฮ้าร์ ศาลาแดง",
+      "url": "https://www.renthub.in.th/ฟรีเซีย-เกสเฮ้าร์-ศาลาแดง",
+      "listingId": "56446",
+      "websiteMeters": 260,
+      "source": "RentHub",
+      "station": "สีลม",
+      "discoveredAt": "2026-11-06T05:07:15+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "โอเอซิส อพาร์ทเม้นท์",
+      "url": "https://www.renthub.in.th/โอเอซิส-อพาร์ทเม้นท์",
+      "listingId": "58474",
+      "websiteMeters": 647,
+      "source": "RentHub",
+      "station": "สีลม",
+      "discoveredAt": "2026-11-06T05:07:15+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "108 Apartment",
+      "url": "https://www.renthub.in.th/108-apartment",
+      "listingId": "53076",
+      "websiteMeters": 768,
+      "source": "RentHub",
+      "station": "สีลม",
+      "discoveredAt": "2026-11-06T05:07:15+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "สองพระอพาร์ตเม้นท์ (เฉพาะสุภาพสตรี)",
+      "url": "https://www.renthub.in.th/สองพระอพาร์ตเม้นท์-เฉพาะสุภาพสตรี",
+      "listingId": "54258",
+      "websiteMeters": 788,
+      "source": "RentHub",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T05:07:23+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "อพาร์ทเมนท์หญิง บ้านสี่พระยา ใกล้จุฬา  สีลม",
+      "url": "https://www.renthub.in.th/อพาร์ทเมนท์หญิง-บ้านสี่พระยา-ใกล้จุฬา-สีลม",
+      "listingId": "5703",
+      "websiteMeters": 787,
+      "source": "RentHub",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T05:07:23+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "K VILLA (เค วิลลา) คลองถมเซ็นเตอร์ ใกล้ วรจักร เสือป่า รพ.กลาง รพ.หัวเฉียว เยาวราช",
+      "url": "https://www.renthub.in.th/k-villa-เค-วิลลา-คลองถมเซ็นเตอร์-ใกล้-วรจักร-เสือป่า-รพ-กลาง-รพ-หัวเฉียว-เยาวราช",
+      "listingId": "9153",
+      "websiteMeters": 630,
+      "source": "RentHub",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T05:07:23+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "Noir Cafe & Hostel Chinatown BKK ",
+      "url": "https://www.renthub.in.th/noir-cafe-hostel-chinatown-bkk",
+      "listingId": "68959",
+      "websiteMeters": 498,
+      "source": "RentHub",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T05:07:23+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "บ้านในร้านอาหารไทย",
+      "url": "https://www.renthub.in.th/บ้านในร้านอาหารไทย",
+      "listingId": "46426",
+      "websiteMeters": 546,
+      "source": "RentHub",
+      "station": "สุขุมวิท",
+      "discoveredAt": "2026-11-06T05:07:23+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "คลิก โฮสเทล",
+      "url": "https://www.renthub.in.th/คลิก-โฮสเทล",
+      "listingId": "55781",
+      "websiteMeters": 797,
+      "source": "RentHub",
+      "station": "สุขุมวิท",
+      "discoveredAt": "2026-11-06T05:07:23+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    }
+  ],
+  "discoveryRuns": [
+    {
+      "source": "RentHub",
+      "station": "ลุมพินี",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ลุมพินี",
+      "checkedAt": "2026-11-06T05:22:30+00:00",
+      "status": "ok",
+      "candidates": 11
+    },
+    {
+      "source": "RentHub",
+      "station": "ลุมพินี",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ลุมพินี",
+      "checkedAt": "2026-11-06T05:22:30+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hongpak",
+      "station": "ลุมพินี",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ลุมพินี/",
+      "checkedAt": "2026-11-06T05:22:30+00:00",
+      "status": "ok",
+      "candidates": 4
+    },
+    {
+      "source": "RentHub",
+      "station": "คลองเตย",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-คลองเตย",
+      "checkedAt": "2026-11-06T05:22:31+00:00",
+      "status": "ok",
+      "candidates": 22
+    },
+    {
+      "source": "RentHub",
+      "station": "คลองเตย",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-คลองเตย",
+      "checkedAt": "2026-11-06T05:22:31+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hongpak",
+      "station": "คลองเตย",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-คลองเตย/",
+      "checkedAt": "2026-11-06T05:22:31+00:00",
+      "status": "ok",
+      "candidates": 4
+    },
+    {
+      "source": "RentHub",
+      "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "checkedAt": "2026-11-06T05:22:32+00:00",
+      "status": "ok",
+      "candidates": 17
+    },
+    {
+      "source": "RentHub",
+      "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "checkedAt": "2026-11-06T05:22:32+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hongpak",
+      "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์/",
+      "checkedAt": "2026-11-06T05:22:32+00:00",
+      "status": "ok",
+      "candidates": 2
+    },
+    {
+      "source": "RentHub",
+      "station": "สามย่าน",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สามย่าน",
+      "checkedAt": "2026-11-06T05:22:33+00:00",
+      "status": "ok",
+      "candidates": 7
+    },
+    {
+      "source": "RentHub",
+      "station": "สามย่าน",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สามย่าน",
+      "checkedAt": "2026-11-06T05:22:33+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hongpak",
+      "station": "สามย่าน",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สามย่าน/",
+      "checkedAt": "2026-11-06T05:22:33+00:00",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "RentHub",
+      "station": "สีลม",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สีลม",
+      "checkedAt": "2026-11-06T05:22:34+00:00",
+      "status": "ok",
+      "candidates": 8
+    },
+    {
+      "source": "RentHub",
+      "station": "สีลม",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สีลม",
+      "checkedAt": "2026-11-06T05:22:34+00:00",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "Hongpak",
+      "station": "สีลม",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สีลม/",
+      "checkedAt": "2026-11-06T05:22:34+00:00",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "source": "RentHub",
+      "station": "หัวลำโพง",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-หัวลำโพง",
+      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "status": "ok",
+      "candidates": 9
+    },
+    {
+      "source": "RentHub",
+      "station": "หัวลำโพง",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-หัวลำโพง",
+      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hongpak",
+      "station": "หัวลำโพง",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-หัวลำโพง/",
+      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "RentHub",
+      "station": "สุขุมวิท",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สุขุมวิท",
+      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "status": "ok",
+      "candidates": 2
+    },
+    {
+      "source": "RentHub",
+      "station": "สุขุมวิท",
+      "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สุขุมวิท",
+      "checkedAt": "2026-11-06T05:22:36+00:00",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "source": "Hongpak",
+      "station": "สุขุมวิท",
+      "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สุขุมวิท/",
+      "checkedAt": "2026-11-06T05:22:36+00:00",
+      "status": "ok",
+      "candidates": 0
+    }
+  ]
+}
