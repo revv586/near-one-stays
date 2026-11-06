@@ -6,9 +6,13 @@ class FacebookImportTests(unittest.TestCase):
     def test_curated_import_is_idempotent_and_preserves_existing_facts(self):
         original = {'id': 'existing', 'offers': [{'months': 3, 'price': 6500}], 'lastFetchedAt': 'newer'}
         data = {'properties': [copy.deepcopy(original)]}
-        self.assertEqual(merge_facebook(data), 3)
+        feed = json.loads((ROOT / 'dist/data/facebook-posts.json').read_text())
+        expected_ids = {p['id'] for p in feed['properties']}
+        self.assertGreater(len(expected_ids), 0)
+        self.assertEqual(merge_facebook(data), len(expected_ids))
         self.assertEqual(merge_facebook(data), 0)
-        self.assertEqual(len(data['properties']), 4)
+        self.assertEqual(len(data['properties']), len(expected_ids) + 1)
+        self.assertEqual({p['id'] for p in data['properties']}, expected_ids | {'existing'})
         self.assertEqual(data['properties'][0], original)
 
     def test_private_group_rejected_before_any_record_is_written(self):
