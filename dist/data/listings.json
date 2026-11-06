@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "title": "NEAR ONE",
-  "generatedAt": "2026-11-06T05:45:31+00:00",
+  "generatedAt": "2026-11-06T06:12:56+00:00",
   "lastRun": {
-    "startedAt": "2026-11-06T05:45:31+00:00",
-    "finishedAt": "2026-11-06T05:45:45+00:00",
-    "success": 56,
+    "startedAt": "2026-11-06T06:12:56+00:00",
+    "finishedAt": "2026-11-06T06:13:40+00:00",
+    "success": 96,
     "failed": 0,
-    "discoverySuccess": 21,
+    "discoverySuccess": 24,
     "discoveryFailed": 0
   },
   "schedule": {
@@ -65,7 +65,7 @@
       "subtitle": "อยู่ย่านพระราม 4 ตรงข้าม One Bangkok",
       "floor": "3",
       "sourceFingerprint": "2793695061397131c37312b9a0c2bd2fd3bc19fdf9668b32e994e70181b9d525",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -91,9 +91,9 @@
           "name": "RentHub · อีกชื่อประกาศของ PS House",
           "url": "https://www.renthub.in.th/สะพานคู่-พีเอสเฮาส์",
           "listingId": "70059",
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "022f989ae61b95490ce41cc0e6d7509ddbbe003557dcbc211da756a7b27999c1"
         },
         {
@@ -102,9 +102,9 @@
           "facts": "ที่เดียวกับ PS House จาก LINE pshouse.sp; ระบุราคาขึ้นกับระยะสัญญา จึงยังไม่ใช้ช่วง 5,300–8,000 เป็นราคาเช่าสั้น",
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": "2026-08-20",
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "015fe468f46523c1ae46daf5d77cc73e047a2540a971a1d08a45cb9cc9776786"
         }
       ]
@@ -175,12 +175,12 @@
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": "2019-05-31",
           "status": "closed",
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "error",
           "checkError": "Unexpected cross-domain redirect"
         }
       ],
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00"
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00"
     },
     {
       "id": "freesia",
@@ -230,7 +230,7 @@
       "posterUpdated": null,
       "subtitle": "เบาะแสเช่ารายเดือน รวมค่าน้ำและค่าไฟ",
       "sourceFingerprint": "a783b9a81aefaf03c240be219464229c1f2aec032b45fb5dcf1ae1e69299c412",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -292,7 +292,7 @@
       "indicativePrice": 9000,
       "subtitle": "ห้องส่วนตัวในย่านสุรวงศ์ ใกล้สามย่านและสีลม",
       "sourceFingerprint": "5b95ba5580866d049d2e9367e0f131b010cf3e5c93ed9699213558f1c1b85954",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -300,6 +300,19 @@
           "url": "assets/sunflower-0.jpg",
           "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/20/0811/160353_3696.jpg",
           "credit": "Hongpak"
+        }
+      ],
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4828",
+          "facts": "Studio (สตูดิโอ) 18 - 20 ตร.ม. 8,500 - 11,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง สามย่าน 500 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "dc8f5e0afc27a4029201171a70e4d8fbd353f0864c99170db37a48edb2f92170",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
         }
       ]
     },
@@ -359,9 +372,9 @@
       "posterUpdated": "2026-07-22T03:46:42.281Z",
       "address": "ซอยหน้าวัดหัวลำโพง ถนนสุรวงศ์",
       "subtitle": "ที่พักสไตล์บูทิค เดินทางผ่าน MRT สามย่าน",
-      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
+      "autoRatesAsOf": "2026-11-06T06:12:56+00:00",
       "sourceFingerprint": "a28f45bbd6b076a750a1448671670c4f647ffac9703a9877c7b34dc820d6acce",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -423,7 +436,7 @@
       "indicativePrice": 10000,
       "subtitle": "มีเบาะแสโปรรายเดือน แต่ราคาในแต่ละหน้าต่างกัน",
       "sourceFingerprint": "a233eb9cc90baa3311428ec81cdfc3f19fb040de3996ab339c3c401a89eea57b",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -499,9 +512,9 @@
       "posterUpdated": "2026-11-04T02:11:43.753Z",
       "address": "ซอยงามดูพลี ถนนพระราม 4",
       "subtitle": "ทางเลือกแคปซูล แยกจากห้องพักส่วนตัว",
-      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
+      "autoRatesAsOf": "2026-11-06T06:12:56+00:00",
       "sourceFingerprint": "144ac5a56476bf870c17fec20fa0b7b06fcac07958c3fd5ef9affc6e166c8c46",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -567,7 +580,7 @@
       "address": "ซอยงามดูพลี สาทร 1 ถนนพระราม 4",
       "subtitle": "เบาะแสราคาประหยัด ต้องยืนยันราคาและห้องปัจจุบัน",
       "sourceFingerprint": "8e1e91296c1105348fd58bea1bab5d822931b368035f5efcff99c6161cb147b6",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -575,6 +588,19 @@
           "url": "assets/best-living-0.jpg",
           "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/20/1020/best-living-house_6476.jpeg",
           "credit": "Hongpak"
+        }
+      ],
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5371",
+          "facts": "1 Bedroom (แยกห้องนอน) 20 ตร.ม. 1 นอน 1 น้ำ 3,500 - 4,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 600 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "c3843d47b1c5708b6474c9bb35514fea2de719124cc5e54f227922caef087dca",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
         }
       ]
     },
@@ -618,7 +644,7 @@
       "indicativePrice": 5000,
       "subtitle": "ราคาในงบ แต่ยังไม่ทราบสัญญาเช่าสั้น",
       "sourceFingerprint": "824edc8baac265ff2bbb4ada36016c654f4bfabe91a931131305c5a1e56debf8",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -642,9 +668,9 @@
         {
           "name": "Hongpak · ขั้นต่ำ 6 เดือน",
           "url": "https://www.hongpak.in.th/rooms/26821",
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "eca9d2567345ca4ed9332c9a320eaa88bc5a40858226ed07a025bdbe45a647f4"
         }
       ],
@@ -706,9 +732,9 @@
       "posterUpdated": "2026-10-25T04:46:35.943Z",
       "address": "ซอยเจริญสุข ถนนพระราม 4",
       "subtitle": "เก็บเป็นรายการติดตาม เมื่อมีห้องว่างรายเดือน",
-      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
+      "autoRatesAsOf": "2026-11-06T06:12:56+00:00",
       "sourceFingerprint": "993be200d450082587c82a8cd74dad91c57360483aa80a0f7b422116aa053b43",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -768,7 +794,7 @@
       "indicativePrice": 8000,
       "subtitle": "ห้องในงบระบุเต็ม และไกลกว่าเกณฑ์หลัก",
       "sourceFingerprint": "290a00af35ff5825a082cee5d0b59bfa9f1a22e625a116988da68411f7eecd06",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -842,9 +868,9 @@
       "posterUpdated": "2026-10-29T07:11:17.083Z",
       "address": "ถนนบรรทัดทอง",
       "subtitle": "สัญญาเช่าสั้นในงบ แต่ไกลสถานีเกินเกณฑ์",
-      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
+      "autoRatesAsOf": "2026-11-06T06:12:56+00:00",
       "sourceFingerprint": "55db4b47ada12270123699c06a22269ed393ea3b4ca59b0c293d8f80e981d49f",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -904,7 +930,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-39888-0.jpg",
@@ -919,7 +945,20 @@
       ],
       "sourceListingId": "39888",
       "sourceFingerprint": "5c41cd5475d479f51a5d18c0a04ebede3d07cce6997501f3ef8ac06ffb7d0f50",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5369",
+          "facts": "Studio (สตูดิโอ) 24 ตร.ม. 3,500 - 5,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 500 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "6e1afc461ce52f3957a8a7c74772fc621dbb7303926ade24f563802f0809aed7",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-60939",
@@ -960,7 +999,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-60939-0.jpg",
@@ -975,7 +1014,20 @@
       ],
       "sourceListingId": "60939",
       "sourceFingerprint": "9eacaeee3ba3bdf4d187f00f8b06f833b947ce244bcc50ec15460957b7e18b77",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5367",
+          "facts": "1 Bedroom (แยกห้องนอน) 20 ตร.ม. 1 นอน 1 น้ำ 5,000 - 6,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 500 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "9cf834fcfec725d7049ce44c72ab09e4ff69f4e48c6487f9f35817c14a5238f2",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-54218",
@@ -1021,7 +1073,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-54218-0.jpg",
@@ -1046,10 +1098,21 @@
           "posterUpdated": "2026-09-06",
           "minimumMonths": 3,
           "indicativePrice": 4500,
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "84b48a115ad2319bd6d823c31d9eb049fd6db0191ae9d9be5dbce05af022a177"
+        },
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5366",
+          "facts": "Studio (สตูดิโอ) 14 ตร.ม. 3,500 - 5,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 500 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "fded498a79bffe28b85f20e4257277838ab5f901b5649eb01df510a8cdec4fa7",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
         }
       ],
       "minLeaseMonths": 3
@@ -1093,7 +1156,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-46158-0.jpg",
@@ -1108,7 +1171,20 @@
       ],
       "sourceListingId": "46158",
       "sourceFingerprint": "1a252ccd46075dc559a08b52a9473155f81b99c561f8184c38644e445a88393f",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5370",
+          "facts": "Studio (สตูดิโอ) 36 ตร.ม. 9,000 - 14,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 500 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "d167f9a911b4281098cdd43edb26323696d42d673ca8001958b450530648aada",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-57083",
@@ -1151,7 +1227,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-57083-0.jpg",
@@ -1175,9 +1251,9 @@
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": null,
           "minimumMonths": 6,
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "ccb1dfe29a1b4e36f445d7259ba823a9274baf35e7b08fc46ca26174a6ab4efe"
         }
       ],
@@ -1222,7 +1298,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-39594-0.jpg",
@@ -1281,7 +1357,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6900,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-45165-0.jpg",
@@ -1296,7 +1372,20 @@
       ],
       "sourceListingId": "45165",
       "sourceFingerprint": "89a560cc2f689ba5f4e0d5a8d77132e0b17f71d4842a843c5c4b4f809c8f8c7e",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/3975",
+          "facts": "Studio (สตูดิโอ) 30 ตร.ม. 6,500 บาท/เดือน 1 Bedroom (แยกห้องนอน) 60 ตร.ม. 1 นอน 1 น้ำ 13,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 100 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "acc6889b25ecfe8a5504c29d9fb315ba8e1ff33f590f1eafbdfb5114a8adab4e",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-57784",
@@ -1346,7 +1435,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 6000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-57784-0.jpg",
@@ -1405,7 +1494,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3200,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-60063-0.jpg",
@@ -1464,7 +1553,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5900,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-54180-0.jpg",
@@ -1479,7 +1568,20 @@
       ],
       "sourceListingId": "54180",
       "sourceFingerprint": "2bac005b5376129735f374f0babe92b2e2d2cd60116570ee7b342a25ff7d843b",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5093",
+          "facts": "Studio (สตูดิโอ) 5,900 - 6,900 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง คลองเตย 600 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "a0c8d6392d9d5c9f099fc53c1ce22ed441ed7306012310316f9fa0ac3a7f775b",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-51223",
@@ -1523,7 +1625,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3800,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-51223-0.jpg",
@@ -1538,7 +1640,20 @@
       ],
       "sourceListingId": "51223",
       "sourceFingerprint": "dc14d48211a6db1d0483d51567fb2b1c1b509c61cfc750c9c467a5754341e268",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5094",
+          "facts": "Studio (สตูดิโอ) 6,000 - 8,800 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง คลองเตย 600 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "7eff2efd47902cacdea01516fb9d3aefa45cc5cb2a0186c60a452b6dee3a5b7e",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-58692",
@@ -1589,7 +1704,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 5500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-58692-0.jpg",
@@ -1655,7 +1770,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 5499,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-52358-0.jpg",
@@ -1670,7 +1785,20 @@
       ],
       "sourceListingId": "52358",
       "sourceFingerprint": "fe0b3af90ebfebb013438f203e4ae905f8ed45348fe29614105bf47c17e53ceb",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5372",
+          "facts": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 5,500 - 7,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 500 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "7c5fe39fa8a3e021cac06f369a8ddd9b76b1e1fab116757ab3898cae5fc52fbe",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-62360",
@@ -1713,7 +1841,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-62360-0.jpg",
@@ -1738,9 +1866,9 @@
           "posterUpdated": null,
           "minimumMonths": 3,
           "indicativePrice": 9000,
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "f94e322c79d9e9ffbdee9a593df8219486f0997f7e6676459971d703eec2bcc8"
         }
       ],
@@ -1787,7 +1915,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-13269-0.jpg",
@@ -1844,7 +1972,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-55407-0.jpg",
@@ -1894,7 +2022,8 @@
       ],
       "notes": [
         "ยังไม่ระบุราคาเช่า 1–4 เดือนหรือขั้นต่ำสัญญาชัดเจน ต้องสอบถามก่อนเลือก",
-        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น"
+        "ราคาประกาศอ้างอิงเป็นคอลัมน์รายเดือน ไม่ถือเป็นราคาระยะสั้น",
+        "ข้อมูล ZmyHome ใช้ชื่อและซอยเดียวกัน แต่เลขที่อาคารต่างจากต้นทางหลัก ต้องตรวจเลขที่ก่อนจอง ไม่สร้างรายการซ้ำ"
       ],
       "walkingClaim": "ผู้ประกาศแจ้ง 200 ม. ถึง MRT ศูนย์ฯ สิริกิติ์ ทางออก 4; หน้าเว็บ 199 ม.; ยังไม่ยืนยันทางเดิน",
       "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
@@ -1903,7 +2032,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-42468-0.jpg",
@@ -1918,7 +2047,21 @@
       ],
       "sourceListingId": "42468",
       "sourceFingerprint": "42bb8a083aad9be47d22665e07866287300d232dc32d3e22bac72405806442a0",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/3970",
+          "facts": "Studio (สตูดิโอ) 23 ตร.ม. 8,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 33 ตร.ม. 1 นอน 1 น้ำ 12,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 200 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "52be002b5f0bea89ac57934a8ee6ebdc3b22945ea43da31dc6167835f8452218",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ],
+      "needsReview": true
     },
     {
       "id": "rh-41521",
@@ -1962,7 +2105,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-41521-0.jpg",
@@ -1977,7 +2120,20 @@
       ],
       "sourceListingId": "41521",
       "sourceFingerprint": "f3e74ef9f61fcdd8d798a9c329c274c3370443deb1dc0590a06fd42ec0e88487",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4001",
+          "facts": "1 Bedroom (แยกห้องนอน) 20 - 26 ตร.ม. 1 นอน 1 น้ำ 6,500 - 8,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 300 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "f5dca1af115f95a927f1d57b610346a798003d984ee1c22d166c7eeefada9812",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-38903",
@@ -2022,7 +2178,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-38903-0.jpg",
@@ -2037,7 +2193,20 @@
       ],
       "sourceListingId": "38903",
       "sourceFingerprint": "5aeb5159ecbfd4e835ada161e30f0678efcec1742da7b50a70cc52f62da05ed9",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4002",
+          "facts": "1 Bedroom (แยกห้องนอน) 20 - 26 ตร.ม. 1 นอน 1 น้ำ 6,500 - 7,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 300 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "59c103b7931e361f167f3c49bd6407a19dee24dfd18dab0624a576b4cdf45e43",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-51569",
@@ -2081,7 +2250,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-51569-0.jpg",
@@ -2105,9 +2274,9 @@
           "facts": "Hongpak ระบุค่าเช่า 6,500–7,000 ขั้นต่ำ 12 เดือน ประกัน 10,000 ไฟ 7/หน่วย น้ำ 22/หน่วย ขัดกับข้อความรับนักศึกษาฝึกงาน 2 เดือนใน RentHub ต้องยืนยันสิทธิ์เช่าสั้นและราคา",
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": null,
-          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
           "fingerprint": "4a224e9b8c456c3e5a3f9e888487de3266bd69f8696ec4130b0dae880d2822f7"
         }
       ],
@@ -2157,7 +2326,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6600,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-55738-0.jpg",
@@ -2217,7 +2386,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6700,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-51319-0.jpg",
@@ -2233,7 +2402,20 @@
       "sourceListingId": "51319",
       "minLeaseMonths": 3,
       "sourceFingerprint": "1cd43cef8e93e2719aa721e30c0395708f88e09dcd69015c73b99b6b84bf505e",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4003",
+          "facts": "Studio (สตูดิโอ) 65 ตร.ม. 12,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 20 - 25 ตร.ม. 1 นอน 1 น้ำ 6,500 - 7,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 300 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "7694e19e73f13855f9926b3ed29e09ba0f8f302b4ae9a856583ae83b2afa703d",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-54698",
@@ -2277,7 +2459,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5800,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-54698-0.jpg",
@@ -2337,7 +2519,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-51318-0.jpg",
@@ -2393,7 +2575,8 @@
       "amenities": [],
       "notes": [
         "คำบรรยายระบุขั้นต่ำ 4 เดือน ราคา 3,000–3,200 บาท",
-        "ห้องพัดลมขนาด 7.5 ตร.ม. ต้องยืนยันเส้นทางเดินก่อนนับเป็นตัวเลือกตรงเกณฑ์"
+        "ห้องพัดลมขนาด 7.5 ตร.ม. ต้องยืนยันเส้นทางเดินก่อนนับเป็นตัวเลือกตรงเกณฑ์",
+        "ข้อมูล ZmyHome ใช้ชื่อและซอยเดียวกัน แต่เลขที่อาคารต่างจากต้นทางหลัก ต้องตรวจเลขที่ก่อนจอง ไม่สร้างรายการซ้ำ"
       ],
       "walkingClaim": "หน้า RentHub แสดง 248 ม. ถึง ศูนย์ฯ สิริกิติ์; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
       "oneBangkok": "MRT 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
@@ -2402,7 +2585,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 3000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-54928-0.jpg",
@@ -2417,7 +2600,21 @@
       ],
       "sourceListingId": "54928",
       "sourceFingerprint": "b26d12cf23f36c3d410f1332f24d74c7abacab8462c9dd15c92888397dfacbfb",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/3969",
+          "facts": "Studio (สตูดิโอ) 2,800 - 3,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 200 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "a09db887deaae232b0dc709e992f81b4b7ebeb2c9ff4cfea719de2157f5cce95",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ],
+      "needsReview": true
     },
     {
       "id": "rh-34489",
@@ -2461,7 +2658,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-34489-0.jpg",
@@ -2476,7 +2673,20 @@
       ],
       "sourceListingId": "34489",
       "sourceFingerprint": "59f513d17aeb33e01bc8617640a268aafcc3512b89cfe5ac0221a37e306c72f6",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/3968",
+          "facts": "1 Bedroom (แยกห้องนอน) 20 ตร.ม. 1 นอน 1 น้ำ 5,000 - 5,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ศูนย์ฯ สิริกิติ์ 400 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "87ca9234e1542fef7b9306fc08c6e46c69215f7d9effd0ca831cf81442e10ef5",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-58874",
@@ -2517,7 +2727,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 2500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-58874-0.jpg",
@@ -2573,7 +2783,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-58077-0.jpg",
@@ -2634,7 +2844,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-27310-0.jpg",
@@ -2649,7 +2859,20 @@
       ],
       "sourceListingId": "27310",
       "sourceFingerprint": "8fcbf040139934fa45159aec9f7a8427a2285258d90662b8ee039af5145b2d29",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4773",
+          "facts": "Studio (สตูดิโอ) 28 ตร.ม. 7,500 - 11,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง สามย่าน 600 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "3a6bd51ec4ceaaed0f7f600d6473302a9b0ca5d6c335de16e4175758a56b0846",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-47118",
@@ -2693,7 +2916,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-47118-0.jpg",
@@ -2708,7 +2931,20 @@
       ],
       "sourceListingId": "47118",
       "sourceFingerprint": "967228955517af648a2311901ea937286b564fd126008237d59b32dbe1682efe",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4774",
+          "facts": "Studio (สตูดิโอ) 4,000 - 5,800 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง สามย่าน 600 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "0902f3078a5daee85344fa75e67efd5aa9537bd4d3ff9fd70d7f15057b33ecd6",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-22869",
@@ -2751,7 +2987,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5999,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-22869-0.jpg",
@@ -2766,7 +3002,20 @@
       ],
       "sourceListingId": "22869",
       "sourceFingerprint": "b0cd8e49f5415f1eb1531d5c06536ffe7293401d60b454467fc51833028f0a01",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4846",
+          "facts": "1 Bedroom (แยกห้องนอน) 30 ตร.ม. 1 นอน 1 น้ำ 6,799 - 8,099 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง หัวลำโพง 400 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "7a41de8bbdb763f6990ca802ee097e8927561eea4e410196214e686c1ace6ef7",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00"
+        }
+      ]
     },
     {
       "id": "rh-6672",
@@ -2810,7 +3059,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-6672-0.jpg",
@@ -2868,7 +3117,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-71099-0.jpg",
@@ -2924,7 +3173,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-67872-0.jpg",
@@ -2982,7 +3231,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 2700,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-55921-0.jpg",
@@ -3046,7 +3295,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 9500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-53514-0.jpg",
@@ -3103,7 +3352,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-21831-0.jpg",
@@ -3163,7 +3412,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-42399-0.jpg",
@@ -3178,7 +3427,20 @@
       ],
       "sourceListingId": "42399",
       "sourceFingerprint": "3b73f166f671d1d07f1fad40186046cb0599d94e832b1e78ba807f21e7d523e7",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4748",
+          "facts": "หอพัก ณ สว่าง เลขที่ 54 ซอยสว่าง 5 ที่เดียวกับต้นทางหลัก; เว็บแสดง 8,000–10,000 บาท ไม่ระบุขั้นต่ำสัญญา จึงไม่แทนราคาเช่าสั้น",
+          "checkedAt": "2026-11-06T06:09:39+00:00",
+          "posterUpdated": null,
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+          "fingerprint": "e86d958a08110b431e2f460e41c64a37bc69b25a0ea4bbd3b900dd72f6a56e57"
+        }
+      ]
     },
     {
       "id": "rh-5758",
@@ -3222,7 +3484,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-5758-0.jpg",
@@ -3237,7 +3499,20 @@
       ],
       "sourceListingId": "5758",
       "sourceFingerprint": "56dbdc256de14544a56337f0d0d10fad8da7ca98b3edde093815b8fae24c5946",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/4775",
+          "facts": "Studio (สตูดิโอ) 23 - 40 ตร.ม. 8,000 - 10,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง สามย่าน 700 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "2a915730b852aece741e054e30f1038aa1774f2a1a8b52071b698630fd8f75a4",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "error",
+          "checkError": "HTTP Error 429: Too Many Requests"
+        }
+      ]
     },
     {
       "id": "rh-40251",
@@ -3277,7 +3552,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-40251-0.jpg",
@@ -3292,7 +3567,20 @@
       ],
       "sourceListingId": "40251",
       "sourceFingerprint": "64010416935c2ebf73662452116ba93ec6698ad586c8f21a2f4c0c64d7e63ac4",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5354",
+          "facts": "Studio (สตูดิโอ) 28 ตร.ม. 8,500 - 9,000 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง คลองเตย 300 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "0b09c3e820c15ed659fcdb7b5e272cde9acfb9ba511546e9968081acb37f2734",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "error",
+          "checkError": "HTTP Error 429: Too Many Requests"
+        }
+      ]
     },
     {
       "id": "rh-40766",
@@ -3335,7 +3623,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/rh-40766-0.jpg",
@@ -3350,7 +3638,20 @@
       ],
       "sourceListingId": "40766",
       "sourceFingerprint": "5ef961378b9b53d2a78ba2c904b5b73f59357ad16aea8f228866df8b7a667a72",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5353",
+          "facts": "Studio (สตูดิโอ) 30 - 37 ตร.ม. 9,000 - 10,500 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง คลองเตย 300 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "57b163b24b57b39dc8863c24454d0502a88a515ae6a7beb83de6d2513dad3506",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "error",
+          "checkError": "HTTP Error 429: Too Many Requests"
+        }
+      ]
     },
     {
       "id": "hongpak-st-food-room",
@@ -3394,7 +3695,7 @@
       "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
       "indicativePrice": 5300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/hongpak-st-food-room.jpg",
@@ -3403,7 +3704,19 @@
         }
       ],
       "checkError": null,
-      "additionalSources": [],
+      "additionalSources": [
+        {
+          "name": "ZmyHome",
+          "url": "https://zmyhome.com/apartment/5374",
+          "facts": "Studio (สตูดิโอ) 2,800 - 6,800 บาท/เดือน; ไม่ระบุขั้นต่ำสัญญา จึงยังไม่ใช้เป็นราคาเช่า 1–4 เดือน; เว็บแสดง ลุมพินี 300 ม. ไม่ใช่ระยะเดินที่ยืนยัน",
+          "checkedAt": "2026-11-06T06:07:59+00:00",
+          "posterUpdated": null,
+          "fingerprint": "eedd9598bc74ce18f54f22c17a19ac2c8311d8c8f748de7655495ed3175693cd",
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "error",
+          "checkError": "HTTP Error 429: Too Many Requests"
+        }
+      ],
       "sourceFingerprint": "6a09e0fc9cf978ffa9e9ad79b054d3e2a26499fb24ac8d56cea710e8c39b7580"
     },
     {
@@ -3448,7 +3761,7 @@
       "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/hongpak-one-rooms.jpg",
@@ -3502,7 +3815,7 @@
       "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
       "photos": [
         {
           "url": "assets/hongpak-paradise-place.jpg",
@@ -3514,6 +3827,2191 @@
       "additionalSources": [],
       "minLeaseMonths": 12,
       "sourceFingerprint": "9a371a70fec9e3675536e24e8374cbe84f2bf20b28d7eb6d64483bb9739ce1eb"
+    },
+    {
+      "id": "zmy-3974",
+      "name": "เดอ ตาลักก์ เรสซิเดนซ์",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 23.0,
+      "offers": [],
+      "indicativePrice": 7000,
+      "sourceUrl": "https://zmyhome.com/apartment/3974",
+      "sourceName": "ZmyHome",
+      "rank": 33.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 300 ม. ถึง ศูนย์ฯ สิริกิติ์; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 300,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 23 - 25 ตร.ม. 7,000 - 8,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT ศูนย์ฯ สิริกิติ์ (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "14/33 ซ.ไผ่สิงห์โต ถ.พระรามที่ 4 คลองเตย คลองเตย, กรุงเทพมหานคร 10110",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-3974-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/3974/03-09-2023-09-55-441050728495.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "1c1c3192f77554c46fed5185cfc3afdcb78ddc82176558541fdc301aebc6d272",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 23 - 25 ตร.ม. 7,000 - 8,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-3976",
+      "name": "เบญจเรสซิเดนซ์ ซอยไผ่สิงห์โต",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 31.0,
+      "offers": [],
+      "indicativePrice": 9500,
+      "sourceUrl": "https://zmyhome.com/apartment/3976",
+      "sourceName": "ZmyHome",
+      "rank": 32.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 200 ม. ถึง ศูนย์ฯ สิริกิติ์; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 200,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 31 ตร.ม. 9,500 - 12,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT ศูนย์ฯ สิริกิติ์ (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.ไผ่สิงห์โต ถ.พระรามที่ 4 คลองเตย คลองเตย, กรุงเทพมหานคร 10110",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [],
+      "sourceFingerprint": "d5db79dfe877e006eddf53b95827719bf0a258fd939f96ac5de6251aa96ffc93",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 31 ตร.ม. 9,500 - 12,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-3980",
+      "name": "เอสเอ็น อพาร์ทเมนต์ พระราม 4",
+      "kind": "apartment",
+      "station": "ศูนย์ฯ สิริกิติ์",
+      "stops": 2,
+      "size": 20.0,
+      "offers": [],
+      "indicativePrice": 6500,
+      "sourceUrl": "https://zmyhome.com/apartment/3980",
+      "sourceName": "ZmyHome",
+      "rank": 32.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 200 ม. ถึง ศูนย์ฯ สิริกิติ์; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 200,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "21บาท ต่อหน่วย",
+        "electric": "8บาท ต่อหน่วย",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "เว็บระบุห้องรายวันไม่มีห้องน้ำในตัว แต่ประเภทห้องรายเดือนระบุ 1 ห้องน้ำ ต้องยืนยันให้ตรงห้องก่อนจอง",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 20 ตร.ม. 1 นอน 1 น้ำ 6,500 - 8,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT ศูนย์ฯ สิริกิติ์ (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "14 ถ.พระรามที่ 4 คลองเตย คลองเตย, กรุงเทพมหานคร 10110",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-3980-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/3980/03-09-2023-10-27-131192605544.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "fbb5ff3b6549f4be8257175f15b4db27bc31038f56d4f2aa20af6bb30dc48c3a",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 20 ตร.ม. 1 นอน 1 น้ำ 6,500 - 8,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-3982",
+      "name": "บ้านกระจกสี พระราม 4",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 8000,
+      "sourceUrl": "https://zmyhome.com/apartment/3982",
+      "sourceName": "ZmyHome",
+      "rank": 32.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 200 ม. ถึง คลองเตย; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 200,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "400บาท ต่อห้อง/เดือน",
+        "electric": "6บาท ต่อหน่วย",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 42 ตร.ม. 12,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 24 - 32 ตร.ม. 1 นอน 1 น้ำ 8,000 - 14,000 บาท/เดือน 2 Bedroom (แยกห้องนอน) 42 ตร.ม. 12,000 บาท/เดือน",
+        "ค่าไฟ/ค่าน้ำใน RentHub ต่างจาก ZmyHome ต้องยืนยันอัตราปัจจุบันก่อนจอง"
+      ],
+      "oneBangkok": "เดินถึง MRT คลองเตย (ยังไม่ยืนยันระยะ) แล้วนั่ง 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "1114 ถ.พระรามที่ 4 คลองเตย คลองเตย, กรุงเทพมหานคร 10110",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [
+        {
+          "name": "RentHub",
+          "url": "https://www.renthub.in.th/บ้านกระจกสี-ถ-พระราม4-ใกล้-mrtคลองเตย",
+          "facts": "ระบุรับรายสัปดาห์/รายเดือน และผู้ประกาศแจ้งเดิน 200 ม. ถึง MRT คลองเตย; ประกัน 1 เดือน ล่วงหน้า 1 เดือน ค่าไฟ 10 บาท/หน่วย น้ำ 200 บาท/เดือน; ตารางห้อง 7,500–9,000 บาทเป็นสัญญา 1 ปี ยังไม่มีอัตราแยกเช่าสั้น",
+          "checkedAt": "2026-11-06T06:10:15+00:00",
+          "posterUpdated": null,
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+          "fingerprint": "3f9c937d716293a51b8902bf2906087da265efefb11de85afe53a9e842e27b56"
+        }
+      ],
+      "sourceFingerprint": "0cbef08835abc396b739ffe5d1d35332c677f394865fbb70b5f1238222784009",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 42 ตร.ม. 12,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 24 - 32 ตร.ม. 1 นอน 1 น้ำ 8,000 - 14,000 บาท/เดือน 2 Bedroom (แยกห้องนอน) 42 ตร.ม. 12,000 บาท/เดือน",
+      "needsReview": true
+    },
+    {
+      "id": "zmy-4743",
+      "name": "ห้องพัก 568/18",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 4000,
+      "sourceUrl": "https://zmyhome.com/apartment/4743",
+      "sourceName": "ZmyHome",
+      "rank": 36.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 600 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 600,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 4,000 - 5,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.กิจพานิช ถ.พระรามที่ 4 มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [],
+      "sourceFingerprint": "0d3069495e77e3af28b0928a398b9880264cd5ed6472f57130c2e46016dc3823",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 4,000 - 5,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4746",
+      "name": "เมทโทร เซอร์วิส อพาร์ทเมนท์",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 24.0,
+      "offers": [],
+      "indicativePrice": 8000,
+      "sourceUrl": "https://zmyhome.com/apartment/4746",
+      "sourceName": "ZmyHome",
+      "rank": 30.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 0.0 กม. (ค่าปัดเศษของเว็บ) ถึง MRT หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 0,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "รวมในค่าเช่า",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 24 ตร.ม. 8,000 - 15,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ถ.พระรามที่ 4 มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [],
+      "sourceFingerprint": "9eb41b1fce4023cbd12ddf9c9bb8022dbbfa061a2677b6b27f68ff3d88d9c43a",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 24 ตร.ม. 8,000 - 15,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4747",
+      "name": "เอส เค บูติก มหานคร",
+      "kind": "hostel",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 25.0,
+      "offers": [],
+      "indicativePrice": 8000,
+      "sourceUrl": "https://zmyhome.com/apartment/4747",
+      "sourceName": "ZmyHome",
+      "rank": 30.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 0.0 กม. (ค่าปัดเศษของเว็บ) ถึง MRT หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 0,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "16บาท ต่อหน่วย",
+        "electric": "6บาท ต่อหน่วย",
+        "internet": "500บาท ต่อห้อง/เดือน",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ต้องสอบถามว่าเป็นห้องส่วนตัวหรือห้องรวม และห้องน้ำในตัวหรือใช้ร่วมกัน",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 25 ตร.ม. 8,000 - 13,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "326/23-25 ถ.พระรามที่ 4 มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4747-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4747/02-27-2023-11-07-171202940735.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "51bbab56f705b0e8d07286fc791cd26eb4419f7c1ddb868a40bb4d0012c7ad3f",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 25 ตร.ม. 8,000 - 13,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4750",
+      "name": "บลิสเรสซิเดนซ์",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 25.0,
+      "offers": [],
+      "indicativePrice": 5000,
+      "sourceUrl": "https://zmyhome.com/apartment/4750",
+      "sourceName": "ZmyHome",
+      "rank": 33.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 300 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 300,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "17บาท ต่อหน่วย",
+        "electric": "6บาท ต่อหน่วย",
+        "internet": "500บาท ต่อห้อง/เดือน",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 25 - 34 ตร.ม. 5,000 - 7,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "มหานคร มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [],
+      "sourceFingerprint": "71a0088e27a683eaccea877a03bf1e2f934206b4c583ad6ef52bfdeb4822f970",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 25 - 34 ตร.ม. 5,000 - 7,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4752",
+      "name": "ที.ที. เกสท์เฮ้าส์",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 2500,
+      "sourceUrl": "https://zmyhome.com/apartment/4752",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "170บาท ต่อคน/เดือน",
+        "electric": "9บาท ต่อหน่วย",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 2,500 - 5,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "516/8 ถ.สว่าง มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4752-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4752/02-23-2023-02-18-15545863090.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "460435166b56462ac060b8e9d9ea8756fa039c791b585fc48ef553c0522dff68",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 2,500 - 5,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4756",
+      "name": "ไอสนุก แบ้งค์คอก",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 25.0,
+      "offers": [],
+      "indicativePrice": 8900,
+      "sourceUrl": "https://zmyhome.com/apartment/4756",
+      "sourceName": "ZmyHome",
+      "rank": 38.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 800 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 800,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "17บาท ต่อหน่วย",
+        "electric": "4บาท ต่อหน่วย",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 25 - 32 ตร.ม. 8,900 - 18,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 34 - 45 ตร.ม. 1 นอน 1 น้ำ 14,000 - 20,000 บาท/เดือน 2 Bedroom (แยกห้องนอน) 65 ตร.ม. 25,000 - 30,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "118 ซ.สองพระ ถ.สี่พระยา มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4756-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4756/02-23-2023-02-25-13451172757.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "08eec27c8ef9d5122fb0d48e0f3033b5067436a35765af1ae8ca693cd376a1a6",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 25 - 32 ตร.ม. 8,900 - 18,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 34 - 45 ตร.ม. 1 นอน 1 น้ำ 14,000 - 20,000 บาท/เดือน 2 Bedroom (แยกห้องนอน) 65 ตร.ม. 25,000 - 30,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4757",
+      "name": "บ้านสองพระ",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 7800,
+      "sourceUrl": "https://zmyhome.com/apartment/4757",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 7,800 - 8,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "58/5-6-7 ซ.สองพระ ถ.สี่พระยา มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4757-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4757/02-23-2023-02-21-161561712834.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "42074b476f160efe557aba4782f7489ebb50ec66e1ea04cd6bb6c9c8b8b27dad",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 7,800 - 8,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4758",
+      "name": "บ้าน ณ ภา",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 5900,
+      "sourceUrl": "https://zmyhome.com/apartment/4758",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 5,900 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.สะพานเตี้ย ถ.สี่พระยา มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4758-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4758/03-08-2023-10-33-25915747727.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "d6070c21b5886a61c1f73c5d0040ac878bca11afa21dc0127e2bb54c71790c97",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 5,900 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4761",
+      "name": "สี่พระยา อพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 28.0,
+      "offers": [],
+      "indicativePrice": 4500,
+      "sourceUrl": "https://zmyhome.com/apartment/4761",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "สอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 28 ตร.ม. 4,500 - 5,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "412 ถ.สี่พระยา มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4761-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4761/02-27-2023-11-05-411598600421.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "a09a53d45ac81833e4d637178355b57925da292e4251bae741c5851bafbbcf44",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 28 ตร.ม. 4,500 - 5,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4762",
+      "name": "บ้านบางรัก",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 24.0,
+      "offers": [],
+      "indicativePrice": 6900,
+      "sourceUrl": "https://zmyhome.com/apartment/4762",
+      "sourceName": "ZmyHome",
+      "rank": 32.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 200 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 200,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "16 ขั้นต่ำ 90",
+        "electric": "7บาท ต่อหน่วย",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 24 ตร.ม. 6,900 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "48/3 ถ.สี่พระยา มหาพฤฒาราม บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4762-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4762/03-08-2023-10-22-4476382675.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "21221c86a6c80fea03255528591a51506ac97b469b06cb54ca711135750f5c80",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 24 ตร.ม. 6,900 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4768",
+      "name": "เอสฟิฟตี้ทู สามย่าน",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 20.0,
+      "offers": [],
+      "indicativePrice": 10000,
+      "sourceUrl": "https://zmyhome.com/apartment/4768",
+      "sourceName": "ZmyHome",
+      "rank": 33.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 300 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 300,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 20 - 38 ตร.ม. 10,000 - 15,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "8/1 ถ.ทรัพย์ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4768-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4768/03-08-2023-10-30-261808841337.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "7b9849a147e413290d5a11408225efa9becaf705c305a300eae4cb8094fb852a",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 20 - 38 ตร.ม. 10,000 - 15,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4771",
+      "name": "บ้านทิพวรรณ",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 7000,
+      "sourceUrl": "https://zmyhome.com/apartment/4771",
+      "sourceName": "ZmyHome",
+      "rank": 36.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 600 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 600,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 22 ตร.ม. 7,000 - 9,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 47 ตร.ม. 1 นอน 1 น้ำ 12,000 - 22,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.น้อมจิตต์ ถ.นเรศ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4771-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4771/03-08-2023-10-21-45206772180.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "6098a215b6c2fbacabf06d7a973af7912e1cbbf84e5ba3fb5c27d25cdc602b55",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 22 ตร.ม. 7,000 - 9,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 47 ตร.ม. 1 นอน 1 น้ำ 12,000 - 22,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4772",
+      "name": "บ้าน ณ ภัน",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 5500,
+      "sourceUrl": "https://zmyhome.com/apartment/4772",
+      "sourceName": "ZmyHome",
+      "rank": 36.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 600 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 600,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "สอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 5,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "113/14 ซ.น้อมจิตต์ ถ.นเรศ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4772-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4772/03-08-2023-10-20-17344649894.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "7e60d40fbec30daa9eaee3276ec5bcf5302dc30eafd4293c6e4782e952501876",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 5,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4777",
+      "name": "นเรศ โคลีฟวิ่ง",
+      "kind": "hostel",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 10.0,
+      "offers": [],
+      "indicativePrice": 7000,
+      "sourceUrl": "https://zmyhome.com/apartment/4777",
+      "sourceName": "ZmyHome",
+      "rank": 38.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 800 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 800,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "200บาท ต่อคน/เดือน",
+        "electric": "9บาท ต่อหน่วย",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ต้องสอบถามว่าเป็นห้องส่วนตัวหรือห้องรวม และห้องน้ำในตัวหรือใช้ร่วมกัน",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 10 ตร.ม. 1 นอน 1 น้ำ 7,000 - 15,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "136/27 ถ.นเรศ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4777-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4777/03-01-2023-09-09-471503416042.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "97847a7efe73f344938db0e92ba15408bc64353f516ec7a7a0403ff7281907d2",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 10 ตร.ม. 1 นอน 1 น้ำ 7,000 - 15,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4780",
+      "name": "เบเกิล เบรคฟาสท์ คาเฟ่แอนด์โฮสเทล",
+      "kind": "hostel",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 7000,
+      "sourceUrl": "https://zmyhome.com/apartment/4780",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "รวมในค่าห้องแล้ว",
+        "electric": "ตามที่การไฟฟ้ากำหนด",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ต้องสอบถามว่าเป็นห้องส่วนตัวหรือห้องรวม และห้องน้ำในตัวหรือใช้ร่วมกัน",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 7,000 - 12,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "136/1 ถ.นเรศ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4780-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4780/02-23-2023-02-07-16338258599.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "0412b0207614b7eef015632b872f96341c5b40e36753ab7cc74d2fafcdbf64db",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 7,000 - 12,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4782",
+      "name": "สตาร์​ อพาร์ตเม้นท์",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 30.0,
+      "offers": [],
+      "indicativePrice": 8000,
+      "sourceUrl": "https://zmyhome.com/apartment/4782",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "24บาท ต่อหน่วย",
+        "electric": "7บาท ต่อหน่วย",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 30 ตร.ม. 8,000 - 12,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "91 ถ.นเรศ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4782-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4782/02-28-2023-05-15-35762873398.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "002544130f82c8577bb2b283d392b4c5196984ef56cd2750ec9ff7f8218ddbab",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 30 ตร.ม. 8,000 - 12,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4788",
+      "name": "สิวารี อพาร์เม้นท์",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 26.0,
+      "offers": [],
+      "indicativePrice": 6500,
+      "sourceUrl": "https://zmyhome.com/apartment/4788",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 26 ตร.ม. 6,500 - 8,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.น้อมจิตต์ ถ.สุรวงศ์ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4788-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4788/03-08-2023-10-25-082024448225.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "83df844fd4b0d56a4a96c6c4b048b1a4e4780e0f2ceacff8dff1f84ba760ce92",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 26 ตร.ม. 6,500 - 8,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4791",
+      "name": "แฟลตสุนีย์",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 2500,
+      "sourceUrl": "https://zmyhome.com/apartment/4791",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "100บาท ต่อคน/เดือน",
+        "electric": "7บาท ต่อหน่วย",
+        "internet": "สอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 4 ตร.ม. 1 นอน 1 น้ำ 2,500 - 2,900 บาท/เดือน",
+        "เว็บระบุพื้นที่เพียง 4 ตร.ม. ต้องยืนยันพื้นที่และประเภทห้องใหม่"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "202 ถ.สุรวงศ์ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4791-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4791/03-08-2023-10-38-06908692953.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "08882d19930d7810f996aa1c81c7c3f0f7e8df2e8ea1b2400ffe132e9d8c1eb6",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "needsReview": true,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 4 ตร.ม. 1 นอน 1 น้ำ 2,500 - 2,900 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4792",
+      "name": "แฟมิลี่ อพาร์ทเมนท์",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": 24.0,
+      "offers": [],
+      "indicativePrice": 8000,
+      "sourceUrl": "https://zmyhome.com/apartment/4792",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 24 - 36 ตร.ม. 8,000 - 15,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ถ.สุรวงศ์ สี่พระยา บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4792-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4792/03-08-2023-10-32-22317821841.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "b96be1e7298e7597f7be92455c74c11d746736e6f3c6e085825a97102c67d26b",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 24 - 36 ตร.ม. 8,000 - 15,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4819",
+      "name": "มาร์คแลนด์ แมนชั่น",
+      "kind": "apartment",
+      "station": "สามย่าน",
+      "stops": 2,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 8500,
+      "sourceUrl": "https://zmyhome.com/apartment/4819",
+      "sourceName": "ZmyHome",
+      "rank": 38.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 800 ม. ถึง สามย่าน; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 800,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 8,500 - 12,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT สามย่าน (ยังไม่ยืนยันระยะ) แล้วนั่ง 2 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "5 ซ.อนุมานราชธน ถ.เดโช สุริยวงศ์ บางรัก, กรุงเทพมหานคร 10500",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4819-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4819/03-02-2023-04-57-26259942.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "31b99d242a9761c2d19022f117b846a55e0e4d983eebdecb5c671a3e8e3602f7",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 8,500 - 12,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4831",
+      "name": "ธนาพรแมนชั่น ปทุมวัน",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 3500,
+      "sourceUrl": "https://zmyhome.com/apartment/4831",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "สอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 3,500 - 5,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ถ.จรัสเมือง รองเมือง ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4831-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4831/03-03-2023-10-55-301356917883.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "6e5873b703248e346665d84f447f4ca90f27d8507d16b0dd1662b4ba96781ace",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 3,500 - 5,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4833",
+      "name": "บ้านแอน",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 25.0,
+      "offers": [],
+      "indicativePrice": 10000,
+      "sourceUrl": "https://zmyhome.com/apartment/4833",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "200บาท ต่อคน/เดือน",
+        "electric": "8บาท ต่อหน่วย",
+        "internet": "ฟรี",
+        "service": "500.00บาท ต่อห้อง/เดือน",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 25 - 30 ตร.ม. 10,000 - 15,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ถ.บรรทัดทอง รองเมือง ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [],
+      "sourceFingerprint": "527025a87926d12b2d5d8b9a0265bb574e10e625a5e268310c00381a1980d4fc",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 25 - 30 ตร.ม. 10,000 - 15,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4839",
+      "name": "มายเพลส",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 9000,
+      "sourceUrl": "https://zmyhome.com/apartment/4839",
+      "sourceName": "ZmyHome",
+      "rank": 36.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 600 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 600,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 9,000 - 12,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.ฟูศักดิ์ ถ.เจริญเมือง รองเมือง ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4839-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4839/02-23-2023-11-43-281689401223.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "befc7e53bfd244a9328c21da2346bff051ae56abc31d7645afab40891efc8556",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 9,000 - 12,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4841",
+      "name": "เดอะคอมม่อนเพลส",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 7500,
+      "sourceUrl": "https://zmyhome.com/apartment/4841",
+      "sourceName": "ZmyHome",
+      "rank": 37.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 700 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 700,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "300บาท ต่อห้อง/เดือน",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 7,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "30 ซ.รองเมือง 5 ถ.จรัสเมือง รองเมือง ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4841-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4841/02-22-2023-11-23-451495564763.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "3d474869facebd7cc44f069e7ba488085defe8fb91bf236f81fa93a4aece4934",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 7,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4842",
+      "name": "บรรทัดทองโฮสเทล",
+      "kind": "hostel",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 12.0,
+      "offers": [],
+      "indicativePrice": 5000,
+      "sourceUrl": "https://zmyhome.com/apartment/4842",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "รวมในค่าเช่า",
+        "electric": "รวมในค่าเช่า",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ต้องสอบถามว่าเป็นห้องส่วนตัวหรือห้องรวม และห้องน้ำในตัวหรือใช้ร่วมกัน",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 12 - 14 ตร.ม. 1 นอน 1 น้ำ 5,000 - 15,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "1806/18 ซ.สุนทรพิมล ถ.จารุเมือง รองเมือง ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4842-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4842/02-23-2023-01-44-29143969215.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "8eaf293d14fc046eb63cedd2f8af46da84ca15d3b675bf128f1cdb6fc78f4d9e",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 12 - 14 ตร.ม. 1 นอน 1 น้ำ 5,000 - 15,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4848",
+      "name": "รองเมืองอพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 22.0,
+      "offers": [],
+      "indicativePrice": 4800,
+      "sourceUrl": "https://zmyhome.com/apartment/4848",
+      "sourceName": "ZmyHome",
+      "rank": 38.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 800 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 800,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "18บาท ต่อหน่วย",
+        "electric": "7บาท ต่อหน่วย",
+        "internet": "250บาท ต่อห้อง/เดือน",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 22 ตร.ม. 1 นอน 1 น้ำ 4,800 - 5,400 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "69 ซ.รองเมือง 1 ถ.พระรามที่ 6 รองเมือง ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4848-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4848/02-22-2023-11-18-04186262781.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "c943ef087657d5eb16f819abea91d7b1dfade3e9b85220e901fc4f7e6cd244d1",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 22 ตร.ม. 1 นอน 1 น้ำ 4,800 - 5,400 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4863",
+      "name": "สิริน เพลส",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 5000,
+      "sourceUrl": "https://zmyhome.com/apartment/4863",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "สอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 5,000 - 8,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ถ.บรรทัดทอง วังใหม่ ปทุมวัน, กรุงเทพมหานคร 10330",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4863-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4863/02-22-2023-11-38-05481331250.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "c563785b005cf8618aa798115e0bb347f283a21db967fafd4c7e98102fe4300d",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 5,000 - 8,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-4877",
+      "name": "ทูโทน อพาร์เมนท์",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": 80.0,
+      "offers": [],
+      "indicativePrice": null,
+      "sourceUrl": "https://zmyhome.com/apartment/4877",
+      "sourceName": "ZmyHome",
+      "rank": 38.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 800 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 800,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "รวมในค่าเช่า",
+        "electric": "รวมในค่าเช่า",
+        "internet": "ฟรี ค่าจอดรถ ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: 2 Bedroom (แยกห้องนอน) 80 ตร.ม. 900 - 1,800 บาท/เดือน",
+        "เว็บระบุ 900–1,800 บาท/เดือน แต่คำบรรยายมีเวลา check-in/check-out และค่าคนเพิ่ม จึงยังไม่ใช้ตัวเลขนี้เป็นงบรายเดือน ต้องตรวจว่าเป็นรายวันหรือรายเดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "9/11 มิตรสัมพันธ์ ป้อมปราบ ป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร 10100",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-4877-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/4877/02-23-2023-11-40-191266008219.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "f8e9497878891cff912495fdf50fbd7dcf67f05ec637d33bacd7d1822e73c343",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "needsReview": true,
+      "sourceRoomText": "2 Bedroom (แยกห้องนอน) 80 ตร.ม. 900 - 1,800 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5095",
+      "name": "เย็นอากาศคอนเนอร์",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 9000,
+      "sourceUrl": "https://zmyhome.com/apartment/5095",
+      "sourceName": "ZmyHome",
+      "rank": 36.0,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 600 ม. ถึง คลองเตย; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 600,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: 1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 9,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT คลองเตย (ยังไม่ยืนยันระยะ) แล้วนั่ง 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ถ.เย็นอากาศ ช่องนนทรี ยานนาวา, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5095-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5095/03-03-2023-03-20-14382021568.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "76db0b27de6fdab7ffc2cfcf1a805e24318e7f7d6bee0f43c22f85560b33cf1d",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 9,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5348",
+      "name": "เดอะไลท์สเปซ",
+      "kind": "apartment",
+      "station": "หัวลำโพง",
+      "stops": 3,
+      "size": null,
+      "offers": [],
+      "indicativePrice": 2400,
+      "sourceUrl": "https://zmyhome.com/apartment/5348",
+      "sourceName": "ZmyHome",
+      "rank": 33.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 300 ม. ถึง หัวลำโพง; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 300,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "100บาท ต่อคน/เดือน",
+        "electric": "7 ขั้นต่ำ 100",
+        "internet": "ต้องสอบถาม",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 2,400 - 3,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT หัวลำโพง (ยังไม่ยืนยันระยะ) แล้วนั่ง 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "64 ซ.สุกร 1 มิตรภาพไทย-จีน ตลาดน้อย สัมพันธวงศ์, กรุงเทพมหานคร 10100",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [],
+      "additionalSources": [],
+      "sourceFingerprint": "0eb42b3c17a34eb7715cd0006d4e28da4f750793c70e4d7db34f997ba94a000b",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 2,400 - 3,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5351",
+      "name": "สิรีนสวีท สาทร",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 30.0,
+      "offers": [],
+      "indicativePrice": 8500,
+      "sourceUrl": "https://zmyhome.com/apartment/5351",
+      "sourceName": "ZmyHome",
+      "rank": 36.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 600 ม. ถึง คลองเตย; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 600,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "200บาท ต่อห้อง/เดือน",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ระยะจากเว็บ 501–800 ม. จัดเป็นเบาะแสสำรองเท่านั้น ยังไม่ยืนยันระยะเดินจริง",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 30 ตร.ม. 8,500 - 11,500 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT คลองเตย (ยังไม่ยืนยันระยะ) แล้วนั่ง 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "5 ซ.เชื้อเพลิง 4 (ศรีรุ้ง) ถ.เชื้อเพลิง ทุ่งมหาเมฆ สาทร, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5351-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5351/03-03-2023-03-25-58500346750.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "b8311cf6e570356bc01d6bfbeb4c4288bd3796a70d06b9c6453e46b56b304577",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 30 ตร.ม. 8,500 - 11,500 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5352",
+      "name": "เอส.เค.แกรนด์สาทร อพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 32.0,
+      "offers": [],
+      "indicativePrice": 10000,
+      "sourceUrl": "https://zmyhome.com/apartment/5352",
+      "sourceName": "ZmyHome",
+      "rank": 35.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง คลองเตย; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "18บาท ต่อหน่วย",
+        "electric": "6บาท ต่อหน่วย",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 32 ตร.ม. 10,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT คลองเตย (ยังไม่ยืนยันระยะ) แล้วนั่ง 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.ศรีบำเพ็ญ ถ.เชื้อเพลิง ทุ่งมหาเมฆ สาทร, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5352-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5352/03-03-2023-03-27-1941773924.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "c42dd8758342e13d2315f67f25d133f400296c1b7c849de38da47025095a1607",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 32 ตร.ม. 10,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5355",
+      "name": "เค เอช สาทร อพาร์ทเม้นท์",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 25.0,
+      "offers": [],
+      "indicativePrice": 7900,
+      "sourceUrl": "https://zmyhome.com/apartment/5355",
+      "sourceName": "ZmyHome",
+      "rank": 50,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "ZmyHome แสดง 0.3 กม.; ผู้ประกาศใน RentHub/ThaiApartment ระบุเดินประมาณ 700 ม. ยังไม่ยืนยันเส้นทางจริง จัดเป็นเบาะแสสำรอง",
+      "websiteMeters": 300,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "RentHub ระบุ 1 เดือน ต้องยืนยันว่าใช้กับสัญญาเช่าสั้นด้วย",
+        "advance": "RentHub ระบุ 1 เดือน"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 25 ตร.ม. 7,900 - 8,900 บาท/เดือน",
+        "ราคาจาก ZmyHome และ ThaiApartment ไม่ตรงกัน และมีโปรโมชั่นเก่าปี 2560 จึงยังไม่ใช้เป็นราคาเช่าสั้น"
+      ],
+      "oneBangkok": "เดินถึง MRT คลองเตย (ยังไม่ยืนยันระยะ) แล้วนั่ง 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "2/21 ซ.ศรีอักษร ถ.เชื้อเพลิง ทุ่งมหาเมฆ สาทร, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5355-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5355/03-09-2023-09-35-251946234225.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [
+        {
+          "name": "RentHub",
+          "url": "https://www.renthub.in.th/en/kh-sathorn-apartment-700m-from-mrt-klong-toei",
+          "facts": "ระบุรับรายวัน/เดือน/ปี และเดินจาก MRT คลองเตย 700 ม. ค่าประกัน 1 เดือน ล่วงหน้า 1 เดือน; ตาราง 8,000–9,000 บาทเป็นสัญญา 1 ปี ช่องเช่าสั้นไม่ระบุ จึงไม่ใช้เป็นราคา 1–4 เดือน",
+          "checkedAt": "2026-11-06T06:10:15+00:00",
+          "posterUpdated": null,
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+          "fingerprint": "576b66b5ae5c3fa5a2abec80cef164d64fb3ff2f60f2285d069811e186996df9"
+        },
+        {
+          "name": "ThaiApartment",
+          "url": "https://www.thaiapartment.com/apartment/kh-sathorn-7187",
+          "facts": "ที่เดียวกันจากชื่อและซอยศรีอักษร; ระบุเดิน 700 ม. ค่าไฟ 10 บาท/หน่วย น้ำ 30 บาท/หน่วย แต่หน้าเว็บยังมีโปรโมชั่นหมดอายุ 30 พ.ย. 2560 จึงต้องยืนยันเงื่อนไขปัจจุบันใหม่",
+          "checkedAt": "2026-11-06T06:10:15+00:00",
+          "posterUpdated": null,
+          "lastAttemptAt": "2026-11-06T06:12:56+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+          "fingerprint": "bfda95f3d5b7214f1ac24353666b1fd0796979c972c0f59dae1462d88be3ef2e"
+        }
+      ],
+      "sourceFingerprint": "f27ea2b4c077da892b4796ece31a3b1a54f6411197cac80edcfc35353263ac32",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 25 ตร.ม. 7,900 - 8,900 บาท/เดือน",
+      "needsReview": true
+    },
+    {
+      "id": "zmy-5356",
+      "name": "บ้านญาณอินท์ สาทร อพาร์ตเมนต์",
+      "kind": "apartment",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 25.0,
+      "offers": [],
+      "indicativePrice": 6000,
+      "sourceUrl": "https://zmyhome.com/apartment/5356",
+      "sourceName": "ZmyHome",
+      "rank": 33.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 300 ม. ถึง คลองเตย; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 300,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 25 ตร.ม. 6,000 - 8,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เดินถึง MRT คลองเตย (ยังไม่ยืนยันระยะ) แล้วนั่ง 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok",
+      "posterUpdated": null,
+      "address": "ซ.ศรีอักษร ถ.เชื้อเพลิง ทุ่งมหาเมฆ สาทร, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5356-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5356/03-09-2023-10-03-111006904296.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "244b47fa874460d781ffe0a6512ae5683b6259666ea5373276d480923eeafd72",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 25 ตร.ม. 6,000 - 8,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5368",
+      "name": "กรีนเพลส สาทร",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 16.0,
+      "offers": [],
+      "indicativePrice": 3800,
+      "sourceUrl": "https://zmyhome.com/apartment/5368",
+      "sourceName": "ZmyHome",
+      "rank": 25.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง ลุมพินี; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "สอบถาม",
+        "electric": "สอบถาม",
+        "internet": "สอบถาม ค่าจอดรถ 2500บาท ต่อห้อง/เดือน",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 16 - 25 ตร.ม. 3,800 - 6,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เว็บแสดงระยะ One Bangkok ในข้อมูลรอบอาคาร; ยังไม่ยืนยันเส้นทางเดิน",
+      "posterUpdated": null,
+      "address": "2./47 ซ.ศรีบำเพ็ญ ถ.พระรามที่ 4 ทุ่งมหาเมฆ สาทร, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5368-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5368/03-01-2023-08-51-3117586952.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "b12b8dedda7f54cde9f8f17b98ad6c62363e28c34cdb775a749ee1d609e8ab85",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 16 - 25 ตร.ม. 3,800 - 6,000 บาท/เดือน"
+    },
+    {
+      "id": "zmy-5373",
+      "name": "ศรีบำเพ็ญ 34",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 10.0,
+      "offers": [],
+      "indicativePrice": 7000,
+      "sourceUrl": "https://zmyhome.com/apartment/5373",
+      "sourceName": "ZmyHome",
+      "rank": 25.0,
+      "bathroom": "unknown",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "walkingClaim": "เว็บแสดง 500 ม. ถึง ลุมพินี; ยังไม่ยืนยันระยะเดินจริง",
+      "websiteMeters": 500,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "water": "รวมในค่าห้องแล้ว",
+        "electric": "10บาท ต่อหน่วย",
+        "internet": "ฟรี",
+        "service": "เว็บระบุ 0 บาท; ต้องยืนยันค่าใช้จ่ายอื่น",
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม"
+      },
+      "amenities": [],
+      "notes": [
+        "ข้อมูลหน้าประกาศตรง ไม่ระบุวันที่ผู้ลงประกาศอัปเดตและไม่ยืนยันห้องว่าง",
+        "ข้อความ “รายเดือน” ยังไม่ยืนยันว่ารับสัญญา 1–4 เดือน ต้องสอบถามขั้นต่ำสัญญาและราคาเช่าสั้น",
+        "ยังไม่ตรวจเส้นทางเดินถึงทางเข้า MRT และยังไม่ได้ติดต่อเจ้าของ",
+        "ประเภทห้องตามเว็บ: Studio (สตูดิโอ) 10 ตร.ม. 7,000 - 12,000 บาท/เดือน"
+      ],
+      "oneBangkok": "เว็บแสดงระยะ One Bangkok ในข้อมูลรอบอาคาร; ยังไม่ยืนยันเส้นทางเดิน",
+      "posterUpdated": null,
+      "address": "34/3 ซ.ศรีบำเพ็ญ 34 ถ.พระรามที่ 4 ทุ่งมหาเมฆ สาทร, กรุงเทพมหานคร 10120",
+      "subtitle": "เบาะแสใหม่จาก ZmyHome · สัญญาและระยะเดินต้องยืนยัน",
+      "photos": [
+        {
+          "url": "assets/zmy-5373-0.jpg",
+          "sourceUrl": "https://image.zmyhome.com/apartment/5373/03-08-2023-09-59-251248314397.jpg",
+          "credit": "ZmyHome"
+        }
+      ],
+      "additionalSources": [],
+      "sourceFingerprint": "c89b99ff690eac206af4f302229743386a70799f31182cd9fbfc171882d7716d",
+      "lastFetchedAt": "2026-11-06T06:12:56+00:00",
+      "checkStatus": "ok",
+      "checkError": null,
+      "sourceRoomText": "Studio (สตูดิโอ) 10 ตร.ม. 7,000 - 12,000 บาท/เดือน"
     }
   ],
   "changes": [],
@@ -3525,17 +6023,6 @@
     "note": "ตรวจหน้าประกาศตรง แยกราคาเช่าสั้นออกจากคอลัมน์รายปี ระยะหน้าเว็บยังไม่ใช่ระยะเดิน"
   },
   "reviewQueue": [
-    {
-      "name": "เอส.เค.แกรนด์สาทร อพาร์ทเม้นท์",
-      "url": "https://www.renthub.in.th/เอส-เค-แกรนด์สาทร-อพาร์ทเม้นท์",
-      "listingId": "40361",
-      "websiteMeters": 505,
-      "source": "RentHub",
-      "station": "คลองเตย",
-      "discoveredAt": "2026-11-06T05:06:51+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
     {
       "name": "สิรีน สวีท สาทร (Serene Suite Sathorn)",
       "url": "https://www.renthub.in.th/สิรีน-สวีท-สาทร-serene-suite-sathorn",
@@ -3699,6 +6186,126 @@
       "discoveredAt": "2026-11-06T05:07:23+00:00",
       "verified": false,
       "geographyUnverified": true
+    },
+    {
+      "name": "เฮอร์ดอร์ม สาทร",
+      "url": "https://zmyhome.com/apartment/5376",
+      "indicativePrice": 5300,
+      "source": "ZmyHome",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "ลี ทราเวลอินน์",
+      "url": "https://zmyhome.com/apartment/5375",
+      "indicativePrice": 600,
+      "source": "ZmyHome",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "บ้านบางกอก เย็นอากาศ",
+      "url": "https://zmyhome.com/apartment/5092",
+      "indicativePrice": 4500,
+      "source": "ZmyHome",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "นนทรีเรสซิเด้นซ์",
+      "url": "https://zmyhome.com/apartment/5090",
+      "indicativePrice": 8500,
+      "source": "ZmyHome",
+      "station": "คลองเตย",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "แอดสามย่าน",
+      "url": "https://zmyhome.com/apartment/4763",
+      "indicativePrice": 3000,
+      "source": "ZmyHome",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T06:13:28+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "สีลม 10 เรสซิเดนซ์",
+      "url": "https://zmyhome.com/apartment/4823",
+      "indicativePrice": 3800,
+      "source": "ZmyHome",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T06:13:28+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "เบสโฮม",
+      "url": "https://zmyhome.com/apartment/4770",
+      "indicativePrice": 5100,
+      "source": "ZmyHome",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T06:13:28+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "เอชคิว โฮสเทล สีลม",
+      "url": "https://zmyhome.com/apartment/4815",
+      "indicativePrice": 6500,
+      "source": "ZmyHome",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T06:13:28+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "มิราม่าคอร์ท",
+      "url": "https://zmyhome.com/apartment/4829",
+      "indicativePrice": 8000,
+      "source": "ZmyHome",
+      "station": "สามย่าน",
+      "discoveredAt": "2026-11-06T06:13:28+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "โคซี่ บางกอก เพลส",
+      "url": "https://zmyhome.com/apartment/4836",
+      "indicativePrice": 3500,
+      "source": "ZmyHome",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "บ้านพีรวิทย์สี่พระยา (สองพระ อพาร์ทเม้นท์)",
+      "url": "https://zmyhome.com/apartment/4755",
+      "indicativePrice": 6500,
+      "source": "ZmyHome",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
+    },
+    {
+      "name": "วี.เอส.พี.แมนชั่น",
+      "url": "https://zmyhome.com/apartment/4754",
+      "indicativePrice": 8000,
+      "source": "ZmyHome",
+      "station": "หัวลำโพง",
+      "discoveredAt": "2026-11-06T06:13:29+00:00",
+      "verified": false,
+      "geographyUnverified": true
     }
   ],
   "discoveryRuns": [
@@ -3706,7 +6313,7 @@
       "source": "RentHub",
       "station": "ลุมพินี",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ลุมพินี",
-      "checkedAt": "2026-11-06T05:45:37+00:00",
+      "checkedAt": "2026-11-06T06:13:22+00:00",
       "status": "ok",
       "candidates": 11
     },
@@ -3714,7 +6321,7 @@
       "source": "RentHub",
       "station": "ลุมพินี",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ลุมพินี",
-      "checkedAt": "2026-11-06T05:45:37+00:00",
+      "checkedAt": "2026-11-06T06:13:22+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3722,7 +6329,7 @@
       "source": "Hongpak",
       "station": "ลุมพินี",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ลุมพินี/",
-      "checkedAt": "2026-11-06T05:45:37+00:00",
+      "checkedAt": "2026-11-06T06:13:22+00:00",
       "status": "ok",
       "candidates": 4
     },
@@ -3730,7 +6337,7 @@
       "source": "RentHub",
       "station": "คลองเตย",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-คลองเตย",
-      "checkedAt": "2026-11-06T05:45:37+00:00",
+      "checkedAt": "2026-11-06T06:13:23+00:00",
       "status": "ok",
       "candidates": 22
     },
@@ -3738,7 +6345,7 @@
       "source": "RentHub",
       "station": "คลองเตย",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-คลองเตย",
-      "checkedAt": "2026-11-06T05:45:37+00:00",
+      "checkedAt": "2026-11-06T06:13:23+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3746,7 +6353,7 @@
       "source": "Hongpak",
       "station": "คลองเตย",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-คลองเตย/",
-      "checkedAt": "2026-11-06T05:45:38+00:00",
+      "checkedAt": "2026-11-06T06:13:23+00:00",
       "status": "ok",
       "candidates": 4
     },
@@ -3754,7 +6361,7 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "checkedAt": "2026-11-06T05:45:38+00:00",
+      "checkedAt": "2026-11-06T06:13:24+00:00",
       "status": "ok",
       "candidates": 17
     },
@@ -3762,7 +6369,7 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "checkedAt": "2026-11-06T05:45:39+00:00",
+      "checkedAt": "2026-11-06T06:13:24+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3770,7 +6377,7 @@
       "source": "Hongpak",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์/",
-      "checkedAt": "2026-11-06T05:45:39+00:00",
+      "checkedAt": "2026-11-06T06:13:24+00:00",
       "status": "ok",
       "candidates": 2
     },
@@ -3778,7 +6385,7 @@
       "source": "RentHub",
       "station": "สามย่าน",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สามย่าน",
-      "checkedAt": "2026-11-06T05:45:39+00:00",
+      "checkedAt": "2026-11-06T06:13:25+00:00",
       "status": "ok",
       "candidates": 7
     },
@@ -3786,7 +6393,7 @@
       "source": "RentHub",
       "station": "สามย่าน",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สามย่าน",
-      "checkedAt": "2026-11-06T05:45:39+00:00",
+      "checkedAt": "2026-11-06T06:13:25+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3794,7 +6401,7 @@
       "source": "Hongpak",
       "station": "สามย่าน",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สามย่าน/",
-      "checkedAt": "2026-11-06T05:45:39+00:00",
+      "checkedAt": "2026-11-06T06:13:25+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -3802,7 +6409,7 @@
       "source": "RentHub",
       "station": "สีลม",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สีลม",
-      "checkedAt": "2026-11-06T05:45:40+00:00",
+      "checkedAt": "2026-11-06T06:13:26+00:00",
       "status": "ok",
       "candidates": 7
     },
@@ -3810,7 +6417,7 @@
       "source": "RentHub",
       "station": "สีลม",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สีลม",
-      "checkedAt": "2026-11-06T05:45:40+00:00",
+      "checkedAt": "2026-11-06T06:13:26+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -3818,7 +6425,7 @@
       "source": "Hongpak",
       "station": "สีลม",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สีลม/",
-      "checkedAt": "2026-11-06T05:45:40+00:00",
+      "checkedAt": "2026-11-06T06:13:26+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -3826,7 +6433,7 @@
       "source": "RentHub",
       "station": "หัวลำโพง",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-หัวลำโพง",
-      "checkedAt": "2026-11-06T05:45:41+00:00",
+      "checkedAt": "2026-11-06T06:13:27+00:00",
       "status": "ok",
       "candidates": 7
     },
@@ -3834,7 +6441,7 @@
       "source": "RentHub",
       "station": "หัวลำโพง",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-หัวลำโพง",
-      "checkedAt": "2026-11-06T05:45:41+00:00",
+      "checkedAt": "2026-11-06T06:13:27+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3842,7 +6449,7 @@
       "source": "Hongpak",
       "station": "หัวลำโพง",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-หัวลำโพง/",
-      "checkedAt": "2026-11-06T05:45:41+00:00",
+      "checkedAt": "2026-11-06T06:13:27+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3850,7 +6457,7 @@
       "source": "RentHub",
       "station": "สุขุมวิท",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สุขุมวิท",
-      "checkedAt": "2026-11-06T05:45:42+00:00",
+      "checkedAt": "2026-11-06T06:13:27+00:00",
       "status": "ok",
       "candidates": 2
     },
@@ -3858,7 +6465,7 @@
       "source": "RentHub",
       "station": "สุขุมวิท",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สุขุมวิท",
-      "checkedAt": "2026-11-06T05:45:42+00:00",
+      "checkedAt": "2026-11-06T06:13:28+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3866,9 +6473,33 @@
       "source": "Hongpak",
       "station": "สุขุมวิท",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สุขุมวิท/",
-      "checkedAt": "2026-11-06T05:45:42+00:00",
+      "checkedAt": "2026-11-06T06:13:28+00:00",
       "status": "ok",
       "candidates": 0
+    },
+    {
+      "source": "ZmyHome",
+      "station": "คลองเตย",
+      "url": "https://zmyhome.com/search/apartment?id=354&keyword=MRT+คลองเตย&lat=13.7223100000&lng=100.5540010000&type=KeyMarker",
+      "checkedAt": "2026-11-06T06:13:29+00:00",
+      "status": "ok",
+      "candidates": 33
+    },
+    {
+      "source": "ZmyHome",
+      "station": "สามย่าน",
+      "url": "https://zmyhome.com/search/apartment?id=357&keyword=MRT+สามย่าน&lat=13.7324980000&lng=100.5294250000&type=KeyMarker",
+      "checkedAt": "2026-11-06T06:13:29+00:00",
+      "status": "ok",
+      "candidates": 22
+    },
+    {
+      "source": "ZmyHome",
+      "station": "หัวลำโพง",
+      "url": "https://zmyhome.com/search/apartment?id=358&keyword=MRT+หัวลำโพง&lat=13.7376210000&lng=100.5171090000&type=KeyMarker",
+      "checkedAt": "2026-11-06T06:13:29+00:00",
+      "status": "ok",
+      "candidates": 22
     }
   ],
   "sourceAudit": [
@@ -3885,6 +6516,270 @@
       "checkedAt": "2026-11-06T05:39:17+00:00",
       "status": "rejected",
       "reason": "10,000 บาท ขั้นต่ำ 12 เดือน จึงไม่ใช้เป็นราคาเช่าสั้น"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4742",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอหญิงซีเอส จุฬา-สามย่าน · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4744",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักหญิงนคเรศ · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4745",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักสตรีสะพานเหลือง · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4751",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักสตรี ยู-ไลฟ์ · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4753",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักสตรี บ้านจินดา · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4754",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "วี.เอส.พี.แมนชั่น · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4755",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "บ้านพีรวิทย์สี่พระยา · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4759",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักสตรีคุณจู · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4763",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "แอดสามย่าน · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4767",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักหญิงบ้านแสนสุข · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4770",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "เบสโฮม · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4781",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักสตรีบ้านการ์ตูน · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4785",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "อพาร์ทเมนท์หญิง บ้านสี่พระยา · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4786",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "หอพักสตรี สามย่าน-สี่พระยา · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4813",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "ห้องพักสตรียศพัทธ์ · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4823",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "สีลม 10 เรสซิเดนซ์ · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4835",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "ห้องพักหญิง เอแอนด์บี · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4836",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "โคซี่ บางกอก เพลส · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4840",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "ห้องพักหญิง บ้าน 155 · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/4879",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "18 หอพักหญิง · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "ZmyHome",
+      "url": "https://zmyhome.com/apartment/5376",
+      "checkedAt": "2026-11-06T06:07:59+00:00",
+      "status": "rejected",
+      "reason": "เฮอร์ดอร์ม สาทร · หอพักหญิง ไม่เสนอให้ผู้ใช้ชาย"
+    },
+    {
+      "source": "Hipflat",
+      "url": "https://www.hipflat.co.th/ads/l2e0l2108ceht2t2utheclte3u0h199e",
+      "reason": "ลุมพินี เพลส พระราม4–รัชดาภิเษก ยูนิต U5750387 ชั้น 8 ขนาด 22 ตร.ม. ค่าเช่า 12,500 บาท เกินงบ 10,000 บาท",
+      "status": "rejected",
+      "checkedAt": "2026-11-06T06:08:37+00:00"
+    },
+    {
+      "source": "Dot Property",
+      "url": "https://www.dotproperty.co.th/ads/ขายคอนโด-เอื้ออมรสุข-ใน-บางกะปิ-ห้วยขวาง_4b84d568c2bc-4940-0292-50ec-d469e089",
+      "reason": "ชื่อเอื้ออมรสุขเหมือนกัน แต่เป็นรามคำแหง/บางกะปิ ไม่ใช่เอื้ออมรสุข สุขุมวิท 22; ราคาเช่ายาว 8,500 บาท ไม่เสนอเป็นห้องในพื้นที่เป้าหมาย",
+      "status": "rejected",
+      "checkedAt": "2026-11-06T06:08:37+00:00"
+    },
+    {
+      "source": "DDproperty",
+      "url": "https://www.ddproperty.com/property/sukhumvit-suite-สุขุมวิท-สวีท-กรุงเทพ-ให้เช่า-500561376",
+      "reason": "สุขุมวิท สวีท 40 ตร.ม. 15,000 บาท เกินงบ; เว็บแสดง MRT สุขุมวิท 880 ม. ซึ่งยังไม่ใช่ระยะเดินที่ตรวจยืนยัน",
+      "status": "rejected",
+      "checkedAt": "2026-11-06T06:08:37+00:00"
+    },
+    {
+      "source": "ENNXO",
+      "url": "https://www.ennxo.com/product/1098302",
+      "reason": "ผลค้นเคยเป็น Life Rama4 ราคา 21,000 บาท สัญญา 1 ปี; เมื่อเปิดประกาศตรงถูกส่งไปหน้ารวม จึงไม่ยืนยันว่าประกาศยังเปิดและไม่นำเข้าเป็นห้องว่าง",
+      "status": "unavailable",
+      "checkedAt": "2026-11-06T06:08:37+00:00"
+    },
+    {
+      "source": "CondoThai",
+      "url": "https://www.condothai.co.th/room/69773/เดอะ ลุมพินี 24 [The Lumpini 24]/3/?budget=1000000,2000000&distance=3",
+      "reason": "ยูนิต 69773 ราคา 1 เดือน 23,000 / 3 เดือน 20,000 / 6 เดือน 18,500 บาท เกินงบทุกระยะสั้น จึงไม่นำเข้าเป็นตัวเลือก",
+      "status": "rejected",
+      "checkedAt": "2026-11-06T06:08:37+00:00"
+    },
+    {
+      "source": "Facebook / เพจเจ้าของ",
+      "url": "https://www.facebook.com/khsathorn/",
+      "reason": "พบลิงก์เพจจากหน้าที่พัก แต่เปิดอ่านเนื้อหาเพจไม่ได้ในรอบตรวจนี้ จึงยังไม่ใช้เป็นหลักฐานราคาหรือห้องว่าง และไม่ได้เข้ากลุ่มปิด",
+      "status": "unavailable",
+      "checkedAt": "2026-11-06T06:08:37+00:00"
     }
-  ]
+  ],
+  "researchSummary": {
+    "checkedAt": "2026-11-06T06:07:59+00:00",
+    "newPropertyIds": [
+      "zmy-3974",
+      "zmy-3976",
+      "zmy-3980",
+      "zmy-3982",
+      "zmy-4743",
+      "zmy-4746",
+      "zmy-4747",
+      "zmy-4750",
+      "zmy-4752",
+      "zmy-4756",
+      "zmy-4757",
+      "zmy-4758",
+      "zmy-4761",
+      "zmy-4762",
+      "zmy-4768",
+      "zmy-4771",
+      "zmy-4772",
+      "zmy-4777",
+      "zmy-4780",
+      "zmy-4782",
+      "zmy-4788",
+      "zmy-4791",
+      "zmy-4792",
+      "zmy-4819",
+      "zmy-4831",
+      "zmy-4833",
+      "zmy-4839",
+      "zmy-4841",
+      "zmy-4842",
+      "zmy-4848",
+      "zmy-4863",
+      "zmy-4877",
+      "zmy-5095",
+      "zmy-5348",
+      "zmy-5351",
+      "zmy-5352",
+      "zmy-5355",
+      "zmy-5356",
+      "zmy-5368",
+      "zmy-5373"
+    ],
+    "mergedPropertyIds": [
+      "rh-34489",
+      "rh-54928",
+      "rh-42468",
+      "rh-45165",
+      "rh-41521",
+      "rh-38903",
+      "rh-51319",
+      "rh-27310",
+      "rh-47118",
+      "rh-5758",
+      "sunflower",
+      "rh-22869",
+      "rh-54180",
+      "rh-51223",
+      "rh-40766",
+      "rh-40251",
+      "rh-54218",
+      "rh-60939",
+      "rh-39888",
+      "rh-46158",
+      "best-living",
+      "rh-52358",
+      "hongpak-st-food-room",
+      "rh-42399"
+    ],
+    "detailPagesRead": 101,
+    "note": "สแกนหน้าประกาศตรงของ ZmyHome; รายการใหม่ยังเป็นเบาะแส ไม่ยืนยันสัญญาและระยะเดิน",
+    "newPropertyCount": 40,
+    "mergedPropertyCount": 24
+  }
 }

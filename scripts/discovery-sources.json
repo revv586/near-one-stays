@@ -124,5 +124,23 @@
     "station": "สุขุมวิท",
     "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สุขุมวิท/",
     "parser": "hongpak"
+  },
+  {
+    "source": "ZmyHome",
+    "parser": "zmyhome",
+    "station": "คลองเตย",
+    "url": "https://zmyhome.com/search/apartment?id=354&keyword=MRT+คลองเตย&lat=13.7223100000&lng=100.5540010000&type=KeyMarker"
+  },
+  {
+    "source": "ZmyHome",
+    "parser": "zmyhome",
+    "station": "สามย่าน",
+    "url": "https://zmyhome.com/search/apartment?id=357&keyword=MRT+สามย่าน&lat=13.7324980000&lng=100.5294250000&type=KeyMarker"
+  },
+  {
+    "source": "ZmyHome",
+    "parser": "zmyhome",
+    "station": "หัวลำโพง",
+    "url": "https://zmyhome.com/search/apartment?id=358&keyword=MRT+หัวลำโพง&lat=13.7376210000&lng=100.5171090000&type=KeyMarker"
   }
 ]

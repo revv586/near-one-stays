@@ -1,0 +1,357 @@
+{
+  "checkedAt": "2026-11-06T06:07:59+00:00",
+  "newPropertyIds": [
+    "zmy-3974",
+    "zmy-3976",
+    "zmy-3980",
+    "zmy-3982",
+    "zmy-4743",
+    "zmy-4746",
+    "zmy-4747",
+    "zmy-4750",
+    "zmy-4752",
+    "zmy-4756",
+    "zmy-4757",
+    "zmy-4758",
+    "zmy-4761",
+    "zmy-4762",
+    "zmy-4768",
+    "zmy-4771",
+    "zmy-4772",
+    "zmy-4777",
+    "zmy-4780",
+    "zmy-4782",
+    "zmy-4788",
+    "zmy-4791",
+    "zmy-4792",
+    "zmy-4819",
+    "zmy-4831",
+    "zmy-4833",
+    "zmy-4839",
+    "zmy-4841",
+    "zmy-4842",
+    "zmy-4848",
+    "zmy-4863",
+    "zmy-4877",
+    "zmy-5095",
+    "zmy-5348",
+    "zmy-5351",
+    "zmy-5352",
+    "zmy-5355",
+    "zmy-5356",
+    "zmy-5368",
+    "zmy-5373"
+  ],
+  "mergedPropertyIds": [
+    "rh-34489",
+    "rh-54928",
+    "rh-42468",
+    "rh-45165",
+    "rh-41521",
+    "rh-38903",
+    "rh-51319",
+    "rh-27310",
+    "rh-47118",
+    "rh-5758",
+    "sunflower",
+    "rh-22869",
+    "rh-54180",
+    "rh-51223",
+    "rh-40766",
+    "rh-40251",
+    "rh-54218",
+    "rh-60939",
+    "rh-39888",
+    "rh-46158",
+    "best-living",
+    "rh-52358",
+    "hongpak-st-food-room",
+    "rh-42399"
+  ],
+  "detailPagesRead": 101,
+  "note": "สแกนหน้าประกาศตรงของ ZmyHome; รายการใหม่ยังเป็นเบาะแส ไม่ยืนยันสัญญาและระยะเดิน",
+  "newPropertyCount": 40,
+  "mergedPropertyCount": 24,
+  "newProperties": [
+    {
+      "id": "zmy-3974",
+      "name": "เดอ ตาลักก์ เรสซิเดนซ์",
+      "sourceUrl": "https://zmyhome.com/apartment/3974",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-3976",
+      "name": "เบญจเรสซิเดนซ์ ซอยไผ่สิงห์โต",
+      "sourceUrl": "https://zmyhome.com/apartment/3976",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-3980",
+      "name": "เอสเอ็น อพาร์ทเมนต์ พระราม 4",
+      "sourceUrl": "https://zmyhome.com/apartment/3980",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-3982",
+      "name": "บ้านกระจกสี พระราม 4",
+      "sourceUrl": "https://zmyhome.com/apartment/3982",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4743",
+      "name": "ห้องพัก 568/18",
+      "sourceUrl": "https://zmyhome.com/apartment/4743",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4746",
+      "name": "เมทโทร เซอร์วิส อพาร์ทเมนท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4746",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4747",
+      "name": "เอส เค บูติก มหานคร",
+      "sourceUrl": "https://zmyhome.com/apartment/4747",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4750",
+      "name": "บลิสเรสซิเดนซ์",
+      "sourceUrl": "https://zmyhome.com/apartment/4750",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4752",
+      "name": "ที.ที. เกสท์เฮ้าส์",
+      "sourceUrl": "https://zmyhome.com/apartment/4752",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4756",
+      "name": "ไอสนุก แบ้งค์คอก",
+      "sourceUrl": "https://zmyhome.com/apartment/4756",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4757",
+      "name": "บ้านสองพระ",
+      "sourceUrl": "https://zmyhome.com/apartment/4757",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4758",
+      "name": "บ้าน ณ ภา",
+      "sourceUrl": "https://zmyhome.com/apartment/4758",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4761",
+      "name": "สี่พระยา อพาร์ทเม้นท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4761",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4762",
+      "name": "บ้านบางรัก",
+      "sourceUrl": "https://zmyhome.com/apartment/4762",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4768",
+      "name": "เอสฟิฟตี้ทู สามย่าน",
+      "sourceUrl": "https://zmyhome.com/apartment/4768",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4771",
+      "name": "บ้านทิพวรรณ",
+      "sourceUrl": "https://zmyhome.com/apartment/4771",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4772",
+      "name": "บ้าน ณ ภัน",
+      "sourceUrl": "https://zmyhome.com/apartment/4772",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4777",
+      "name": "นเรศ โคลีฟวิ่ง",
+      "sourceUrl": "https://zmyhome.com/apartment/4777",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4780",
+      "name": "เบเกิล เบรคฟาสท์ คาเฟ่แอนด์โฮสเทล",
+      "sourceUrl": "https://zmyhome.com/apartment/4780",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4782",
+      "name": "สตาร์​ อพาร์ตเม้นท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4782",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4788",
+      "name": "สิวารี อพาร์เม้นท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4788",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4791",
+      "name": "แฟลตสุนีย์",
+      "sourceUrl": "https://zmyhome.com/apartment/4791",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4792",
+      "name": "แฟมิลี่ อพาร์ทเมนท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4792",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4819",
+      "name": "มาร์คแลนด์ แมนชั่น",
+      "sourceUrl": "https://zmyhome.com/apartment/4819",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4831",
+      "name": "ธนาพรแมนชั่น ปทุมวัน",
+      "sourceUrl": "https://zmyhome.com/apartment/4831",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4833",
+      "name": "บ้านแอน",
+      "sourceUrl": "https://zmyhome.com/apartment/4833",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4839",
+      "name": "มายเพลส",
+      "sourceUrl": "https://zmyhome.com/apartment/4839",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4841",
+      "name": "เดอะคอมม่อนเพลส",
+      "sourceUrl": "https://zmyhome.com/apartment/4841",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4842",
+      "name": "บรรทัดทองโฮสเทล",
+      "sourceUrl": "https://zmyhome.com/apartment/4842",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4848",
+      "name": "รองเมืองอพาร์ทเม้นท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4848",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4863",
+      "name": "สิริน เพลส",
+      "sourceUrl": "https://zmyhome.com/apartment/4863",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-4877",
+      "name": "ทูโทน อพาร์เมนท์",
+      "sourceUrl": "https://zmyhome.com/apartment/4877",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5095",
+      "name": "เย็นอากาศคอนเนอร์",
+      "sourceUrl": "https://zmyhome.com/apartment/5095",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5348",
+      "name": "เดอะไลท์สเปซ",
+      "sourceUrl": "https://zmyhome.com/apartment/5348",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5351",
+      "name": "สิรีนสวีท สาทร",
+      "sourceUrl": "https://zmyhome.com/apartment/5351",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5352",
+      "name": "เอส.เค.แกรนด์สาทร อพาร์ทเม้นท์",
+      "sourceUrl": "https://zmyhome.com/apartment/5352",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5355",
+      "name": "เค เอช สาทร อพาร์ทเม้นท์",
+      "sourceUrl": "https://zmyhome.com/apartment/5355",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5356",
+      "name": "บ้านญาณอินท์ สาทร อพาร์ตเมนต์",
+      "sourceUrl": "https://zmyhome.com/apartment/5356",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5368",
+      "name": "กรีนเพลส สาทร",
+      "sourceUrl": "https://zmyhome.com/apartment/5368",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    },
+    {
+      "id": "zmy-5373",
+      "name": "ศรีบำเพ็ญ 34",
+      "sourceUrl": "https://zmyhome.com/apartment/5373",
+      "contract": "unconfirmed",
+      "walking": "unverified"
+    }
+  ]
+}

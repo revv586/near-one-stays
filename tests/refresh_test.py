@@ -1,6 +1,6 @@
 import unittest,sys,pathlib,json
 sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'scripts'))
-from refresh import extract_renthub,apply,discovery_candidates,discovery
+from refresh import extract_renthub,extract_zmyhome,apply,discovery_candidates,discovery
 from unittest.mock import patch
 class RefreshTests(unittest.TestCase):
  def page(self,t):
@@ -28,4 +28,22 @@ class RefreshTests(unittest.TestCase):
  def test_hongpak_links_are_leads_not_verified_rooms(self):
   result=discovery_candidates('<article><a href="/rooms/123-room">ห้องพัก A</a><span class="distance">ใกล้ MRT สามย่าน 0.5 กม.</span><div class="price">7,000 บาท/เดือน</div></article><article><a href="/rooms/999">โฆษณาไกล</a><span class="distance">2.3 กม.</span><div class="price">6,000 บาท/เดือน</div></article>',{'parser':'hongpak','source':'Hongpak','url':'https://www.hongpak.in.th/search','station':'สามย่าน'})
   self.assertEqual(len(result),1);self.assertEqual(result[0]['url'],'https://www.hongpak.in.th/rooms/123-room');self.assertFalse(result[0]['verified'])
+class ZmyHomeTests(unittest.TestCase):
+ def test_property_rates_are_not_short_contract_offers(self):
+  html='<h1>ห้องพัก A</h1><h5>14 พระราม4</h5><h3>ข้อมูลอพาร์ทเม้นท์</h3>ระยะเวลาในการเช่า รายเดือน ค่าน้ำ 21บาท ต่อหน่วย ค่าไฟ 8บาท ต่อหน่วย ค่าบริการอื่นๆ 0.00<h3>ประเภทห้อง</h3>1 Bedroom 20 ตร.ม. 1 นอน 1 น้ำ 6,500 - 8,500 บาท/เดือน<h3>Facility</h3>MRT ศูนย์ฯสิริกิติ์ (0.2 กม.)<h3>อพาร์ทเม้นท์ใกล้เคียง</h3><h2>ห้องอื่น</h2>500 บาท/เดือน'
+  out=extract_zmyhome(html)
+  self.assertEqual(out['indicativePrice'],6500);self.assertEqual(out['rates'],[])
+  self.assertEqual(out['distances'],[{'station':'ศูนย์ฯ สิริกิติ์','websiteMeters':200}])
+  self.assertEqual(out['fees']['electric'],'8บาท ต่อหน่วย')
+  self.assertNotIn('ห้องอื่น',out['roomText'])
+ def test_zmyhome_discovery_queues_unverified_leads_only(self):
+  html='<article><a href="/apartment/12"><img></a><h2>ห้องพัก A</h2><span class="current">6,000 - 8,000</span></article><article><a href="/apartment/13"></a><h2>หอพักสตรี</h2><span class="current">4,000</span></article><article><a href="/apartment/14"></a><h2>ห้องเกินงบ</h2><span class="current">12,000</span></article>'
+  out=discovery_candidates(html,{'parser':'zmyhome','source':'ZmyHome','station':'คลองเตย','url':'https://zmyhome.com/search/apartment'})
+  self.assertEqual(len(out),1);self.assertEqual(out[0]['url'],'https://zmyhome.com/apartment/12')
+  self.assertFalse(out[0]['verified']);self.assertTrue(out[0]['geographyUnverified'])
+  self.assertNotIn('websiteMeters',out[0])
+ def test_women_only_is_detected_from_property_not_nearby_ad(self):
+  html='<h1>หอพัก A</h1><h3>ข้อมูลอพาร์ทเม้นท์</h3>ประเภทโครงการ หอพัก<h3>ประเภทห้อง</h3>Studio 5,000บาท/เดือน<h3>Facility</h3><h3>อพาร์ทเม้นท์ใกล้เคียง</h3>หอพักสตรี'
+  self.assertFalse(extract_zmyhome(html)['womenOnly'])
+  self.assertTrue(extract_zmyhome(html.replace('หอพัก A','หอพักสตรี A'))['womenOnly'])
 if __name__=='__main__':unittest.main()

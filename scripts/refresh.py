@@ -55,6 +55,29 @@ def extract_generic(s):
  if not photos:
   photos=re.findall(r'''<img[^>]+src=["'](https://images\.thaiapartment\.com/Apartment/[^"']+)["']''',s,re.I)[:3]
  return {'photos':photos[-1:] if len(photos)==1 else photos[:3],'fingerprint':hashlib.sha256('|'.join(descriptions).encode()).hexdigest() if descriptions else None,'rates':[],'allFull':None}
+def extract_zmyhome(s):
+ # Read the property's own facts, excluding nearby-property cards and navigation.
+ heading=re.search(r'<h[12]\b[^>]*>(.*?)</h[12]>',s,re.S|re.I)
+ if not heading:raise ValueError('ZmyHome property heading missing')
+ core=s[heading.start():]
+ core=re.split(r'อพาร์ทเม้นท์ใกล้เคียง|อพาร์ทเมนท์ใกล้เคียง',core)[0]
+ text=clean(re.sub(r'<(script|style)\b.*?</\1>','',core,flags=re.S|re.I)).split('หมายเหตุ :')[0]
+ name=clean(heading[1]);address=re.search(r'<h5\b[^>]*>(.*?)</h5>',core,re.S|re.I)
+ info=text.split('ข้อมูลอพาร์ทเม้นท์')[-1]
+ rooms=info.split('ประเภทห้อง',1)[-1].split('Facility',1)[0]
+ amounts=[int(v.replace(',','')) for v in re.findall(r'([\d,]+)\s*บาท/เดือน',rooms)]
+ # A range's lower bound belongs to the same room's annual/unspecified rate.
+ lows=[int(v.replace(',','')) for v in re.findall(r'([\d,]+)\s*(?:-\s*[\d,]+)?\s*บาท/เดือน',rooms)]
+ nearby=re.findall(r'MRT\s*([^()]+?)\s*\(([\d.]+)\s*กม\.\)',info)
+ stations={'ลุมพินี':'ลุมพินี','คลองเตย':'คลองเตย','สามย่าน':'สามย่าน','สีลม':'สีลม','หัวลำโพง':'หัวลำโพง','ศูนย์ฯสิริกิติ์':'ศูนย์ฯ สิริกิติ์','สุขุมวิท':'สุขุมวิท'}
+ distances=[{'station':stations[k.strip()],'websiteMeters':round(float(v)*1000)} for k,v in nearby if k.strip() in stations]
+ fees={}
+ for label,key in [('ค่าน้ำ','water'),('ค่าไฟ','electric'),('ค่าอินเตอร์เน็ต','internet'),('ค่าบริการอื่นๆ','service')]:
+  m=re.search(re.escape(label)+r'\s*(.*?)(?=ค่าน้ำ|ค่าไฟ|ค่าอินเตอร์เน็ต|ค่าบริการอื่นๆ|ประเภทห้อง|$)',info)
+  fees[key]=m[1].strip() if m else 'ต้องสอบถาม'
+ photos=list(dict.fromkeys(html.unescape(u) for u in re.findall(r'<img[^>]+src=["\'](https://image\.zmyhome\.com/apartment/[^"\']+)',core,re.I)))[:3]
+ return {'name':name,'address':clean(re.sub(r'<style\b.*?</style>','',address[1],flags=re.S)) if address else '', 'roomText':rooms,'indicativePrice':min(lows) if lows else None,'distances':distances,'fees':fees,'womenOnly':bool(re.search('หอพักสตรี|หอพักหญิง|หอหญิง|Her Dorm',text,re.I)),'photos':photos,'fingerprint':hashlib.sha256(info.encode()).hexdigest(),'rates':[],'allFull':None}
+
 @functools.lru_cache(maxsize=40)
 def read_robots(origin):
  robots=origin+'/robots.txt'
@@ -76,13 +99,13 @@ def check(p):
  try:
   if not allowed_by_robots(p['sourceUrl']):raise ValueError('robots.txt unavailable or does not permit automated access')
   s=fetch(p['sourceUrl'])
-  out=extract_renthub(s) if 'renthub.in.th' in p['sourceUrl'] else extract_generic(s)
+  out=extract_renthub(s) if 'renthub.in.th' in p['sourceUrl'] else extract_zmyhome(s) if 'zmyhome.com/apartment/' in p['sourceUrl'] else extract_generic(s)
   return p['id'],out,None
  except Exception as e:return p['id'],None,str(e)[:180]
 def image_download(url,name):
  try:
   parsed=urllib.parse.urlsplit(url)
-  if parsed.scheme!='https' or not parsed.hostname.endswith(('renthub.in.th','livinginsider.com','hongpak.in.th','thaiapartment.com')):return None
+  if parsed.scheme!='https' or not parsed.hostname.endswith(('renthub.in.th','livinginsider.com','hongpak.in.th','thaiapartment.com','zmyhome.com')):return None
   path=ROOT/'dist/assets'/name
   if not path.exists():
    req=urllib.request.Request(url,headers={'User-Agent':UA})
@@ -135,6 +158,14 @@ def discovery_candidates(s,page):
    elif isinstance(v,list):
     for x in v:walk(x)
   walk(json.loads(m[1])['props']['pageProps'])
+ elif page['parser']=='zmyhome':
+  for card in re.findall(r'<article\b[^>]*>(.*?)</article>',s,re.S|re.I):
+   link=re.search(r'href=["\'](/apartment/\d+)["\']',card)
+   heading=re.search(r'<h2[^>]*>(.*?)</h2>',card,re.S|re.I)
+   price=re.search(r'class=["\']current["\'][^>]*>(.*?)</span>',card,re.S)
+   amount=re.search(r'[\d,]+',clean(price[1])) if price else None
+   if link and heading and amount and 0<int(amount[0].replace(',',''))<=10000:
+    found.append({'name':clean(heading[1]),'url':urllib.parse.urljoin(page['url'],link[1]),'indicativePrice':int(amount[0].replace(',',''))})
  else:
   # Parse actual result cards, excluding navigation and distant sponsored ads.
   for card in re.findall(r'<article\b[^>]*>(.*?)</article>',s,re.S|re.I):
