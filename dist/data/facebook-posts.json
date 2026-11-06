@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-06T07:27:54+00:00",
-  "updateMode": "manual",
-  "automationNote": "อ่านและคัดโพสต์ด้วยตนเองหลังเข้าสู่ระบบ ตัวตรวจ GitHub Actions รายชั่วโมงไม่เข้าสู่ Facebook และไม่ดึงโพสต์ใหม่จากสองกลุ่มนี้อัตโนมัติ",
+  "checkedAt": "2026-11-06T11:10:38.672Z",
+  "updateMode": "scheduled_agent",
+  "automationNote": "งานเก็บข้อมูลอ่านโพสต์ในสองกลุ่มและส่งผลตรวจเข้า GitHub เพื่อให้ CI/CD ทดสอบและเผยแพร่ เวลาแสดงเป็นเวลาที่อ่านกลุ่มจริง ไม่ใช่เวลาเรียก workflow",
   "scopeNote": "ตรวจกลุ่มสาธารณะทั้งสองและค้นคำเป้าหมาย บันทึกโพสต์ที่อ่านตรงและเกี่ยวข้อง 3 รายการ ไม่ใช่สำเนาโพสต์ทั้งหมดของกลุ่ม",
   "currentFullyVerifiedCount": 0,
   "groups": [
@@ -20,7 +20,18 @@
         "สีลม",
         "งามดูพลี",
         "สุรวงศ์"
-      ]
+      ],
+      "lastCheckedAt": "2026-11-06T11:10:38.672Z",
+      "status": "ok",
+      "lastRun": {
+        "status": "ok",
+        "checkedAt": "2026-11-06T11:10:38.672Z",
+        "postsRead": 6,
+        "queries": [
+          "ลุมพินี",
+          "คลองเตย"
+        ]
+      }
     },
     {
       "id": "1116528203018291",
@@ -39,7 +50,18 @@
         "ศรีบำเพ็ญ",
         "7,900",
         "สี่พระยา"
-      ]
+      ],
+      "lastCheckedAt": "2026-11-06T11:10:38.672Z",
+      "status": "ok",
+      "lastRun": {
+        "status": "ok",
+        "checkedAt": "2026-11-06T11:10:38.672Z",
+        "postsRead": 10,
+        "queries": [
+          "งามดูพลี",
+          "สามย่าน"
+        ]
+      }
     }
   ],
   "properties": [
@@ -93,7 +115,7 @@
       "oneBangkok": "ต้องเดินถึง MRT ก่อน แล้วนั่งมาลุมพินี; ยังไม่ยืนยันเวลาและระยะเดินรวม",
       "posterUpdated": null,
       "posterDateLabel": "1 พ.ย. 2569 เวลา 12:12 น. ตามหน้าโพสต์ตรง (ไม่พบวันแก้ไข)",
-      "lastFetchedAt": "2026-11-06T07:27:54+00:00",
+      "lastFetchedAt": "2026-11-06T11:10:38.672Z",
       "checkStatus": "manual",
       "checkError": null,
       "address": "203/1 ซอยศรีบำเพ็ญ ถนนเย็นอากาศ เขตสาทร",
@@ -110,7 +132,8 @@
       "indicativePrice": 7900,
       "walkingRouteMeters": 1000,
       "exclusionReason": "เส้นทางเดินในแผนที่ 1.0 กม. เกิน 800 ม. จึงแยกออกก่อน และยังไม่ยืนยันทางเข้าที่ใกล้ที่สุด",
-      "minLeaseMonths": 1
+      "minLeaseMonths": 1,
+      "lastReviewedAt": "2026-11-06T11:10:38.672Z"
     },
     {
       "id": "fb-nest-sukhumvit-22",
@@ -151,7 +174,7 @@
       "oneBangkok": "จาก MRT ศูนย์ฯ สิริกิติ์ 2 สถานีถึงลุมพินี; ยังไม่ตรวจเวลาเดินรวม",
       "posterUpdated": null,
       "posterDateLabel": "3 พ.ย. 2569 เวลา 04:41 น. ตามหน้าโพสต์ตรง (ไม่พบวันแก้ไข)",
-      "lastFetchedAt": "2026-11-06T07:27:54+00:00",
+      "lastFetchedAt": "2026-11-06T11:10:38.672Z",
       "checkStatus": "manual",
       "checkError": null,
       "address": "ซอยสายน้ำทิพย์ 2 สุขุมวิท 22 เขตคลองเตย",
@@ -166,7 +189,8 @@
       "additionalSources": [],
       "indicativePrice": 9000,
       "availableFrom": "2027-09-22",
-      "floor": "2"
+      "floor": "2",
+      "lastReviewedAt": "2026-11-06T11:10:38.672Z"
     },
     {
       "id": "fb-supalai-premier-samyan",
@@ -208,7 +232,7 @@
       "oneBangkok": "จาก MRT สามย่าน 2 สถานีถึงลุมพินี; ยังไม่ตรวจเวลาเดินรวม",
       "posterUpdated": null,
       "posterDateLabel": "27 ต.ค. 2569 เวลา 20:22 น. ตามหน้าโพสต์ (ไม่พบวันแก้ไข)",
-      "lastFetchedAt": "2026-11-06T07:27:54+00:00",
+      "lastFetchedAt": "2026-11-06T11:10:38.672Z",
       "checkStatus": "manual",
       "checkError": null,
       "address": "โครงการศุภาลัย พรีเมียร์ สี่พระยา–สามย่าน",
@@ -223,7 +247,18 @@
       "additionalSources": [],
       "indicativePrice": 23500,
       "exclusionReason": "ค่าเช่า 23,500 บาท/เดือน สัญญารายปี เกินงบและไม่ใช่สัญญาระยะสั้น",
-      "minLeaseMonths": 12
+      "minLeaseMonths": 12,
+      "lastReviewedAt": "2026-11-06T11:10:38.672Z"
     }
-  ]
+  ],
+  "lastRun": {
+    "status": "success",
+    "finishedAt": "2026-11-06T11:10:38.672Z",
+    "groupsSucceeded": 2,
+    "groupsFailed": 0,
+    "postsRead": 16,
+    "postsAdded": 0,
+    "postsChanged": 0,
+    "scope": "อ่านฟีดที่โหลดได้และผลค้นหาเป้าหมาย ไม่ใช่โพสต์ทั้งหมดของกลุ่ม"
+  }
 }
