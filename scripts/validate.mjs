@@ -10,10 +10,14 @@ const app=fs.readFileSync('dist/assets/app.js','utf8').replace("'./model.mjs'",`
 const appName=`app-${digest(app)}.js`;
 fs.writeFileSync('dist/assets/'+modelName,model);
 fs.writeFileSync('dist/assets/'+appName,app);
+const style=fs.readFileSync('dist/assets/style.css','utf8');
+const styleName=`style-${digest(style)}.css`;
+fs.writeFileSync('dist/assets/'+styleName,style);
 const indexPath='dist/index.html';const index=fs.readFileSync(indexPath,'utf8');
 assert(/\.\/assets\/app(?:-[a-f0-9]{12})?\.js/.test(index),'Application entry missing');
-fs.writeFileSync(indexPath,index.replace(/\.\/assets\/app(?:-[a-f0-9]{12})?\.js/g,'./assets/'+appName));
+assert(/\.\/assets\/style(?:-[a-f0-9]{12})?\.css/.test(index),'Stylesheet entry missing');
+fs.writeFileSync(indexPath,index.replace(/\.\/assets\/app(?:-[a-f0-9]{12})?\.js/g,'./assets/'+appName).replace(/\.\/assets\/style(?:-[a-f0-9]{12})?\.css/g,'./assets/'+styleName));
 for(const name of fs.readdirSync('dist/assets')){
- if(/^(?:app-[a-f0-9]{12}\.js|model-[a-f0-9]{12}\.mjs)$/.test(name)&&![modelName,appName].includes(name))fs.unlinkSync('dist/assets/'+name);
+ if(/^(?:app-[a-f0-9]{12}\.js|model-[a-f0-9]{12}\.mjs|style-[a-f0-9]{12}\.css)$/.test(name)&&![modelName,appName,styleName].includes(name))fs.unlinkSync('dist/assets/'+name);
 }
-console.log('Built versioned browser modules:',appName,modelName);
+console.log('Built versioned browser modules:',appName,modelName,styleName);
