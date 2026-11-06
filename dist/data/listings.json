@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "title": "NEAR ONE",
-  "generatedAt": "2026-11-06T05:22:25+00:00",
+  "generatedAt": "2026-11-06T05:45:31+00:00",
   "lastRun": {
-    "startedAt": "2026-11-06T05:22:25+00:00",
-    "finishedAt": "2026-11-06T05:22:36+00:00",
-    "success": 53,
+    "startedAt": "2026-11-06T05:45:31+00:00",
+    "finishedAt": "2026-11-06T05:45:45+00:00",
+    "success": 56,
     "failed": 0,
     "discoverySuccess": 21,
     "discoveryFailed": 0
@@ -65,7 +65,7 @@
       "subtitle": "อยู่ย่านพระราม 4 ตรงข้าม One Bangkok",
       "floor": "3",
       "sourceFingerprint": "2793695061397131c37312b9a0c2bd2fd3bc19fdf9668b32e994e70181b9d525",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -90,7 +90,22 @@
         {
           "name": "RentHub · อีกชื่อประกาศของ PS House",
           "url": "https://www.renthub.in.th/สะพานคู่-พีเอสเฮาส์",
-          "listingId": "70059"
+          "listingId": "70059",
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "022f989ae61b95490ce41cc0e6d7509ddbbe003557dcbc211da756a7b27999c1"
+        },
+        {
+          "name": "Hongpak",
+          "url": "https://www.hongpak.in.th/rooms/10835-ps-room-for-rent",
+          "facts": "ที่เดียวกับ PS House จาก LINE pshouse.sp; ระบุราคาขึ้นกับระยะสัญญา จึงยังไม่ใช้ช่วง 5,300–8,000 เป็นราคาเช่าสั้น",
+          "checkedAt": "2026-11-06T05:39:17+00:00",
+          "posterUpdated": "2026-08-20",
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "015fe468f46523c1ae46daf5d77cc73e047a2540a971a1d08a45cb9cc9776786"
         }
       ]
     },
@@ -152,7 +167,20 @@
           "credit": "LivingInsider"
         }
       ],
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00"
+      "additionalSources": [
+        {
+          "name": "Kaidee Property · ประกาศปิดแล้ว",
+          "url": "https://baan.kaidee.com/product-347641673",
+          "facts": "หน้าประกาศตรงระบุปิดประกาศแล้ว เป็นคนละยูนิตในเอื้ออมรสุข เก็บเพื่อป้องกันนำประกาศเก่ามาเสนอซ้ำ ไม่ใช้ราคาเดิมเป็นข้อเสนอห้องปัจจุบัน",
+          "checkedAt": "2026-11-06T05:39:17+00:00",
+          "posterUpdated": "2019-05-31",
+          "status": "closed",
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "error",
+          "checkError": "Unexpected cross-domain redirect"
+        }
+      ],
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00"
     },
     {
       "id": "freesia",
@@ -202,7 +230,7 @@
       "posterUpdated": null,
       "subtitle": "เบาะแสเช่ารายเดือน รวมค่าน้ำและค่าไฟ",
       "sourceFingerprint": "a783b9a81aefaf03c240be219464229c1f2aec032b45fb5dcf1ae1e69299c412",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -264,7 +292,7 @@
       "indicativePrice": 9000,
       "subtitle": "ห้องส่วนตัวในย่านสุรวงศ์ ใกล้สามย่านและสีลม",
       "sourceFingerprint": "5b95ba5580866d049d2e9367e0f131b010cf3e5c93ed9699213558f1c1b85954",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -331,9 +359,9 @@
       "posterUpdated": "2026-07-22T03:46:42.281Z",
       "address": "ซอยหน้าวัดหัวลำโพง ถนนสุรวงศ์",
       "subtitle": "ที่พักสไตล์บูทิค เดินทางผ่าน MRT สามย่าน",
-      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
       "sourceFingerprint": "a28f45bbd6b076a750a1448671670c4f647ffac9703a9877c7b34dc820d6acce",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -395,7 +423,7 @@
       "indicativePrice": 10000,
       "subtitle": "มีเบาะแสโปรรายเดือน แต่ราคาในแต่ละหน้าต่างกัน",
       "sourceFingerprint": "a233eb9cc90baa3311428ec81cdfc3f19fb040de3996ab339c3c401a89eea57b",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -471,9 +499,9 @@
       "posterUpdated": "2026-11-04T02:11:43.753Z",
       "address": "ซอยงามดูพลี ถนนพระราม 4",
       "subtitle": "ทางเลือกแคปซูล แยกจากห้องพักส่วนตัว",
-      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
       "sourceFingerprint": "144ac5a56476bf870c17fec20fa0b7b06fcac07958c3fd5ef9affc6e166c8c46",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -539,7 +567,7 @@
       "address": "ซอยงามดูพลี สาทร 1 ถนนพระราม 4",
       "subtitle": "เบาะแสราคาประหยัด ต้องยืนยันราคาและห้องปัจจุบัน",
       "sourceFingerprint": "8e1e91296c1105348fd58bea1bab5d822931b368035f5efcff99c6161cb147b6",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -590,7 +618,7 @@
       "indicativePrice": 5000,
       "subtitle": "ราคาในงบ แต่ยังไม่ทราบสัญญาเช่าสั้น",
       "sourceFingerprint": "824edc8baac265ff2bbb4ada36016c654f4bfabe91a931131305c5a1e56debf8",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -613,7 +641,11 @@
       "additionalSources": [
         {
           "name": "Hongpak · ขั้นต่ำ 6 เดือน",
-          "url": "https://www.hongpak.in.th/rooms/26821"
+          "url": "https://www.hongpak.in.th/rooms/26821",
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "eca9d2567345ca4ed9332c9a320eaa88bc5a40858226ed07a025bdbe45a647f4"
         }
       ],
       "minLeaseMonths": 6
@@ -674,9 +706,9 @@
       "posterUpdated": "2026-10-25T04:46:35.943Z",
       "address": "ซอยเจริญสุข ถนนพระราม 4",
       "subtitle": "เก็บเป็นรายการติดตาม เมื่อมีห้องว่างรายเดือน",
-      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
       "sourceFingerprint": "993be200d450082587c82a8cd74dad91c57360483aa80a0f7b422116aa053b43",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -736,7 +768,7 @@
       "indicativePrice": 8000,
       "subtitle": "ห้องในงบระบุเต็ม และไกลกว่าเกณฑ์หลัก",
       "sourceFingerprint": "290a00af35ff5825a082cee5d0b59bfa9f1a22e625a116988da68411f7eecd06",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -810,9 +842,9 @@
       "posterUpdated": "2026-10-29T07:11:17.083Z",
       "address": "ถนนบรรทัดทอง",
       "subtitle": "สัญญาเช่าสั้นในงบ แต่ไกลสถานีเกินเกณฑ์",
-      "autoRatesAsOf": "2026-11-06T05:22:25+00:00",
+      "autoRatesAsOf": "2026-11-06T05:45:31+00:00",
       "sourceFingerprint": "55db4b47ada12270123699c06a22269ed393ea3b4ca59b0c293d8f80e981d49f",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -872,7 +904,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-39888-0.jpg",
@@ -928,7 +960,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-60939-0.jpg",
@@ -967,8 +999,8 @@
       "fees": {
         "deposit": "1 เดือน",
         "advance": "1 เดือน",
-        "electric": "ยังไม่ระบุ ต้องสอบถาม",
-        "water": "ยังไม่ระบุ ต้องสอบถาม",
+        "electric": "10 บาท/หน่วย ตาม Hongpak",
+        "water": "250 บาท/คน/เดือน ตาม Hongpak",
         "service": "รวมในค่าเช่าตามแบบฟอร์มประกาศ",
         "internet": "รวมในค่าเช่าตามแบบฟอร์มประกาศ"
       },
@@ -979,7 +1011,8 @@
       ],
       "notes": [
         "คนละอาคารกับบ้านสุขใจ ลุมพินี: ที่อยู่นี้ 35/5 ซอยงามดูพลี",
-        "มีห้องน้ำในตัวตามคำบรรยาย แต่ขั้นต่ำสัญญาและราคาเช่าสั้นยังไม่ระบุ"
+        "มีห้องน้ำในตัวตามคำบรรยาย แต่ขั้นต่ำสัญญาและราคาเช่าสั้นยังไม่ระบุ",
+        "Hongpak ระบุขั้นต่ำ 3 เดือน แต่ช่วงราคาต่างจากคำบรรยาย ต้องยืนยันราคาสำหรับห้องและระยะเช่าที่เลือก"
       ],
       "walkingClaim": "หน้า RentHub แสดง 513 ม. ถึง ลุมพินี; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
       "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
@@ -988,7 +1021,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-54218-0.jpg",
@@ -1003,7 +1036,23 @@
       ],
       "sourceListingId": "54218",
       "sourceFingerprint": "1618f6836a573e10134c88c847117bd455e1631c7565dc5337aadae33afbc500",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "Hongpak",
+          "url": "https://www.hongpak.in.th/rooms/26756",
+          "facts": "ชื่อบ้านสุขใจ สาทร 1 แต่ที่อยู่ 35/5 งามดูพลีตรงกับบ้านสุขใจ 1; ขั้นต่ำ 3 เดือน ช่วงราคา 4,500–6,500; คำบรรยายมีราคาเก่า 3,500–5,000 จึงต้องยืนยันอัตรา 3 เดือน",
+          "checkedAt": "2026-11-06T05:39:17+00:00",
+          "posterUpdated": "2026-09-06",
+          "minimumMonths": 3,
+          "indicativePrice": 4500,
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "84b48a115ad2319bd6d823c31d9eb049fd6db0191ae9d9be5dbce05af022a177"
+        }
+      ],
+      "minLeaseMonths": 3
     },
     {
       "id": "rh-46158",
@@ -1044,7 +1093,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-46158-0.jpg",
@@ -1102,7 +1151,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-57083-0.jpg",
@@ -1117,7 +1166,22 @@
       ],
       "sourceListingId": "57083",
       "sourceFingerprint": "9fcf10e00097a907f292ecc08af060545fd09e2f978536e16fa95f185f9ff5f2",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "Hongpak",
+          "url": "https://www.hongpak.in.th/rooms/33166",
+          "facts": "ที่อยู่ 34/15 ศรีบำเพ็ญตรงกัน; ขั้นต่ำ 6 เดือน ช่วง 5,000–6,000; ประกัน 1 เดือนและล่วงหน้า 1 เดือน",
+          "checkedAt": "2026-11-06T05:39:17+00:00",
+          "posterUpdated": null,
+          "minimumMonths": 6,
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "ccb1dfe29a1b4e36f445d7259ba823a9274baf35e7b08fc46ca26174a6ab4efe"
+        }
+      ],
+      "minLeaseMonths": 6
     },
     {
       "id": "rh-39594",
@@ -1158,7 +1222,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-39594-0.jpg",
@@ -1217,7 +1281,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6900,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-45165-0.jpg",
@@ -1282,7 +1346,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 6000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-57784-0.jpg",
@@ -1341,7 +1405,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3200,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-60063-0.jpg",
@@ -1400,7 +1464,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5900,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-54180-0.jpg",
@@ -1459,7 +1523,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3800,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-51223-0.jpg",
@@ -1525,7 +1589,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 5500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-58692-0.jpg",
@@ -1591,7 +1655,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 5499,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-52358-0.jpg",
@@ -1649,7 +1713,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-62360-0.jpg",
@@ -1664,7 +1728,23 @@
       ],
       "sourceListingId": "62360",
       "sourceFingerprint": "c4f947787273b771297e9ec3779f3426d392e116c8300a7c226a6f4e9fc45f22",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "ThaiApartment",
+          "url": "https://www.thaiapartment.com/อพาร์ทเม้นท์/the-p-sathorn-12342",
+          "facts": "ระบุขั้นต่ำ 3 เดือน โปรโมชั่น 9,000 เฉพาะบางห้อง; ประกัน 1 เดือน ค่าไฟ 6/หน่วย น้ำ 14/หน่วย แต่ไม่ได้แยกราคาโปรโมชั่นตามระยะสัญญา",
+          "checkedAt": "2026-11-06T05:39:17+00:00",
+          "posterUpdated": null,
+          "minimumMonths": 3,
+          "indicativePrice": 9000,
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "f94e322c79d9e9ffbdee9a593df8219486f0997f7e6676459971d703eec2bcc8"
+        }
+      ],
+      "minLeaseMonths": 3
     },
     {
       "id": "rh-13269",
@@ -1707,7 +1787,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-13269-0.jpg",
@@ -1764,7 +1844,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-55407-0.jpg",
@@ -1823,7 +1903,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-42468-0.jpg",
@@ -1882,7 +1962,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-41521-0.jpg",
@@ -1942,7 +2022,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-38903-0.jpg",
@@ -2001,7 +2081,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-51569-0.jpg",
@@ -2017,7 +2097,21 @@
       "sourceListingId": "51569",
       "minLeaseMonths": 2,
       "sourceFingerprint": "3c883c40692fee92d05cc5454d05be36523a6a7ec11ca3469fecd270416c6886",
-      "checkError": null
+      "checkError": null,
+      "additionalSources": [
+        {
+          "name": "Hongpak",
+          "url": "https://www.hongpak.in.th/rooms/36966-rama4residence",
+          "facts": "Hongpak ระบุค่าเช่า 6,500–7,000 ขั้นต่ำ 12 เดือน ประกัน 10,000 ไฟ 7/หน่วย น้ำ 22/หน่วย ขัดกับข้อความรับนักศึกษาฝึกงาน 2 เดือนใน RentHub ต้องยืนยันสิทธิ์เช่าสั้นและราคา",
+          "checkedAt": "2026-11-06T05:39:17+00:00",
+          "posterUpdated": null,
+          "lastAttemptAt": "2026-11-06T05:45:31+00:00",
+          "checkStatus": "ok",
+          "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+          "fingerprint": "4a224e9b8c456c3e5a3f9e888487de3266bd69f8696ec4130b0dae880d2822f7"
+        }
+      ],
+      "needsReview": true
     },
     {
       "id": "rh-55738",
@@ -2063,7 +2157,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6600,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-55738-0.jpg",
@@ -2123,7 +2217,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6700,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-51319-0.jpg",
@@ -2183,7 +2277,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5800,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-54698-0.jpg",
@@ -2243,7 +2337,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-51318-0.jpg",
@@ -2308,7 +2402,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 3000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-54928-0.jpg",
@@ -2367,7 +2461,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-34489-0.jpg",
@@ -2423,7 +2517,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 2500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-58874-0.jpg",
@@ -2479,7 +2573,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-58077-0.jpg",
@@ -2540,7 +2634,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-27310-0.jpg",
@@ -2599,7 +2693,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-47118-0.jpg",
@@ -2652,12 +2746,12 @@
       ],
       "walkingClaim": "หน้า RentHub แสดง 394 ม. ถึง หัวลำโพง; ไม่ใช่ระยะเดินจริงที่ยืนยัน",
       "oneBangkok": "MRT 3 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
-      "posterUpdated": "2026-11-03T05:03:36.824Z",
+      "posterUpdated": "2026-11-06T05:24:52.566Z",
       "address": "683 - พระราม4",
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5999,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-22869-0.jpg",
@@ -2716,7 +2810,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-6672-0.jpg",
@@ -2774,7 +2868,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-71099-0.jpg",
@@ -2830,7 +2924,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-67872-0.jpg",
@@ -2888,7 +2982,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 2700,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-55921-0.jpg",
@@ -2952,7 +3046,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 9500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-53514-0.jpg",
@@ -3009,7 +3103,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-21831-0.jpg",
@@ -3069,7 +3163,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-42399-0.jpg",
@@ -3128,7 +3222,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-5758-0.jpg",
@@ -3183,7 +3277,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-40251-0.jpg",
@@ -3241,7 +3335,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-06T05:22:25+00:00",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
       "photos": [
         {
           "url": "assets/rh-40766-0.jpg",
@@ -3257,6 +3351,169 @@
       "sourceListingId": "40766",
       "sourceFingerprint": "5ef961378b9b53d2a78ba2c904b5b73f59357ad16aea8f228866df8b7a667a72",
       "checkError": null
+    },
+    {
+      "id": "hongpak-st-food-room",
+      "name": "S.T. Food & Room · สะพานคู่",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": 20,
+      "offers": [],
+      "sourceUrl": "https://www.hongpak.in.th/rooms/4427-s-t-food-room",
+      "sourceName": "Hongpak",
+      "rank": 18,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม",
+        "electric": "7 บาท/หน่วย",
+        "water": "18 บาท/หน่วย",
+        "service": "ต้องสอบถาม",
+        "internet": "ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ประกาศเก่าปี 2561 ต้องยืนยันราคา ขั้นต่ำสัญญา และห้องว่างใหม่",
+        "ไม่มีการติดต่อเจ้าของ และยังไม่ยืนยันเส้นทางเดินถึงทางเข้า MRT"
+      ],
+      "walkingClaim": "เว็บแสดงประมาณ 500 ม.; ผู้ประกาศแจ้งเดินทาง 5 นาที ยังไม่ยืนยันระยะเดินจริง",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2018-05-22",
+      "address": "1034/18-21 ซอยสะพานคู่ ถนนพระราม 4",
+      "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
+      "indicativePrice": 5300,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "photos": [
+        {
+          "url": "assets/hongpak-st-food-room.jpg",
+          "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/2012/0907/20120907143733-135.JPG",
+          "credit": "Hongpak"
+        }
+      ],
+      "checkError": null,
+      "additionalSources": [],
+      "sourceFingerprint": "6a09e0fc9cf978ffa9e9ad79b054d3e2a26499fb24ac8d56cea710e8c39b7580"
+    },
+    {
+      "id": "hongpak-one-rooms",
+      "name": "ONE ROOMS · สะพานคู่",
+      "kind": "apartment",
+      "station": "ลุมพินี",
+      "stops": 0,
+      "size": null,
+      "offers": [],
+      "sourceUrl": "https://www.hongpak.in.th/rooms/56571-one-rooms",
+      "sourceName": "Hongpak",
+      "rank": 18,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "lead",
+      "availability": "unknown",
+      "fees": {
+        "deposit": "ต้องสอบถาม",
+        "advance": "ต้องสอบถาม",
+        "electric": "8 บาท/หน่วย",
+        "water": "100 บาท/คน/เดือน",
+        "service": "ต้องสอบถาม",
+        "internet": "ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ประกาศปี 2566 ไม่ระบุขั้นต่ำสัญญาและราคาเช่า 1–4 เดือน",
+        "ไม่มีการติดต่อเจ้าของ และยังไม่ยืนยันเส้นทางเดินถึงทางเข้า MRT"
+      ],
+      "walkingClaim": "เว็บแสดงลุมพินี 600 ม.; ผู้ประกาศแจ้งเดิน 10 นาที ยังไม่ยืนยันระยะเดินจริง",
+      "oneBangkok": "ย่านลุมพินี/พระราม 4 อาจเดินตรงถึง One Bangkok ได้ แต่ยังไม่ตรวจระยะและทางข้าม",
+      "posterUpdated": "2023-02-23",
+      "address": "1034/29 ซอยสะพานคู่ ถนนพระราม 4",
+      "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
+      "indicativePrice": 5000,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "photos": [
+        {
+          "url": "assets/hongpak-one-rooms.jpg",
+          "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/23/0223/63f70dee9412b.jpg",
+          "credit": "Hongpak"
+        }
+      ],
+      "checkError": null,
+      "additionalSources": [],
+      "sourceFingerprint": "b418a3dd232aa0e0bca9acb2902b4aa35acfa61b85e9d06a4d4bcaf8a53adffe"
+    },
+    {
+      "id": "hongpak-paradise-place",
+      "name": "Paradise Place · ไกรสีห์",
+      "kind": "condo",
+      "station": "คลองเตย",
+      "stops": 1,
+      "size": 45,
+      "offers": [],
+      "sourceUrl": "https://www.hongpak.in.th/rooms/60730-paradise-place-condominium-4-113-1-3",
+      "sourceName": "Hongpak",
+      "rank": 100,
+      "bathroom": "private",
+      "walkingVerified": false,
+      "walkingMeters": null,
+      "ownerConfirmed": false,
+      "factsAsOf": "2026-11-06",
+      "category": "excluded",
+      "availability": "unknown",
+      "fees": {
+        "deposit": "2 เดือน",
+        "advance": "1 เดือน",
+        "electric": "7 บาท/หน่วย",
+        "water": "17 บาท/หน่วย",
+        "service": "ต้องสอบถาม",
+        "internet": "ต้องสอบถาม"
+      },
+      "amenities": [
+        "เครื่องปรับอากาศ",
+        "อินเทอร์เน็ตตามเงื่อนไข",
+        "คีย์การ์ด"
+      ],
+      "notes": [
+        "ขั้นต่ำ 12 เดือน จึงไม่ใช่ตัวเลือกเช่าสั้น แยกไว้ในรายการเกินเงื่อนไข",
+        "ไม่มีการติดต่อเจ้าของ และยังไม่ยืนยันเส้นทางเดินถึงทางเข้า MRT"
+      ],
+      "walkingClaim": "เว็บแสดงคลองเตย 500 ม.; ยังไม่ยืนยันระยะเดินจริง",
+      "oneBangkok": "MRT คลองเตย 1 สถานีถึงลุมพินี แล้วเดินเข้า One Bangkok; ยังไม่ยืนยันระยะเดินรวม",
+      "posterUpdated": "2026-03-24",
+      "address": "113 ซอยไกรสีห์ ถนนพระราม 4",
+      "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
+      "indicativePrice": 7500,
+      "checkStatus": "ok",
+      "lastFetchedAt": "2026-11-06T05:45:31+00:00",
+      "photos": [
+        {
+          "url": "assets/hongpak-paradise-place.jpg",
+          "sourceUrl": "https://c2.hongpak.in.th/media/rooms/photos/26/0324/69c267c0dd3e7.jpg",
+          "credit": "Hongpak"
+        }
+      ],
+      "checkError": null,
+      "additionalSources": [],
+      "minLeaseMonths": 12,
+      "sourceFingerprint": "9a371a70fec9e3675536e24e8374cbe84f2bf20b28d7eb6d64483bb9739ce1eb"
     }
   ],
   "changes": [],
@@ -3268,36 +3525,6 @@
     "note": "ตรวจหน้าประกาศตรง แยกราคาเช่าสั้นออกจากคอลัมน์รายปี ระยะหน้าเว็บยังไม่ใช่ระยะเดิน"
   },
   "reviewQueue": [
-    {
-      "name": "บ้านสุขใจ สาทร 1",
-      "url": "https://www.hongpak.in.th/rooms/26756",
-      "websiteMeters": 600,
-      "source": "Hongpak",
-      "station": "ลุมพินี",
-      "discoveredAt": "2026-11-06T05:06:43+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
-      "name": "บ้านสุขใจ ศรีบำเพ็ญ 34",
-      "url": "https://www.hongpak.in.th/rooms/33166",
-      "websiteMeters": 700,
-      "source": "Hongpak",
-      "station": "ลุมพินี",
-      "discoveredAt": "2026-11-06T05:06:43+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
-      "name": "ห้องพักรายวัน - รายเดือน",
-      "url": "https://www.hongpak.in.th/rooms/10835-ps-room-for-rent",
-      "websiteMeters": 500,
-      "source": "Hongpak",
-      "station": "ลุมพินี",
-      "discoveredAt": "2026-11-06T05:06:43+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
     {
       "name": "เอส.เค.แกรนด์สาทร อพาร์ทเม้นท์",
       "url": "https://www.renthub.in.th/เอส-เค-แกรนด์สาทร-อพาร์ทเม้นท์",
@@ -3342,16 +3569,6 @@
       "geographyUnverified": true
     },
     {
-      "name": "paradise place condominium ซ.ไกรสีห์ ถนนพระราม4 ห้อง 113/1,3",
-      "url": "https://www.hongpak.in.th/rooms/60730-paradise-place-condominium-4-113-1-3",
-      "websiteMeters": 500,
-      "source": "Hongpak",
-      "station": "คลองเตย",
-      "discoveredAt": "2026-11-06T05:06:50+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
       "name": "เดอะ แบมบู ไลอ้อน แฟมมิลี่  | ขณะนี้ห้องพักเต็มครับ",
       "url": "https://www.renthub.in.th/เดอะ-แบมบู-ไลอ้อน-แฟมมิลี่-ขณะนี้ห้องพักเต็มครับ",
       "listingId": "44711",
@@ -3359,16 +3576,6 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "discoveredAt": "2026-11-06T05:06:58+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
-      "name": "พระราม4เรสซิเด้นท์",
-      "url": "https://www.hongpak.in.th/rooms/36966-rama4residence",
-      "websiteMeters": 500,
-      "source": "Hongpak",
-      "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "discoveredAt": "2026-11-06T05:06:50+00:00",
       "verified": false,
       "geographyUnverified": true
     },
@@ -3399,17 +3606,6 @@
       "url": "https://www.renthub.in.th/โรงแรมเดออานี-สุรวงศ์-ใกล้-โรงพยาบาลจุฬา-รพ-กรุงเทพคริสเตียน-mrt-bts-สีลม",
       "listingId": "55349",
       "websiteMeters": 738,
-      "source": "RentHub",
-      "station": "สีลม",
-      "discoveredAt": "2026-11-06T05:07:15+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
-      "name": "ห้องพักสตรียศพัทธ์",
-      "url": "https://www.renthub.in.th/ห้องพักสตรียศพัทธ์--3cac0509",
-      "listingId": "60587",
-      "websiteMeters": 716,
       "source": "RentHub",
       "station": "สีลม",
       "discoveredAt": "2026-11-06T05:07:15+00:00",
@@ -3457,28 +3653,6 @@
       "source": "RentHub",
       "station": "สีลม",
       "discoveredAt": "2026-11-06T05:07:15+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
-      "name": "สองพระอพาร์ตเม้นท์ (เฉพาะสุภาพสตรี)",
-      "url": "https://www.renthub.in.th/สองพระอพาร์ตเม้นท์-เฉพาะสุภาพสตรี",
-      "listingId": "54258",
-      "websiteMeters": 788,
-      "source": "RentHub",
-      "station": "หัวลำโพง",
-      "discoveredAt": "2026-11-06T05:07:23+00:00",
-      "verified": false,
-      "geographyUnverified": true
-    },
-    {
-      "name": "อพาร์ทเมนท์หญิง บ้านสี่พระยา ใกล้จุฬา  สีลม",
-      "url": "https://www.renthub.in.th/อพาร์ทเมนท์หญิง-บ้านสี่พระยา-ใกล้จุฬา-สีลม",
-      "listingId": "5703",
-      "websiteMeters": 787,
-      "source": "RentHub",
-      "station": "หัวลำโพง",
-      "discoveredAt": "2026-11-06T05:07:23+00:00",
       "verified": false,
       "geographyUnverified": true
     },
@@ -3532,7 +3706,7 @@
       "source": "RentHub",
       "station": "ลุมพินี",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ลุมพินี",
-      "checkedAt": "2026-11-06T05:22:30+00:00",
+      "checkedAt": "2026-11-06T05:45:37+00:00",
       "status": "ok",
       "candidates": 11
     },
@@ -3540,7 +3714,7 @@
       "source": "RentHub",
       "station": "ลุมพินี",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ลุมพินี",
-      "checkedAt": "2026-11-06T05:22:30+00:00",
+      "checkedAt": "2026-11-06T05:45:37+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3548,7 +3722,7 @@
       "source": "Hongpak",
       "station": "ลุมพินี",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ลุมพินี/",
-      "checkedAt": "2026-11-06T05:22:30+00:00",
+      "checkedAt": "2026-11-06T05:45:37+00:00",
       "status": "ok",
       "candidates": 4
     },
@@ -3556,7 +3730,7 @@
       "source": "RentHub",
       "station": "คลองเตย",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-คลองเตย",
-      "checkedAt": "2026-11-06T05:22:31+00:00",
+      "checkedAt": "2026-11-06T05:45:37+00:00",
       "status": "ok",
       "candidates": 22
     },
@@ -3564,7 +3738,7 @@
       "source": "RentHub",
       "station": "คลองเตย",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-คลองเตย",
-      "checkedAt": "2026-11-06T05:22:31+00:00",
+      "checkedAt": "2026-11-06T05:45:37+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3572,7 +3746,7 @@
       "source": "Hongpak",
       "station": "คลองเตย",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-คลองเตย/",
-      "checkedAt": "2026-11-06T05:22:31+00:00",
+      "checkedAt": "2026-11-06T05:45:38+00:00",
       "status": "ok",
       "candidates": 4
     },
@@ -3580,7 +3754,7 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "checkedAt": "2026-11-06T05:22:32+00:00",
+      "checkedAt": "2026-11-06T05:45:38+00:00",
       "status": "ok",
       "candidates": 17
     },
@@ -3588,7 +3762,7 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "checkedAt": "2026-11-06T05:22:32+00:00",
+      "checkedAt": "2026-11-06T05:45:39+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3596,7 +3770,7 @@
       "source": "Hongpak",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์/",
-      "checkedAt": "2026-11-06T05:22:32+00:00",
+      "checkedAt": "2026-11-06T05:45:39+00:00",
       "status": "ok",
       "candidates": 2
     },
@@ -3604,7 +3778,7 @@
       "source": "RentHub",
       "station": "สามย่าน",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สามย่าน",
-      "checkedAt": "2026-11-06T05:22:33+00:00",
+      "checkedAt": "2026-11-06T05:45:39+00:00",
       "status": "ok",
       "candidates": 7
     },
@@ -3612,7 +3786,7 @@
       "source": "RentHub",
       "station": "สามย่าน",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สามย่าน",
-      "checkedAt": "2026-11-06T05:22:33+00:00",
+      "checkedAt": "2026-11-06T05:45:39+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3620,7 +3794,7 @@
       "source": "Hongpak",
       "station": "สามย่าน",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สามย่าน/",
-      "checkedAt": "2026-11-06T05:22:33+00:00",
+      "checkedAt": "2026-11-06T05:45:39+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -3628,15 +3802,15 @@
       "source": "RentHub",
       "station": "สีลม",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สีลม",
-      "checkedAt": "2026-11-06T05:22:34+00:00",
+      "checkedAt": "2026-11-06T05:45:40+00:00",
       "status": "ok",
-      "candidates": 8
+      "candidates": 7
     },
     {
       "source": "RentHub",
       "station": "สีลม",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สีลม",
-      "checkedAt": "2026-11-06T05:22:34+00:00",
+      "checkedAt": "2026-11-06T05:45:40+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -3644,7 +3818,7 @@
       "source": "Hongpak",
       "station": "สีลม",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สีลม/",
-      "checkedAt": "2026-11-06T05:22:34+00:00",
+      "checkedAt": "2026-11-06T05:45:40+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -3652,15 +3826,15 @@
       "source": "RentHub",
       "station": "หัวลำโพง",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-หัวลำโพง",
-      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "checkedAt": "2026-11-06T05:45:41+00:00",
       "status": "ok",
-      "candidates": 9
+      "candidates": 7
     },
     {
       "source": "RentHub",
       "station": "หัวลำโพง",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-หัวลำโพง",
-      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "checkedAt": "2026-11-06T05:45:41+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3668,7 +3842,7 @@
       "source": "Hongpak",
       "station": "หัวลำโพง",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-หัวลำโพง/",
-      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "checkedAt": "2026-11-06T05:45:41+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3676,7 +3850,7 @@
       "source": "RentHub",
       "station": "สุขุมวิท",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สุขุมวิท",
-      "checkedAt": "2026-11-06T05:22:35+00:00",
+      "checkedAt": "2026-11-06T05:45:42+00:00",
       "status": "ok",
       "candidates": 2
     },
@@ -3684,7 +3858,7 @@
       "source": "RentHub",
       "station": "สุขุมวิท",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สุขุมวิท",
-      "checkedAt": "2026-11-06T05:22:36+00:00",
+      "checkedAt": "2026-11-06T05:45:42+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -3692,9 +3866,25 @@
       "source": "Hongpak",
       "station": "สุขุมวิท",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สุขุมวิท/",
-      "checkedAt": "2026-11-06T05:22:36+00:00",
+      "checkedAt": "2026-11-06T05:45:42+00:00",
       "status": "ok",
       "candidates": 0
+    }
+  ],
+  "sourceAudit": [
+    {
+      "source": "PropertyHub",
+      "url": "https://propertyhub.in.th/listings/s4124-ให้เช่า-lumpini-place-rama4-ratchadapisek---5253165",
+      "checkedAt": "2026-11-06T05:39:17+00:00",
+      "status": "rejected",
+      "reason": "ห้อง 26.5 ตร.ม. ค่าเช่า 14,000 บาท ขั้นต่ำ 1 ปี เกินงบและระยะสัญญา"
+    },
+    {
+      "source": "ThaiApartment",
+      "url": "https://www.thaiapartment.com/คอนโด/คอนโด-ให้เช่า-ลุมพินี-เพลส-พระราม-4-รัชดาภิเษก-55934",
+      "checkedAt": "2026-11-06T05:39:17+00:00",
+      "status": "rejected",
+      "reason": "10,000 บาท ขั้นต่ำ 12 เดือน จึงไม่ใช้เป็นราคาเช่าสั้น"
     }
   ]
 }

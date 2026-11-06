@@ -148,7 +148,7 @@ def discovery_candidates(s,page):
    parser=ListingLinks();parser.feed(card)
    links=[v for v in parser.links if len(v['name'])>3]
    if links:found.append({'name':links[0]['name'],'url':urllib.parse.urljoin(page['url'],links[0]['url']),'websiteMeters':meters})
- return [dict(v,source=page['source'],station=page['station'],discoveredAt=now(),verified=False,geographyUnverified=True) for v in found if not re.search('หอพักหญิง|หอหญิง|หอพักสตรี|หญิงล้วน',v['name'])]
+ return [dict(v,source=page['source'],station=page['station'],discoveredAt=now(),verified=False,geographyUnverified=True) for v in found if not re.search('หญิง|สตรี',v['name'])]
 
 def discovery(data):
  # Queue only: public category membership is not a verified MRT walking route.
@@ -194,6 +194,16 @@ def main():
      if local:photos.append({'url':local,'sourceUrl':url,'credit':p['sourceName']})
     if photos:p['photos']=photos
  if '--discover' in sys.argv:discovery(data)
+ # Secondary sources preserve independent evidence; never overwrite the canonical room's rent.
+ secondary=[(p,v) for p in data['properties'] for v in p.get('additionalSources',[]) if v.get('url')]
+ with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+  inputs=[{'id':str(i),'sourceUrl':v['url']} for i,(p,v) in enumerate(secondary)]
+  for id,result,error in pool.map(check,inputs):
+   p,v=secondary[int(id)];v['lastAttemptAt']=at
+   if error:v.update(checkStatus='error',checkError=error);continue
+   if v.get('fingerprint') and result.get('fingerprint') and v['fingerprint']!=result['fingerprint']:p['needsReview']=True
+   v.update(checkStatus='ok',lastFetchedAt=at)
+   if result.get('fingerprint'):v['fingerprint']=result['fingerprint']
  data['changes']=changes[-100:];data['generatedAt']=at
  data['lastRun']={'startedAt':at,'finishedAt':now(),'success':ok,'failed':bad,'discoverySuccess':sum(v['status']=='ok' for v in data.get('discoveryRuns',[])),'discoveryFailed':sum(v['status']=='error' for v in data.get('discoveryRuns',[]))}
  if os.getenv('GITHUB_ACTIONS')=='true' or os.getenv('NEARONE_SCHEDULED')=='1':
