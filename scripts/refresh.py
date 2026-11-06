@@ -211,8 +211,11 @@ def discovery(data):
 
 def main():
  data=json.loads(DATA.read_text());changes=data.get('changes',[]);ok=0;bad=0;at=now()
+ from facebook_import import merge_facebook,is_automatic_source
+ merge_facebook(data)
+ automatic=[p for p in data['properties'] if is_automatic_source(p)]
  with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
-  for id,result,error in pool.map(check,data['properties']):
+  for id,result,error in pool.map(check,automatic):
    p=next(x for x in data['properties'] if x['id']==id)
    if error:
     bad+=1;p.update(checkStatus='error',checkError=error,lastAttemptAt=at);print(id+': source unavailable; retained prior facts')
@@ -226,7 +229,7 @@ def main():
     if photos:p['photos']=photos
  if '--discover' in sys.argv:discovery(data)
  # Secondary sources preserve independent evidence; never overwrite the canonical room's rent.
- secondary=[(p,v) for p in data['properties'] for v in p.get('additionalSources',[]) if v.get('url')]
+ secondary=[(p,v) for p in data['properties'] for v in p.get('additionalSources',[]) if v.get('url') and is_automatic_source(v)]
  with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
   inputs=[{'id':str(i),'sourceUrl':v['url']} for i,(p,v) in enumerate(secondary)]
   for id,result,error in pool.map(check,inputs):
@@ -236,7 +239,7 @@ def main():
    v.update(checkStatus='ok',lastFetchedAt=at)
    if result.get('fingerprint'):v['fingerprint']=result['fingerprint']
  data['changes']=changes[-100:];data['generatedAt']=at
- data['lastRun']={'startedAt':at,'finishedAt':now(),'success':ok,'failed':bad,'discoverySuccess':sum(v['status']=='ok' for v in data.get('discoveryRuns',[])),'discoveryFailed':sum(v['status']=='error' for v in data.get('discoveryRuns',[]))}
+ data['lastRun']={'startedAt':at,'finishedAt':now(),'success':ok,'failed':bad,'manualSkipped':len(data['properties'])-len(automatic),'discoverySuccess':sum(v['status']=='ok' for v in data.get('discoveryRuns',[])),'discoveryFailed':sum(v['status']=='error' for v in data.get('discoveryRuns',[]))}
  if os.getenv('GITHUB_ACTIONS')=='true' or os.getenv('NEARONE_SCHEDULED')=='1':
   data['schedule']={'state':'active','frequency':'hourly','note':'GitHub Actions' if os.getenv('GITHUB_ACTIONS')=='true' else 'macOS LaunchAgent'}
  temp=DATA.with_suffix('.tmp');temp.write_text(json.dumps(data,ensure_ascii=False,indent=2));temp.replace(DATA)

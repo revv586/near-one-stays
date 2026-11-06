@@ -48,3 +48,11 @@ npm run refresh
 ## การนำชุดอัปเดตขึ้น GitHub
 
 Workflow รองรับ `near-one-source.zip` ที่ root เพื่อแตกไฟล์ก่อนตรวจและ commit source/data แล้วนำ ZIP ออกจาก repository ระหว่างรัน ไม่บรรจุ credentials หรือ Git metadata ลง ZIP และไม่เขียนทับ workflow ผ่าน payload นี้
+
+## Facebook group posts
+
+Reviewed public posts from groups `691988518250398` and `1116528203018291` are stored in `dist/data/facebook-posts.json`. The Facebook page links to actual imported records and their original posts; it includes reasons for exclusions and future availability. The price slider includes indicative prices without treating annual prices as short-lease offers.
+
+`facebook_import.py` merges this curated input before each scheduled refresh, preserves unrelated current records, and is idempotent. Facebook records are excluded from the unattended HTTP checker. No passwords, cookies, session exports, or signed CDN image URLs are stored in this project. Local photo copies are credited to the original public post.
+
+**Facebook collection is not automated hourly.** GitHub Actions deploys already-reviewed Facebook data alongside hourly updates from supported property platforms. The separate ChatGPT housing watch now includes both groups on its existing 09:00/18:00 Asia/Bangkok schedule; its notifications do not prove that a website update occurred or that all group posts were accessible.
