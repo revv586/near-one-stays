@@ -1,0 +1,79 @@
+name: Hourly refresh and deploy
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: near-one-pages
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Restore initial project upload when present
+        run: |
+          if [ -f near-one-source.zip ]; then
+            python3 -m zipfile -e near-one-source.zip .
+          fi
+      - name: Read public listings and queue new leads
+        run: python3 scripts/refresh.py --discover --strict
+      - run: npm test
+      - run: npm run build
+      - name: Keep source-check report for troubleshooting
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-source-checks
+          path: dist/data/listings.json
+          retention-days: 7
+      - name: Save refreshed data and listing photos
+        run: |
+          git config user.name "near-one-bot"
+          git config user.email "near-one-bot@users.noreply.github.com"
+          if [ -f near-one-source.zip ]; then
+            git rm near-one-source.zip
+          fi
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh public listings [skip ci]"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+        if: vars.NEARONE_PAGES_ENABLED == 'true'
+      - uses: actions/upload-pages-artifact@v4
+        if: vars.NEARONE_PAGES_ENABLED == 'true'
+        with:
+          path: dist
+      - name: Save tested website even while Pages is not configured
+        uses: actions/upload-artifact@v4
+        with:
+          name: near-one-website
+          path: dist
+          retention-days: 7
+  deploy:
+    needs: refresh
+    if: vars.NEARONE_PAGES_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy verified build
+        id: deployment
+        uses: actions/deploy-pages@v4
