@@ -1,5 +1,15 @@
 export const stations=['หัวลำโพง','สามย่าน','สีลม','ลุมพินี','คลองเตย','ศูนย์ฯ สิริกิติ์','สุขุมวิท'];
 export const kinds={apartment:'หอพัก / อพาร์ตเมนต์',condo:'คอนโด',capsule:'แคปซูล',hostel:'ห้องพัก / โฮสเทล'};
+export function facebookSyncStatus(research,now=Date.now()){
+ const run=research?.lastRun;
+ if(!run)return {state:'pending',label:'ยังไม่มีผลตรวจรอบล่าสุด',tone:'amber'};
+ const groups=research.groups||[];
+ if(['blocked','error','partial','failed'].includes(run.status)||groups.some(g=>[g.status,g.lastRun?.status].some(v=>['blocked','error','login_required','failed'].includes(v))))return {state:'blocked',label:'อ่านต้นทางไม่ครบ · เก็บข้อมูลเดิมไว้',tone:'amber'};
+ const dates=groups.map(g=>Date.parse(g.lastCheckedAt||g.lastRun?.checkedAt));
+ if(run.status!=='success'||groups.length!==2||groups.some(g=>g.status!=='ok'||g.lastRun&&g.lastRun.status!=='ok')||dates.some(n=>!Number.isFinite(n)||n>now+300000))return {state:'pending',label:'ยังยืนยันผลตรวจทั้งสองกลุ่มไม่ได้',tone:'amber'};
+ if(dates.some(n=>now-n>90*60000))return {state:'stale',label:'ผลตรวจกลุ่มเกิน 90 นาทีแล้ว',tone:'amber'};
+ return {state:'fresh',label:'อ่านสองกลุ่มสำเร็จในรอบล่าสุด',tone:'green'};
+}
 export function validOffer(o){return Number.isInteger(o.months)&&o.months>0&&Number.isFinite(o.price)&&o.price>0;}
 export function offersFor(p,term='all'){return (p.offers||[]).filter(o=>validOffer(o)&&(term==='all'||term==='short'&&o.months<=4||term==='six'&&o.months===6));}
 export function priceFor(p,term='all'){const a=offersFor(p,term);return a.length?Math.min(...a.map(o=>o.price)):null;}
