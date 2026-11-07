@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "title": "NEAR ONE",
-  "generatedAt": "2026-11-07T14:11:06+00:00",
+  "generatedAt": "2026-11-07T15:13:02+00:00",
   "lastRun": {
-    "startedAt": "2026-11-07T14:11:06+00:00",
-    "finishedAt": "2026-11-07T14:11:32+00:00",
+    "startedAt": "2026-11-07T15:13:02+00:00",
+    "finishedAt": "2026-11-07T15:13:43+00:00",
     "success": 95,
     "failed": 0,
     "manualSkipped": 8,
@@ -66,7 +66,7 @@
       "subtitle": "อยู่ย่านพระราม 4 ตรงข้าม One Bangkok",
       "floor": "3",
       "sourceFingerprint": "2793695061397131c37312b9a0c2bd2fd3bc19fdf9668b32e994e70181b9d525",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -92,9 +92,9 @@
           "name": "RentHub · อีกชื่อประกาศของ PS House",
           "url": "https://www.renthub.in.th/สะพานคู่-พีเอสเฮาส์",
           "listingId": "70059",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "022f989ae61b95490ce41cc0e6d7509ddbbe003557dcbc211da756a7b27999c1"
         },
         {
@@ -103,9 +103,9 @@
           "facts": "ที่เดียวกับ PS House จาก LINE pshouse.sp; ระบุราคาขึ้นกับระยะสัญญา จึงยังไม่ใช้ช่วง 5,300–8,000 เป็นราคาเช่าสั้น",
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": "2026-08-20",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "015fe468f46523c1ae46daf5d77cc73e047a2540a971a1d08a45cb9cc9776786"
         }
       ]
@@ -176,12 +176,12 @@
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": "2019-05-31",
           "status": "closed",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "error",
           "checkError": "Unexpected cross-domain redirect"
         }
       ],
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00"
     },
     {
       "id": "freesia",
@@ -231,7 +231,7 @@
       "posterUpdated": null,
       "subtitle": "เบาะแสเช่ารายเดือน รวมค่าน้ำและค่าไฟ",
       "sourceFingerprint": "a783b9a81aefaf03c240be219464229c1f2aec032b45fb5dcf1ae1e69299c412",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -293,7 +293,7 @@
       "indicativePrice": 9000,
       "subtitle": "ห้องส่วนตัวในย่านสุรวงศ์ ใกล้สามย่านและสีลม",
       "sourceFingerprint": "5b95ba5580866d049d2e9367e0f131b010cf3e5c93ed9699213558f1c1b85954",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -311,9 +311,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "dc8f5e0afc27a4029201171a70e4d8fbd353f0864c99170db37a48edb2f92170",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -373,9 +373,9 @@
       "posterUpdated": "2026-07-22T03:46:42.281Z",
       "address": "ซอยหน้าวัดหัวลำโพง ถนนสุรวงศ์",
       "subtitle": "ที่พักสไตล์บูทิค เดินทางผ่าน MRT สามย่าน",
-      "autoRatesAsOf": "2026-11-07T14:11:06+00:00",
+      "autoRatesAsOf": "2026-11-07T15:13:02+00:00",
       "sourceFingerprint": "a28f45bbd6b076a750a1448671670c4f647ffac9703a9877c7b34dc820d6acce",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -437,7 +437,7 @@
       "indicativePrice": 10000,
       "subtitle": "มีเบาะแสโปรรายเดือน แต่ราคาในแต่ละหน้าต่างกัน",
       "sourceFingerprint": "a233eb9cc90baa3311428ec81cdfc3f19fb040de3996ab339c3c401a89eea57b",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -513,9 +513,9 @@
       "posterUpdated": "2026-11-04T02:11:43.753Z",
       "address": "ซอยงามดูพลี ถนนพระราม 4",
       "subtitle": "ทางเลือกแคปซูล แยกจากห้องพักส่วนตัว",
-      "autoRatesAsOf": "2026-11-07T14:11:06+00:00",
+      "autoRatesAsOf": "2026-11-07T15:13:02+00:00",
       "sourceFingerprint": "144ac5a56476bf870c17fec20fa0b7b06fcac07958c3fd5ef9affc6e166c8c46",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -581,7 +581,7 @@
       "address": "ซอยงามดูพลี สาทร 1 ถนนพระราม 4",
       "subtitle": "เบาะแสราคาประหยัด ต้องยืนยันราคาและห้องปัจจุบัน",
       "sourceFingerprint": "8e1e91296c1105348fd58bea1bab5d822931b368035f5efcff99c6161cb147b6",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -599,9 +599,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "c3843d47b1c5708b6474c9bb35514fea2de719124cc5e54f227922caef087dca",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -645,7 +645,7 @@
       "indicativePrice": 5000,
       "subtitle": "ราคาในงบ แต่ยังไม่ทราบสัญญาเช่าสั้น",
       "sourceFingerprint": "824edc8baac265ff2bbb4ada36016c654f4bfabe91a931131305c5a1e56debf8",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -669,9 +669,9 @@
         {
           "name": "Hongpak · ขั้นต่ำ 6 เดือน",
           "url": "https://www.hongpak.in.th/rooms/26821",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "eca9d2567345ca4ed9332c9a320eaa88bc5a40858226ed07a025bdbe45a647f4"
         }
       ],
@@ -733,9 +733,9 @@
       "posterUpdated": "2026-10-25T04:46:35.943Z",
       "address": "ซอยเจริญสุข ถนนพระราม 4",
       "subtitle": "เก็บเป็นรายการติดตาม เมื่อมีห้องว่างรายเดือน",
-      "autoRatesAsOf": "2026-11-07T14:11:06+00:00",
+      "autoRatesAsOf": "2026-11-07T15:13:02+00:00",
       "sourceFingerprint": "993be200d450082587c82a8cd74dad91c57360483aa80a0f7b422116aa053b43",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -795,7 +795,7 @@
       "indicativePrice": 8000,
       "subtitle": "ห้องในงบระบุเต็ม และไกลกว่าเกณฑ์หลัก",
       "sourceFingerprint": "290a00af35ff5825a082cee5d0b59bfa9f1a22e625a116988da68411f7eecd06",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -869,9 +869,9 @@
       "posterUpdated": "2026-10-29T07:11:17.083Z",
       "address": "ถนนบรรทัดทอง",
       "subtitle": "สัญญาเช่าสั้นในงบ แต่ไกลสถานีเกินเกณฑ์",
-      "autoRatesAsOf": "2026-11-07T14:11:06+00:00",
+      "autoRatesAsOf": "2026-11-07T15:13:02+00:00",
       "sourceFingerprint": "55db4b47ada12270123699c06a22269ed393ea3b4ca59b0c293d8f80e981d49f",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "photos": [
@@ -931,7 +931,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-39888-0.jpg",
@@ -955,9 +955,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "6e1afc461ce52f3957a8a7c74772fc621dbb7303926ade24f563802f0809aed7",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1000,7 +1000,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-60939-0.jpg",
@@ -1024,9 +1024,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "9cf834fcfec725d7049ce44c72ab09e4ff69f4e48c6487f9f35817c14a5238f2",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1074,7 +1074,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-54218-0.jpg",
@@ -1099,9 +1099,9 @@
           "posterUpdated": "2026-09-06",
           "minimumMonths": 3,
           "indicativePrice": 4500,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "84b48a115ad2319bd6d823c31d9eb049fd6db0191ae9d9be5dbce05af022a177"
         },
         {
@@ -1111,9 +1111,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "fded498a79bffe28b85f20e4257277838ab5f901b5649eb01df510a8cdec4fa7",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ],
       "minLeaseMonths": 3
@@ -1157,7 +1157,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-46158-0.jpg",
@@ -1181,9 +1181,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "d167f9a911b4281098cdd43edb26323696d42d673ca8001958b450530648aada",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1228,7 +1228,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-57083-0.jpg",
@@ -1252,9 +1252,9 @@
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": null,
           "minimumMonths": 6,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "ccb1dfe29a1b4e36f445d7259ba823a9274baf35e7b08fc46ca26174a6ab4efe"
         }
       ],
@@ -1299,7 +1299,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-39594-0.jpg",
@@ -1358,7 +1358,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6900,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-45165-0.jpg",
@@ -1382,9 +1382,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "acc6889b25ecfe8a5504c29d9fb315ba8e1ff33f590f1eafbdfb5114a8adab4e",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1436,7 +1436,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 6000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-57784-0.jpg",
@@ -1495,7 +1495,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3200,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-60063-0.jpg",
@@ -1554,7 +1554,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5900,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-54180-0.jpg",
@@ -1578,9 +1578,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "a0c8d6392d9d5c9f099fc53c1ce22ed441ed7306012310316f9fa0ac3a7f775b",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1626,7 +1626,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3800,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-51223-0.jpg",
@@ -1650,9 +1650,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "7eff2efd47902cacdea01516fb9d3aefa45cc5cb2a0186c60a452b6dee3a5b7e",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1705,7 +1705,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 5500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-58692-0.jpg",
@@ -1771,7 +1771,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 5499,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-52358-0.jpg",
@@ -1795,9 +1795,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "7c5fe39fa8a3e021cac06f369a8ddd9b76b1e1fab116757ab3898cae5fc52fbe",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -1842,7 +1842,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-62360-0.jpg",
@@ -1867,9 +1867,9 @@
           "posterUpdated": null,
           "minimumMonths": 3,
           "indicativePrice": 9000,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "f94e322c79d9e9ffbdee9a593df8219486f0997f7e6676459971d703eec2bcc8"
         }
       ],
@@ -1916,7 +1916,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-13269-0.jpg",
@@ -1973,7 +1973,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-55407-0.jpg",
@@ -2033,7 +2033,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-42468-0.jpg",
@@ -2057,9 +2057,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "52be002b5f0bea89ac57934a8ee6ebdc3b22945ea43da31dc6167835f8452218",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ],
       "needsReview": true
@@ -2106,7 +2106,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-41521-0.jpg",
@@ -2130,9 +2130,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "f5dca1af115f95a927f1d57b610346a798003d984ee1c22d166c7eeefada9812",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -2179,7 +2179,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-38903-0.jpg",
@@ -2203,9 +2203,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "59c103b7931e361f167f3c49bd6407a19dee24dfd18dab0624a576b4cdf45e43",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -2251,7 +2251,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-51569-0.jpg",
@@ -2275,9 +2275,9 @@
           "facts": "Hongpak ระบุค่าเช่า 6,500–7,000 ขั้นต่ำ 12 เดือน ประกัน 10,000 ไฟ 7/หน่วย น้ำ 22/หน่วย ขัดกับข้อความรับนักศึกษาฝึกงาน 2 เดือนใน RentHub ต้องยืนยันสิทธิ์เช่าสั้นและราคา",
           "checkedAt": "2026-11-06T05:39:17+00:00",
           "posterUpdated": null,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "4a224e9b8c456c3e5a3f9e888487de3266bd69f8696ec4130b0dae880d2822f7"
         }
       ],
@@ -2327,7 +2327,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6600,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-55738-0.jpg",
@@ -2387,7 +2387,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6700,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-51319-0.jpg",
@@ -2412,9 +2412,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "7694e19e73f13855f9926b3ed29e09ba0f8f302b4ae9a856583ae83b2afa703d",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -2460,7 +2460,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5800,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-54698-0.jpg",
@@ -2520,7 +2520,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-51318-0.jpg",
@@ -2586,7 +2586,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 3000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-54928-0.jpg",
@@ -2610,9 +2610,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "a09db887deaae232b0dc709e992f81b4b7ebeb2c9ff4cfea719de2157f5cce95",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ],
       "needsReview": true
@@ -2659,7 +2659,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-34489-0.jpg",
@@ -2683,9 +2683,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "87ca9234e1542fef7b9306fc08c6e46c69215f7d9effd0ca831cf81442e10ef5",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -2728,7 +2728,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 2500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-58874-0.jpg",
@@ -2784,7 +2784,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 3000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-58077-0.jpg",
@@ -2845,7 +2845,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-27310-0.jpg",
@@ -2869,9 +2869,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "3a6bd51ec4ceaaed0f7f600d6473302a9b0ca5d6c335de16e4175758a56b0846",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -2917,7 +2917,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 4000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-47118-0.jpg",
@@ -2941,9 +2941,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "0902f3078a5daee85344fa75e67efd5aa9537bd4d3ff9fd70d7f15057b33ecd6",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -2988,7 +2988,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 5999,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-22869-0.jpg",
@@ -3012,9 +3012,9 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "7a41de8bbdb763f6990ca802ee097e8927561eea4e410196214e686c1ace6ef7",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -3060,7 +3060,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 6500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-6672-0.jpg",
@@ -3118,7 +3118,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-71099-0.jpg",
@@ -3174,7 +3174,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 10000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-67872-0.jpg",
@@ -3232,7 +3232,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 2700,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-55921-0.jpg",
@@ -3296,7 +3296,7 @@
       "subtitle": "มีระยะสัญญาในคำบรรยาย · ยังไม่ยืนยันระยะเดินจริง",
       "indicativePrice": 9500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-53514-0.jpg",
@@ -3353,7 +3353,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-21831-0.jpg",
@@ -3413,7 +3413,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 7000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-42399-0.jpg",
@@ -3436,9 +3436,9 @@
           "facts": "หอพัก ณ สว่าง เลขที่ 54 ซอยสว่าง 5 ที่เดียวกับต้นทางหลัก; เว็บแสดง 8,000–10,000 บาท ไม่ระบุขั้นต่ำสัญญา จึงไม่แทนราคาเช่าสั้น",
           "checkedAt": "2026-11-06T06:09:39+00:00",
           "posterUpdated": null,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "e86d958a08110b431e2f460e41c64a37bc69b25a0ea4bbd3b900dd72f6a56e57",
           "checkError": "HTTP Error 429: Too Many Requests"
         }
@@ -3486,7 +3486,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 8000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-5758-0.jpg",
@@ -3510,10 +3510,10 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "2a915730b852aece741e054e30f1038aa1774f2a1a8b52071b698630fd8f75a4",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
           "checkError": "HTTP Error 429: Too Many Requests",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00"
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00"
         }
       ]
     },
@@ -3555,7 +3555,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-40251-0.jpg",
@@ -3579,7 +3579,7 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "0b09c3e820c15ed659fcdb7b5e272cde9acfb9ba511546e9968081acb37f2734",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "error",
           "checkError": "HTTP Error 429: Too Many Requests",
           "lastFetchedAt": "2026-11-07T14:01:34+00:00"
@@ -3627,7 +3627,7 @@
       "subtitle": "ราคาเช่าสั้นและเส้นทางเดินต้องตรวจเพิ่มเติม",
       "indicativePrice": 9000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/rh-40766-0.jpg",
@@ -3651,7 +3651,7 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "57b163b24b57b39dc8863c24454d0502a88a515ae6a7beb83de6d2513dad3506",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "error",
           "checkError": "HTTP Error 429: Too Many Requests",
           "lastFetchedAt": "2026-11-07T14:01:34+00:00"
@@ -3700,7 +3700,7 @@
       "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
       "indicativePrice": 5300,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/hongpak-st-food-room.jpg",
@@ -3717,7 +3717,7 @@
           "checkedAt": "2026-11-06T06:07:59+00:00",
           "posterUpdated": null,
           "fingerprint": "eedd9598bc74ce18f54f22c17a19ac2c8311d8c8f748de7655495ed3175693cd",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "error",
           "checkError": "HTTP Error 429: Too Many Requests",
           "lastFetchedAt": "2026-11-07T14:01:34+00:00"
@@ -3767,7 +3767,7 @@
       "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
       "indicativePrice": 5000,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/hongpak-one-rooms.jpg",
@@ -3821,7 +3821,7 @@
       "subtitle": "เบาะแสจากประกาศตรง · ต้องยืนยันสัญญาและระยะเดิน",
       "indicativePrice": 7500,
       "checkStatus": "ok",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "photos": [
         {
           "url": "assets/hongpak-paradise-place.jpg",
@@ -3883,7 +3883,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "1c1c3192f77554c46fed5185cfc3afdcb78ddc82176558541fdc301aebc6d272",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 23 - 25 ตร.ม. 7,000 - 8,500 บาท/เดือน"
@@ -3931,7 +3931,7 @@
       "photos": [],
       "additionalSources": [],
       "sourceFingerprint": "d5db79dfe877e006eddf53b95827719bf0a258fd939f96ac5de6251aa96ffc93",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 31 ตร.ม. 9,500 - 12,000 บาท/เดือน"
@@ -3986,7 +3986,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "fbb5ff3b6549f4be8257175f15b4db27bc31038f56d4f2aa20af6bb30dc48c3a",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 20 ตร.ม. 1 นอน 1 น้ำ 6,500 - 8,500 บาท/เดือน"
@@ -4040,14 +4040,14 @@
           "facts": "ระบุรับรายสัปดาห์/รายเดือน และผู้ประกาศแจ้งเดิน 200 ม. ถึง MRT คลองเตย; ประกัน 1 เดือน ล่วงหน้า 1 เดือน ค่าไฟ 10 บาท/หน่วย น้ำ 200 บาท/เดือน; ตารางห้อง 7,500–9,000 บาทเป็นสัญญา 1 ปี ยังไม่มีอัตราแยกเช่าสั้น",
           "checkedAt": "2026-11-06T06:10:15+00:00",
           "posterUpdated": null,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "3f9c937d716293a51b8902bf2906087da265efefb11de85afe53a9e842e27b56"
         }
       ],
       "sourceFingerprint": "0cbef08835abc396b739ffe5d1d35332c677f394865fbb70b5f1238222784009",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 42 ตร.ม. 12,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 24 - 32 ตร.ม. 1 นอน 1 น้ำ 8,000 - 14,000 บาท/เดือน 2 Bedroom (แยกห้องนอน) 42 ตร.ม. 12,000 บาท/เดือน",
@@ -4097,7 +4097,7 @@
       "photos": [],
       "additionalSources": [],
       "sourceFingerprint": "0d3069495e77e3af28b0928a398b9880264cd5ed6472f57130c2e46016dc3823",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 4,000 - 5,000 บาท/เดือน"
@@ -4145,7 +4145,7 @@
       "photos": [],
       "additionalSources": [],
       "sourceFingerprint": "9eb41b1fce4023cbd12ddf9c9bb8022dbbfa061a2677b6b27f68ff3d88d9c43a",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 24 ตร.ม. 8,000 - 15,000 บาท/เดือน"
@@ -4200,7 +4200,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "51bbab56f705b0e8d07286fc791cd26eb4419f7c1ddb868a40bb4d0012c7ad3f",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 25 ตร.ม. 8,000 - 13,000 บาท/เดือน"
@@ -4248,7 +4248,7 @@
       "photos": [],
       "additionalSources": [],
       "sourceFingerprint": "71a0088e27a683eaccea877a03bf1e2f934206b4c583ad6ef52bfdeb4822f970",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 25 - 34 ตร.ม. 5,000 - 7,000 บาท/เดือน"
@@ -4303,7 +4303,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "460435166b56462ac060b8e9d9ea8756fa039c791b585fc48ef553c0522dff68",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 2,500 - 5,000 บาท/เดือน"
@@ -4358,7 +4358,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "08eec27c8ef9d5122fb0d48e0f3033b5067436a35765af1ae8ca693cd376a1a6",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 25 - 32 ตร.ม. 8,900 - 18,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 34 - 45 ตร.ม. 1 นอน 1 น้ำ 14,000 - 20,000 บาท/เดือน 2 Bedroom (แยกห้องนอน) 65 ตร.ม. 25,000 - 30,000 บาท/เดือน"
@@ -4413,7 +4413,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "42074b476f160efe557aba4782f7489ebb50ec66e1ea04cd6bb6c9c8b8b27dad",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 7,800 - 8,000 บาท/เดือน"
@@ -4468,7 +4468,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "d6070c21b5886a61c1f73c5d0040ac878bca11afa21dc0127e2bb54c71790c97",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 5,900 บาท/เดือน"
@@ -4523,7 +4523,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "a09a53d45ac81833e4d637178355b57925da292e4251bae741c5851bafbbcf44",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 28 ตร.ม. 4,500 - 5,000 บาท/เดือน"
@@ -4577,7 +4577,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "21221c86a6c80fea03255528591a51506ac97b469b06cb54ca711135750f5c80",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 24 ตร.ม. 6,900 บาท/เดือน"
@@ -4631,7 +4631,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "7b9849a147e413290d5a11408225efa9becaf705c305a300eae4cb8094fb852a",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 20 - 38 ตร.ม. 10,000 - 15,000 บาท/เดือน"
@@ -4686,7 +4686,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "6098a215b6c2fbacabf06d7a973af7912e1cbbf84e5ba3fb5c27d25cdc602b55",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 22 ตร.ม. 7,000 - 9,000 บาท/เดือน 1 Bedroom (แยกห้องนอน) 47 ตร.ม. 1 นอน 1 น้ำ 12,000 - 22,000 บาท/เดือน"
@@ -4741,7 +4741,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "7e60d40fbec30daa9eaee3276ec5bcf5302dc30eafd4293c6e4782e952501876",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 5,500 บาท/เดือน"
@@ -4797,7 +4797,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "97847a7efe73f344938db0e92ba15408bc64353f516ec7a7a0403ff7281907d2",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 10 ตร.ม. 1 นอน 1 น้ำ 7,000 - 15,000 บาท/เดือน"
@@ -4853,7 +4853,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "0412b0207614b7eef015632b872f96341c5b40e36753ab7cc74d2fafcdbf64db",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 7,000 - 12,000 บาท/เดือน"
@@ -4908,7 +4908,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "002544130f82c8577bb2b283d392b4c5196984ef56cd2750ec9ff7f8218ddbab",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 30 ตร.ม. 8,000 - 12,000 บาท/เดือน"
@@ -4962,7 +4962,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "83df844fd4b0d56a4a96c6c4b048b1a4e4780e0f2ceacff8dff1f84ba760ce92",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 26 ตร.ม. 6,500 - 8,000 บาท/เดือน"
@@ -5017,7 +5017,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "08882d19930d7810f996aa1c81c7c3f0f7e8df2e8ea1b2400ffe132e9d8c1eb6",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "needsReview": true,
@@ -5072,7 +5072,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "b96be1e7298e7597f7be92455c74c11d746736e6f3c6e085825a97102c67d26b",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 24 - 36 ตร.ม. 8,000 - 15,000 บาท/เดือน"
@@ -5127,7 +5127,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "31b99d242a9761c2d19022f117b846a55e0e4d983eebdecb5c671a3e8e3602f7",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 8,500 - 12,000 บาท/เดือน"
@@ -5182,7 +5182,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "6e5873b703248e346665d84f447f4ca90f27d8507d16b0dd1662b4ba96781ace",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 3,500 - 5,500 บาท/เดือน"
@@ -5230,7 +5230,7 @@
       "photos": [],
       "additionalSources": [],
       "sourceFingerprint": "527025a87926d12b2d5d8b9a0265bb574e10e625a5e268310c00381a1980d4fc",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 25 - 30 ตร.ม. 10,000 - 15,000 บาท/เดือน"
@@ -5285,7 +5285,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "befc7e53bfd244a9328c21da2346bff051ae56abc31d7645afab40891efc8556",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 9,000 - 12,000 บาท/เดือน"
@@ -5340,7 +5340,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "3d474869facebd7cc44f069e7ba488085defe8fb91bf236f81fa93a4aece4934",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 7,500 บาท/เดือน"
@@ -5395,7 +5395,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "8eaf293d14fc046eb63cedd2f8af46da84ca15d3b675bf128f1cdb6fc78f4d9e",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 12 - 14 ตร.ม. 1 นอน 1 น้ำ 5,000 - 15,000 บาท/เดือน"
@@ -5450,7 +5450,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "c943ef087657d5eb16f819abea91d7b1dfade3e9b85220e901fc4f7e6cd244d1",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 22 ตร.ม. 1 นอน 1 น้ำ 4,800 - 5,400 บาท/เดือน"
@@ -5504,7 +5504,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "c563785b005cf8618aa798115e0bb347f283a21db967fafd4c7e98102fe4300d",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 5,000 - 8,000 บาท/เดือน"
@@ -5560,7 +5560,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "f8e9497878891cff912495fdf50fbd7dcf67f05ec637d33bacd7d1822e73c343",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "needsReview": true,
@@ -5616,7 +5616,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "76db0b27de6fdab7ffc2cfcf1a805e24318e7f7d6bee0f43c22f85560b33cf1d",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "1 Bedroom (แยกห้องนอน) 1 นอน 1 น้ำ 9,000 บาท/เดือน"
@@ -5664,7 +5664,7 @@
       "photos": [],
       "additionalSources": [],
       "sourceFingerprint": "0eb42b3c17a34eb7715cd0006d4e28da4f750793c70e4d7db34f997ba94a000b",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 2,400 - 3,500 บาท/เดือน"
@@ -5719,7 +5719,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "b8311cf6e570356bc01d6bfbeb4c4288bd3796a70d06b9c6453e46b56b304577",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 30 ตร.ม. 8,500 - 11,500 บาท/เดือน"
@@ -5773,7 +5773,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "c42dd8758342e13d2315f67f25d133f400296c1b7c849de38da47025095a1607",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 32 ตร.ม. 10,000 บาท/เดือน"
@@ -5833,9 +5833,9 @@
           "facts": "ระบุรับรายวัน/เดือน/ปี และเดินจาก MRT คลองเตย 700 ม. ค่าประกัน 1 เดือน ล่วงหน้า 1 เดือน; ตาราง 8,000–9,000 บาทเป็นสัญญา 1 ปี ช่องเช่าสั้นไม่ระบุ จึงไม่ใช้เป็นราคา 1–4 เดือน",
           "checkedAt": "2026-11-06T06:10:15+00:00",
           "posterUpdated": null,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "576b66b5ae5c3fa5a2abec80cef164d64fb3ff2f60f2285d069811e186996df9"
         },
         {
@@ -5844,14 +5844,14 @@
           "facts": "ที่เดียวกันจากชื่อและซอยศรีอักษร; ระบุเดิน 700 ม. ค่าไฟ 10 บาท/หน่วย น้ำ 30 บาท/หน่วย แต่หน้าเว็บยังมีโปรโมชั่นหมดอายุ 30 พ.ย. 2560 จึงต้องยืนยันเงื่อนไขปัจจุบันใหม่",
           "checkedAt": "2026-11-06T06:10:15+00:00",
           "posterUpdated": null,
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "bfda95f3d5b7214f1ac24353666b1fd0796979c972c0f59dae1462d88be3ef2e"
         }
       ],
       "sourceFingerprint": "f27ea2b4c077da892b4796ece31a3b1a54f6411197cac80edcfc35353263ac32",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 25 ตร.ม. 7,900 - 8,900 บาท/เดือน",
@@ -5931,7 +5931,7 @@
             "availability": "unknown",
             "sourceRoomText": "Studio (สตูดิโอ) 25 ตร.ม. 6,000 - 8,000 บาท/เดือน"
           },
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "error",
           "checkError": "HTTP Error 429: Too Many Requests",
           "lastFetchedAt": "2026-11-07T14:01:34+00:00",
@@ -6003,7 +6003,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "b12b8dedda7f54cde9f8f17b98ad6c62363e28c34cdb775a749ee1d609e8ab85",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 16 - 25 ตร.ม. 3,800 - 6,000 บาท/เดือน"
@@ -6057,7 +6057,7 @@
       ],
       "additionalSources": [],
       "sourceFingerprint": "c89b99ff690eac206af4f302229743386a70799f31182cd9fbfc171882d7716d",
-      "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+      "lastFetchedAt": "2026-11-07T15:13:02+00:00",
       "checkStatus": "ok",
       "checkError": null,
       "sourceRoomText": "Studio (สตูดิโอ) 10 ตร.ม. 7,000 - 12,000 บาท/เดือน"
@@ -6124,9 +6124,9 @@
           "url": "https://www.thaiapartment.com/อพาร์ทเม้นท์/เดอะบลูมส์-อพาร์ทเม้นท์-โฮเทล-สาทร-3726",
           "role": "เทียบชื่อและที่ตั้ง ไม่ใช้ราคาทดแทนโพสต์ Facebook",
           "name": "ThaiApartment · เทียบชื่อและที่ตั้ง",
-          "lastAttemptAt": "2026-11-07T14:11:06+00:00",
+          "lastAttemptAt": "2026-11-07T15:13:02+00:00",
           "checkStatus": "ok",
-          "lastFetchedAt": "2026-11-07T14:11:06+00:00",
+          "lastFetchedAt": "2026-11-07T15:13:02+00:00",
           "fingerprint": "c77f3ff7362e809ac95f7148e945f8a75bce74086f2f3ccf130eefe50dd6d103"
         }
       ],
@@ -6175,8 +6175,8 @@
       "walkingClaim": "ผู้ประกาศอ้างระยะเดิน 650 ม. ถึง MRT ศูนย์ฯ สิริกิติ์; ยังไม่ตรวจเส้นทางและทางเข้า",
       "oneBangkok": "จาก MRT ศูนย์ฯ สิริกิติ์ 2 สถานีถึงลุมพินี; ยังไม่ตรวจเวลาเดินรวม",
       "posterUpdated": null,
-      "posterDateLabel": "รอบ 7 พ.ย. 2569 หน้าโพสต์ตรงแสดง 3 พ.ย. 2569 เวลา 19:41 น.; รอบก่อนเคยแสดง 04:41 น. วันเดียวกัน ป้ายเวลาต่างกัน ไม่พบวันแก้ไข",
-      "lastFetchedAt": "2026-11-07T10:09:33Z",
+      "posterDateLabel": "รอบ 7 พ.ย. 2569 เวลา 22:11 น. หน้าโพสต์ตรงแสดง 3 พ.ย. 2569 เวลา 04:41 น. พร้อมป้าย 4 วันที่แล้ว; ผลค้นและรอบก่อนเคยแสดง 19:41 น. วันเดียวกัน ป้ายเวลาต่างกัน ไม่พบวันแก้ไข",
+      "lastFetchedAt": "2026-11-07T15:11:38Z",
       "checkStatus": "manual",
       "checkError": null,
       "address": "ซอยสายน้ำทิพย์ 2 สุขุมวิท 22 เขตคลองเตย",
@@ -6192,8 +6192,8 @@
       "indicativePrice": 9000,
       "availableFrom": "2027-09-22",
       "floor": "2",
-      "lastReviewedAt": "2026-11-07T10:09:33Z",
-      "curationRevision": "e10fd2ed6c6a11bd00db1ab596c17eac7a1b12363662f5418649f0ee58c0dff6"
+      "lastReviewedAt": "2026-11-07T15:11:38Z",
+      "curationRevision": "c16493b750745745aea62b851ced5ea6dca67bd6ebdc5eb565fb54f52e29f189"
     },
     {
       "id": "fb-supalai-premier-samyan",
@@ -6823,15 +6823,15 @@
       "source": "RentHub",
       "station": "ลุมพินี",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ลุมพินี",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:28+00:00",
       "status": "ok",
-      "candidates": 11
+      "candidates": 10
     },
     {
       "source": "RentHub",
       "station": "ลุมพินี",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ลุมพินี",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:28+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6839,7 +6839,7 @@
       "source": "Hongpak",
       "station": "ลุมพินี",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ลุมพินี/",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:28+00:00",
       "status": "ok",
       "candidates": 4
     },
@@ -6847,7 +6847,7 @@
       "source": "RentHub",
       "station": "คลองเตย",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-คลองเตย",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:28+00:00",
       "status": "ok",
       "candidates": 23
     },
@@ -6855,7 +6855,7 @@
       "source": "RentHub",
       "station": "คลองเตย",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-คลองเตย",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:29+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6863,7 +6863,7 @@
       "source": "Hongpak",
       "station": "คลองเตย",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-คลองเตย/",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:29+00:00",
       "status": "ok",
       "candidates": 4
     },
@@ -6871,7 +6871,7 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:30+00:00",
       "status": "ok",
       "candidates": 16
     },
@@ -6879,7 +6879,7 @@
       "source": "RentHub",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์",
-      "checkedAt": "2026-11-07T14:11:21+00:00",
+      "checkedAt": "2026-11-07T15:13:30+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6887,7 +6887,7 @@
       "source": "Hongpak",
       "station": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-ศูนย์การประชุมแห่งชาติสิริกิติ์/",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:30+00:00",
       "status": "ok",
       "candidates": 2
     },
@@ -6895,7 +6895,7 @@
       "source": "RentHub",
       "station": "สามย่าน",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สามย่าน",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:30+00:00",
       "status": "ok",
       "candidates": 7
     },
@@ -6903,7 +6903,7 @@
       "source": "RentHub",
       "station": "สามย่าน",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สามย่าน",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:31+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6911,7 +6911,7 @@
       "source": "Hongpak",
       "station": "สามย่าน",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สามย่าน/",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:31+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -6919,15 +6919,15 @@
       "source": "RentHub",
       "station": "สีลม",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สีลม",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:31+00:00",
       "status": "ok",
-      "candidates": 7
+      "candidates": 6
     },
     {
       "source": "RentHub",
       "station": "สีลม",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สีลม",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:31+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -6935,7 +6935,7 @@
       "source": "Hongpak",
       "station": "สีลม",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สีลม/",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:31+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -6943,7 +6943,7 @@
       "source": "RentHub",
       "station": "หัวลำโพง",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-หัวลำโพง",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:33+00:00",
       "status": "ok",
       "candidates": 7
     },
@@ -6951,7 +6951,7 @@
       "source": "RentHub",
       "station": "หัวลำโพง",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-หัวลำโพง",
-      "checkedAt": "2026-11-07T14:11:22+00:00",
+      "checkedAt": "2026-11-07T15:13:33+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6959,7 +6959,7 @@
       "source": "Hongpak",
       "station": "หัวลำโพง",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-หัวลำโพง/",
-      "checkedAt": "2026-11-07T14:11:23+00:00",
+      "checkedAt": "2026-11-07T15:13:33+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6967,7 +6967,7 @@
       "source": "RentHub",
       "station": "สุขุมวิท",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/mrt-สุขุมวิท",
-      "checkedAt": "2026-11-07T14:11:23+00:00",
+      "checkedAt": "2026-11-07T15:13:33+00:00",
       "status": "ok",
       "candidates": 2
     },
@@ -6975,7 +6975,7 @@
       "source": "RentHub",
       "station": "สุขุมวิท",
       "url": "https://www.renthub.in.th/อพาร์ทเม้นท์-ห้องพัก-หอพัก/ที่พักสัญญาเช่าระยะสั้น/mrt-สุขุมวิท",
-      "checkedAt": "2026-11-07T14:11:23+00:00",
+      "checkedAt": "2026-11-07T15:13:33+00:00",
       "status": "ok",
       "candidates": 1
     },
@@ -6983,7 +6983,7 @@
       "source": "Hongpak",
       "station": "สุขุมวิท",
       "url": "https://www.hongpak.in.th/ที่พักรายเดือน/mrt-สุขุมวิท/",
-      "checkedAt": "2026-11-07T14:11:23+00:00",
+      "checkedAt": "2026-11-07T15:13:33+00:00",
       "status": "ok",
       "candidates": 0
     },
@@ -6991,7 +6991,7 @@
       "source": "ZmyHome",
       "station": "คลองเตย",
       "url": "https://zmyhome.com/search/apartment?id=354&keyword=MRT+คลองเตย&lat=13.7223100000&lng=100.5540010000&type=KeyMarker",
-      "checkedAt": "2026-11-07T14:11:24+00:00",
+      "checkedAt": "2026-11-07T15:13:34+00:00",
       "status": "ok",
       "candidates": 33
     },
@@ -6999,7 +6999,7 @@
       "source": "ZmyHome",
       "station": "สามย่าน",
       "url": "https://zmyhome.com/search/apartment?id=357&keyword=MRT+สามย่าน&lat=13.7324980000&lng=100.5294250000&type=KeyMarker",
-      "checkedAt": "2026-11-07T14:11:24+00:00",
+      "checkedAt": "2026-11-07T15:13:34+00:00",
       "status": "ok",
       "candidates": 22
     },
@@ -7007,7 +7007,7 @@
       "source": "ZmyHome",
       "station": "หัวลำโพง",
       "url": "https://zmyhome.com/search/apartment?id=358&keyword=MRT+หัวลำโพง&lat=13.7376210000&lng=100.5171090000&type=KeyMarker",
-      "checkedAt": "2026-11-07T14:11:24+00:00",
+      "checkedAt": "2026-11-07T15:13:34+00:00",
       "status": "ok",
       "candidates": 22
     }
@@ -7294,7 +7294,7 @@
   },
   "facebookResearch": {
     "schemaVersion": 1,
-    "checkedAt": "2026-11-07T14:09:57Z",
+    "checkedAt": "2026-11-07T15:11:38Z",
     "updateMode": "scheduled_agent",
     "automationNote": "งานเก็บข้อมูลอ่านโพสต์ในสองกลุ่มและส่งผลตรวจเข้า GitHub เพื่อให้ CI/CD ทดสอบและเผยแพร่ เวลาแสดงเป็นเวลาที่อ่านกลุ่มจริง ไม่ใช่เวลาเรียก workflow",
     "scopeNote": "ตรวจกลุ่มสาธารณะทั้งสองและค้นคำเป้าหมาย บันทึกโพสต์ที่อ่านตรงและเกี่ยวข้อง 3 รายการ ไม่ใช่สำเนาโพสต์ทั้งหมดของกลุ่ม",
@@ -7315,14 +7315,15 @@
           "งามดูพลี",
           "สุรวงศ์"
         ],
-        "lastCheckedAt": "2026-11-07T14:09:57Z",
+        "lastCheckedAt": "2026-11-07T15:11:38Z",
         "status": "ok",
         "lastRun": {
           "status": "ok",
-          "checkedAt": "2026-11-07T14:09:57Z",
-          "postsRead": 4,
+          "checkedAt": "2026-11-07T15:11:38Z",
+          "postsRead": 6,
           "queries": [
-            "สามย่าน"
+            "สุขุมวิท",
+            "MRT ลุมพินี"
           ]
         }
       },
@@ -7344,29 +7345,29 @@
           "7,900",
           "สี่พระยา"
         ],
-        "lastCheckedAt": "2026-11-07T14:09:57Z",
+        "lastCheckedAt": "2026-11-07T15:11:38Z",
         "status": "ok",
         "lastRun": {
           "status": "ok",
-          "checkedAt": "2026-11-07T14:09:57Z",
-          "postsRead": 5,
+          "checkedAt": "2026-11-07T15:11:38Z",
+          "postsRead": 4,
           "queries": [
-            "หัวลำโพง"
+            "คลองเตย"
           ]
         }
       }
     ],
     "lastRun": {
       "status": "success",
-      "finishedAt": "2026-11-07T14:09:57Z",
+      "finishedAt": "2026-11-07T15:11:38Z",
       "groupsSucceeded": 2,
       "groupsFailed": 0,
-      "postsRead": 9,
+      "postsRead": 10,
       "postsAdded": 0,
       "postsChanged": 0,
       "postsReviewed": 1,
-      "scope": "ฟีดและผลค้นสามย่าน/หัวลำโพง 9 โพสต์ บางรายการอ่านคำบรรยายย่อ; เปิดทวีสุข2จาก permalink และขยายคำตอบผู้ลงประกาศ ไม่รวมการ์ดบุคคล ไม่อ้างอ่านทั้งกลุ่ม",
-      "summary": "ไม่พบห้องใหม่ตรงเกณฑ์ ราคาลด หรือสัญญา/ห้องว่างเปลี่ยนอย่างมีนัยสำคัญ; ทวีสุข2ยังเต็มตามคำตอบผู้ลงประกาศ ไม่ใช้ข้อความห้องว่างในโพสต์เก่าทับสถานะ; เก็บป้ายวันโพสต์ที่ต่างจากรอบก่อนพร้อมประวัติเดิม; โพสต์ใหม่ห้องส่วนตัวสี่พระยา 18,500 บาทขั้นต่ำ1ปีเกินงบ, Park Origin 50,000 และ Supalai Elite 29,000 เกินงบ, วุฒากาศนอกแนวสถานี และโพสต์คนหาห้องจึงคัดออก; คงข้อมูลทั้ง8รายการและเวลาตรวจของห้องอื่นไว้"
+      "scope": "ฟีดและผลค้นสุขุมวิท/MRT ลุมพินี/คลองเตย 10 โพสต์ บางรายการอ่านคำบรรยายย่อ; เปิด The Nest จาก permalink ไม่รวมการ์ดบุคคล ไม่อ้างอ่านทั้งกลุ่ม",
+      "summary": "ไม่พบห้องใหม่ตรงเกณฑ์ ราคาลด หรือสัญญา/ห้องว่างเปลี่ยนอย่างมีนัยสำคัญ; The Nest ยังราคาอ้างอิง 9,000 บาท ว่าง22ก.ย.2570 สัญญาสั้นไม่ระบุ ระยะ650ม.เป็นคำอ้าง ไม่ใช่ห้องพร้อมอยู่; เก็บป้ายเวลาโพสต์ที่ต่างจากผลค้นและรอบก่อนพร้อมประวัติเดิม; Condolette Pixel 14,500บาทสัญญาปี, The Met270,000บาท, ลุมพินีสวนพลู12,000และMaestro20,000เกินงบ; บางบ่อ ไทรม้า พระนั่งเกล้านอกแนวสถานีจึงคัดออก; รักษาข้อมูลทั้ง8รายการและเวลาตรวจของห้องอื่นไว้"
     }
   }
 }
